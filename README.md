@@ -10,7 +10,6 @@
 <a href="https://github.com/AurevoirXavier">
   <img align="center" width="49%" src="./languages.svg" />
 </a>
-
 <a href="https://github.com/AurevoirXavier">
   <img align="center" width="49%" src="./activity.svg" />
 </a>
