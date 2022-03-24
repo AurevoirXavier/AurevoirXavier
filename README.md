@@ -1,11 +1,16 @@
-**Rust, blockchain engineer from China.**
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./iso-calender.svg" />
+</a>
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./github-metrics.svg" />
+</a>
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./metrics.plugin.notable.svg" />
+</a>
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./languages.svg" />
+</a>
 
----
-
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=AurevoirXavier&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" height="150"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurevoirXavier&hide=php&layout=compact&hide_title=true&theme=tokyonight" height="150"/>
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AurevoirXavier&hide_title=true&theme=tokyonight"/>
-</p>
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./activity.svg" />
+</a>

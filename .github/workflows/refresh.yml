@@ -1,0 +1,112 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 * * * *" }]
+  push: { branches: ["main"] }
+  workflow_dispatch:
+jobs:
+  contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: "yes"
+
+  iso-calender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso-calender.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: ""
+          config_timezone: Europe/Kiev
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: ""
+          config_timezone: Europe/Kiev
+          plugin_languages: yes
+
+  stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: ""
+          config_timezone: Europe/Kiev
+          plugin_stargazers: yes
+
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: ""
+          config_timezone: Europe/Kiev
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 14
+
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: ""
+          config_timezone: Europe/Kiev
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: push, issue, pr, release, review, wiki, member, comment
+
+  metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metadata.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: AurevoirXavier
+          template: classic
+          base: metadata
+          config_timezone: Europe/Kiev
