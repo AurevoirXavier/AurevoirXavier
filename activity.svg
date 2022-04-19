@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="391" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="345" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,6 +19,83 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#553d849</div>
+                                        <div class="message">Bump Deps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#864 Release v0.12.1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>13 files changed <span class="code">++6993 --6994</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d0feb35</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a1d9651</div>
+                                        <div class="message">Update Template</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -29,129 +106,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier-release</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a7d01ef</div>
-                                        <div class="message">Bump Crate Version</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier-release</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a014b36</div>
-                                        <div class="message">Bump Runtime Version</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1183 Track BEEFY</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">darwinia-network/darwinia-common</span></div>
-                                    <div class="comment">We do not have these updates.
-I suggest upgrading the substrate version ASAP.
-And it is a little hard to pick these updates every release.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1183 Track BEEFY</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">darwinia-network/darwinia-common</span></div>
-                                    <div class="comment">https://github.com/paritytech/substrate/commit/a5cd3852d144289777dd4b914b6b3aa7d13bcd85 2022-04-16T12:51:40Z
-https://github.com/paritytech/substrate/commit/2b4818aeb3488658ae85a5e64e9b656945553a72 2022-04-13T10:13:06Z
-https://github.com/paritytech/substrate/commit/01a3ad65d933cc58e79c04d114edb4d6c69b470a 2022-04-03T19:44:29Z
-https://github.com/paritytech/substrate/commit/284d38f9451b8fe52d780227ebb8d4776f2db017 2022-04-03T19:34:13Z
-https://github.com/paritytech/substrate/commit/56dc6d1a3d9ae166f47368f9006ff4fe5457d889 2022-04-01T08:50:11Z
-https://github.com/paritytech/substrate/commit/411d9bb4c551c65acb55bc67443f05fe631f9330 2022-03-25T15:31:42Z
-https://github.com/paritytech/substrate/commit/2892d23e3f0d254dcd8068852c365e7dcbd48386 2022-03-18T15:25:16Z
-https://github.com/paritytech/substrate/commit/a8b6a5d6a378425b6ec24369579155422fe04dc8 2022-03-04T16:22:52Z
-https://github.com/paritytech/substrate/commit/7a742c6f7746f12e1340e9f401fadc529575a096 2022-03-02T20:13:24Z
-https://github.com/paritytech/substrate/commit/d14784fee8eddead26efc8617c512cc8775bfde5 2022-03-01T13:35:23Z
-https://github.com/paritytech/substrate/commit/f90dfc63a41f27ed36ba482582d3a913a61217ff 2022-03-01T09:22:10Z
-https://github.com/paritytech/substrate/commit/c22fce5a311beede13479c9a00cca85d823b6b00 2022-02-24T14:34:34Z
-https://github.com/paritytech/substrate/commit/f54e1a2f294c9baa1d8d335c18a7c3e49c47cf6b 2022-02-23T09:17:47Z
-https://github.com/paritytech/substrate/commit/9d962620db0dc21837ff5c346789adf35a64a678 2022-02-15T13:19:39Z
-https://github.com/paritytech/substrate/commit/e9d79daaa782f41680ada04719151371a737c6fb 2022-02-09T09:12:55Z
-https://github.com/paritytech/substrate/commit/4eb7758750fd47bc9da194ee30a7eaf941f99360 2022-02-08T19:27:08Z
-https://github.com/paritytech/substrate/commit/1532b72162240edf0d41ecb39e66e2a1f5a73b6f 2022-02-08T14:10:35Z
-https://github.com/paritytech/substrate/commit/6611740479b52e4c52e178dc1af62c34d0c69e12 2022-02-01T19:38:02Z
-https://github.com/paritytech/substrate/commit/2c4549689dbb86c23725dac2f82af35faa07c9f6 2022-01-31T20:04:12Z
-https://github.com/paritytech/substrate/commit/f2f99707af3c3c0ba7b5d0cf1bbd48d8408474c2 2022-01-25T19:48:46Z
-https://github.com/paritytech/substrate/commit/f318350b6410ef47e438aae24c0b4779373d0a7b 2022-01-20T11:16:04Z
-https://github.com/paritytech/substrate/commit/823c2533612e9bab7ac5e4f57a7c5daa762c00a5 2022-01-20T10:02:22Z
-https://github.com/paritytech/substrate/commit/7409589ab78e7cb508db873dd6384634d667b8f5 2022-01-06T13:43:11Z
-https://github.com/paritytech/substrate/commit/0f070c8020fad552247fd4b43c1a6a4506e456b5 2022-01-05T17:01:44Z
-https://github.com/paritytech/substrate/commit/cd3d2b1b65929bafa699953094bcd8b9fe7d3dfc 2022-01-04T09:05:01Z
-https://github.com/paritytech/substrate/commit/ded44948e2d5a398abcb4e342b0513cb690961bb 2022-01-03T08:22:14Z
-https://github.com/paritytech/substrate/commit/ba973636c86b8038ad0c8bfdbd4f4d496e86adaa 2021-12-26T14:48:51Z
-https://github.com/paritytech/substrate/commit/82cc3746450ae9722a249f4ddf83b8de59ba6e0d 2021-12-21T14:34:32Z
-https://github.com/paritytech/substrate/commit/433bcb1dc3739edcf55994e517b067d039757f17 2021-12-21T10:17:06Z
-https://github.com/paritytech/substrate/commit/0bc1da8a588c06bbfcf3fc23ea0f7c39b1321427 2021-12-20T13:57:32Z
-https://github.com/paritytech/substrate/commit/ce92e8060b179ea48f1e1b3edbe8c4d296a97e30 2021-12-17T08:30:58Z
-https://github.com/paritytech/substrate/commit/4db2f22446edc340374a0e16243136b7222b0d0e 2021-12-16T03:06:11Z
-https://github.com/paritytech/substrate/commit/1306573829700eb5912e342e4372a3735a0b0679 2021-12-15T19:28:18Z
-https://github.com/paritytech/substrate/commit/50ab759f7a3194173ce8da0937ec2d888dee10e0 2021-12-15T11:36:17Z
-https://github.com/paritytech/substrate/commit/55cd07a7e22c26932f7bd16b87ea5a7569e38eb4 2021-12-13T14:03:59Z
-https://github.com/paritytech/substrate/commit/a991b0aecba1635861eaf104a7912f55fc1f323c 2021-12-11T07:13:18Z
-https://github.com/paritytech/substrate/commit/8a3434bb5e8f204107644cd32f97f5ba76d8714f 2021-12-09T12:22:54Z
-https://github.com/paritytech/substrate/commit/1a30fa202e00dfeac07cb648e1f557ce938d5f1a 2021-12-09T10:21:27Z
-https://github.com/paritytech/substrate/commit/25e636bcbf756afb4d4534c62ad9e9b806e98be7 2021-12-08T20:06:50Z
-https://github.com/paritytech/substrate/commit/e9ebf0c00fde8657a3a5989ad099e6272427ddd2 2021-12-03T21:48:11Z
-https://github.com/paritytech/substrate/commit/8bf9836f3a709f220ff74be23a4004146480eb79 2021-12-01T11:45:36Z
-https://github.com/paritytech/substrate/commit/120bd65e3ee8113f83bf77843ed239daf8cdbbfd 2021-11-25T10:26:10Z
-https://github.com/paritytech/substrate/commit/35fcfd66d380c8336030810030d8f09171b51734 2021-11-22T10:48:53Z
-https://github.com/paritytech/substrate/commit/6d61f48427ae40b11dbebc2b548818773c3c7f8e 2021-11-17T12:46:10Z
-https://github.com/paritytech/substrate/commit/c45c1cbfde0037e6ef650146789a0aa0190fdefb 2021-11-12T13:15:01Z
-https://github.com/paritytech/substrate/commit/3374a73c9824638b8270062b104906a714ea14f9 2021-11-10T16:30:24Z
-https://github.com/paritytech/substrate/commit/3524f6e692d568fae60c26ec8156f3fb585532ec 2021-11-04T19:58:49Z
-https://github.com/paritytech/substrate/commit/75458291756cad3b51346cd098a3dfcd53b5d475 2021-11-04T18:54:48Z</div>
                                 </div>
                             </section>
                         </div>
