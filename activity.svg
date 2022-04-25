@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="385" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier-currency</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3972cb0</div>
-                                        <div class="message">Rewrite</div>
+                                        <div class="sha">#fc0d1ac</div>
+                                        <div class="message">Fix Tests</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-currency</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b8ea494</div>
+                                        <div class="message">Remove Debug Code</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,12 +63,13 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#36 WeightInfo in Grandpa + Messsages pallets should be `pub use`</span>
+                                        <span class="issue">#1187 Use Parity `LockableCurrency`</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by 04637 in <span class="repo">darwinia-network/darwinia-bridges-substrate</span></div>
-                                    <div class="comment">You could make a PR to branch polkadot-v0.9.16.</div>
+                                    <div>opened by AurevoirXavier in <span class="repo">darwinia-network/darwinia-common</span></div>
+                                    <div class="comment">Please review the rewritten logic (without struct changes) first.
+Then decide if we should make some migration.</div>
                                 </div>
                             </section>
                         </div>
@@ -66,28 +87,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier-currency</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c5444c7</div>
-                                        <div class="message">Add Some Comments</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-common</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier-currency</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab609d0</div>
-                                        <div class="message">Rewrite `sync_authorities_change`</div>
+                                        <div class="sha">#f314430</div>
+                                        <div class="message">Fix Tests</div>
                                     </div>
                                 </div>
                             </section>
@@ -106,8 +107,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier-currency</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc7d1d8</div>
-                                        <div class="message">Suppress Warnings</div>
+                                        <div class="sha">#3972cb0</div>
+                                        <div class="message">Rewrite</div>
                                     </div>
                                 </div>
                             </section>
