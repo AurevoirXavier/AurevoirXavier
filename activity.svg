@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="439" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="732" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,316 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 85 commits in
+                                        <span class="repo">darwinia-network/substrate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1d356ce</div>
+                                        <div class="message">Require crypto scheme for `insert-key` (#9909)
+
+* Require crypto scheme for `insert-key`
+
+We should not "guess" the scheme as this can depend on the
+implementation of the runtime etc.
+
+* FMT</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddc2c6e</div>
+                                        <div class="message">chore: refresh of the substrate_builder image (#9808)
+
+* chore: refresh of the substrate_builder image
+
+fix #9715
+
+* chore: renaming +  build script
+
+* Fix spaces/tabs
+
+* Add doc
+
+* Remove non binary
+
+* Update docker/substrate_builder.Dockerfile
+
+Co-authored-by: Denis Pisarev &lt;denis.pisarev@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#125092f</div>
+                                        <div class="message">Introduce block authorship soft deadline (#9663)
+
+* Soft limit.
+
+* Add soft deadline tests.
+
+* cargo +nightly fmt --all
+
+* Fix sc-service test.
+
+* Improving tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a30e1b2</div>
+                                        <div class="message">Rework Transaction Priority calculation (#9834)
+
+* Add transaction validity docs.
+
+* Re-work priority calculation.
+
+* Fix tests.
+
+* Update frame/transaction-payment/src/lib.rs
+
+Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
+
+* cargo +nightly fmt --all
+
+* Fix an obvious mistake :)
+
+* Re-work again.
+
+* Fix test.
+
+* cargo +nightly fmt --all
+
+* Make VirtualTip dependent on the transaction size.
+
+* cargo +nightly fmt --all
+
+* Update frame/transaction-payment/src/lib.rs
+
+Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
+
+* Fix compilation.
+
+* Update bin/node/runtime/src/lib.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
+
+Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c0c9c9</div>
+                                        <div class="message">Do not propagate host RUSTFLAGS when checking for WASM toolchain (#9926)
+
+* Do not propagate host RUSTFLAGS when checking for WASM toolchain
+
+* Update utils/wasm-builder/src/prerequisites.rs
+
+* Update utils/wasm-builder/src/prerequisites.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca90ea7</div>
+                                        <div class="message">Small quoting comment fix (#9927)
+
+Tiny quotes fix that snuck in lately (something I picked up elsewhere in document generation)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5413a1f</div>
+                                        <div class="message">add clippy to CI (#9694)
+
+* Focus on correctness lints. This relies on a compiler patch that landed 8th July 2021.
+If people are using an earlier version of the compiler everything will still work unless they try and run clippy.
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
+Co-authored-by: Denis Pisarev &lt;denis.pisarev@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9be8fdd</div>
+                                        <div class="message">Ensure BeforeBestBlockBy voting rule accounts for base (#9920)
+
+* Ensure BeforeBestBlockBy voting rule accounts for base
+
+* fmt
+
+Co-authored-by: Andronik Ordian &lt;write@reusable.software&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c775344</div>
+                                        <div class="message">rm `.maintain` lock (#9919)
+
+* rm maintain lock
+
+* ignore template gen lockfile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df6a1ad</div>
+                                        <div class="message">Downstream `node-template` pull (#9915)
+
+* downstream node template pull: README updated, add shell.nix
+
+* consistant cargo.toml style
+
+* Update bin/node-template/shell.nix
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdce20c</div>
+                                        <div class="message">Implement core::fmt::Debug for BoundedVec (#9914)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c60ccc0</div>
+                                        <div class="message">Quickly skip invalid transactions during block authorship. (#9789)
+
+* Support skipping invalid transactions in the iterator.
+
+* Expose concrete iterator.
+
+* cargo +nightly fmt --all
+
+* More consistent placement.
+
+* Update Cargo.lock
+
+* Pass transaction to 'report_invalid'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#540b4fd</div>
+                                        <div class="message">Add SS58 prefix for Automata (#9805)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1e45a6</div>
+                                        <div class="message">Clean up sc-peerset (#9806)
+
+* Clean up sc-peerset
+
+* cargo +nightly fmt --all
+
+* Nit
+
+* Nit
+
+* .
+
+* Nit
+
+* .
+
+* Apply suggestions from code review
+
+* .
+
+* Update client/peerset/src/peersstate.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d0a917</div>
+                                        <div class="message">Test each benchmark case in own #[test] (#9860)
+
+* Generate one #[test] fn per bench case.
+
+* Update benchmark macro syntax in frame pallets.
+
+* Explain new benchmark macro syntax in example pallet.
+
+* support with and without a semicolon
+
+* update pallets to use individual tests
+
+* migrate staking too
+
+* migrate more pallets
+
+* fix up democracy and use individual tests
+
+* Fix comment
+
+* Put println message in panic
+
+* Remove `another_set_dummy` from doc
+
+`another_set_dummy` is not present in the benchmarking.rs (anymore).
+
+* Update doc for benchmarks macro
+
+* Update doc for impl_benchmark_test_suite macro
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2e7ae3</div>
+                                        <div class="message">Add build with docker section to README (#9792)
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf9683e</div>
+                                        <div class="message">Simple Trait to Inspect Metadata (#9893)
+
+* simple trait to inspect metadata
+
+* import vec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3302199</div>
+                                        <div class="message">Pallet Assets: Create new asset classes from genesis config (#9742)
+
+* Pallet Assets: Allow creating asset classes from genesis config
+
+* Add accounts and metadata to genesis config
+
+* whitespace fixes
+
+* Update more chainspecs
+
+* Run rustfmt over code
+
+* More formatting fixes
+
+* Update frame/assets/src/lib.rs
+
+Improve error message
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
+
+* Update frame/assets/src/lib.rs
+
+Improve error message
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b95e23</div>
+                                        <div class="message">doc: subkey usage (#9905)
+
+* CI: md styling
+
+* CI: add container usage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70b4a8a</div>
+                                        <div class="message">Silence alert about large-statement-fetcher (#9882)
+
+* Silence alert about large-statement-fetcher
+
+That task is not continuous and behaving exactly as desired.
+
+* Get rid of rule completely
+
+- Pierre thinks it does not add any value
+- Basti rightly complains that Polkadot specific exceptions make little
+  sense in the Substrate repo.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -98,29 +408,6 @@ It looks like
                                         <code>binary file + wasm file</code>
                                         .
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#448 Support Multi Sub Targets</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">cross-rs/cross</span></div>
-                                    <div class="comment">I'm polite, and I'm patient.
-I opened this two years ago.
-And I gave you an example.
-But I only get 'why not build every target separately' again and again.
-If you try that, you will know that not going to work.
-After that, if you point out that my solution is not general enough I'll totally accept it.
-And thanks for your time.</div>
                                 </div>
                             </section>
                         </div>
