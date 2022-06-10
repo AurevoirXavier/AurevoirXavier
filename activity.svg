@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1377" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="861" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,46 +22,199 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">darwinia-network/substrate</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
+                                    <div>on branch <span class="code">xavier-v0.12.3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d36f7f</div>
-                                        <div class="message">Try Fix</div>
+                                        <div class="sha">#0611098</div>
+                                        <div class="message">Fix Compile</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9953a88</div>
+                                        <div class="message">Try Merge
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#484ce9f</div>
+                                        <div class="message">Try Merge</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cafe12e</div>
-                                        <div class="message">Switch to using ss58-registry crate (#9755)
-
-* Switch to using ss58-registry crate
-* Custom(42) is now eq to Substrate
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-Co-authored-by: André Silva &lt;123550+andresilva@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#b31765c</div>
+                                        <div class="message">bump messages dep (#1268)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1403b37</div>
-                                        <div class="message">node-template: Do not provide benchmarking host functions by default (#10005)</div>
+                                        <div class="sha">#d912911</div>
+                                        <div class="message">filter message nonce for s2s (#1250)
+
+* filter message nonce for s2s
+
+* spell err
+
+* fix test
+
+Co-authored-by: HackFisher &lt;hackfisher@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e308d0f</div>
-                                        <div class="message">pow: add Version for quick-check of metadata state and refactor lock handling (#9698)
-
-* pow: add Version for quick-check of metadata state and refactor lock handling
-
-* typo: mut self -&gt; self
-
-* Run rustfmt
-
-* typo: grammar</div>
+                                        <div class="sha">#c03b5a1</div>
+                                        <div class="message">Add Ethereum precompiles (#1264)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#66ba332</div>
-                                        <div class="message">sc-offchain: Fix flaky http tests (#10000)</div>
+                                        <div class="sha">#2f47973</div>
+                                        <div class="message">Add bls12-381 and MPT precompile (#1222)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f084c50</div>
+                                        <div class="message">sync changes for pangolin and panroro (#1260)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0bb5ae</div>
+                                        <div class="message">parachain backing pallet (#1243)
+
+* init
+
+* rmv unused pkg
+
+* add benchmark
+
+* format
+
+Co-authored-by: HackFisher &lt;hackfisher@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58e3720</div>
+                                        <div class="message">Correct Total Unbonding Calculation (#1257)
+
+* Correct Total Unbonding Calculation
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;
+
+* Remove Old Migration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e55051</div>
+                                        <div class="message">Drop `sp_std` (#1253)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93a32c0</div>
+                                        <div class="message">Improve address derive pattern (#1235)
+
+* Rename IntoH160 to DeriveEtheruemAddress and improve it
+
+* refactor DeriveEtheruemAddress
+
+* make 'is_derived_substrate_address' more generic
+
+* add substrate transact call to ethereum pallet
+
+* add blake2b precompile
+
+* Only focus on one thing
+
+* more readable
+
+* change into_h160 in tests to derive_ethereum_address
+
+* Substrate transact pull request patch (#1241)
+
+* Rename
+
+* Rename 2
+
+* Update derive
+
+* Make the address convert better
+
+* Update tests
+
+* Update associated type
+
+* Format
+
+* Enhance addr test
+
+* Add a bool to indicate
+
+* Update call
+
+* Correct rename
+
+* Add validation before execute
+
+* Update error type
+
+* Add 0x0 check
+
+* Add transact call dispatch validation test
+
+* Code clean
+
+* Code clean 2
+
+Co-authored-by: bear &lt;boundless.forest@outlook.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#44497b8</div>
+                                        <div class="message">Bump Deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2e2d04</div>
+                                        <div class="message">Use `Ss58AddressFormatRegistry`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbc48b6</div>
+                                        <div class="message">Fix `no_std`</div>
                                     </div>
                                 </div>
                             </section>
@@ -79,6 +232,10 @@ Co-authored-by: André Silva &lt;123550+andresilva@users.noreply.github.com&gt;<
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">darwinia-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b707c9f</div>
+                                        <div class="message">Try Fix</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#d76f399</div>
                                         <div class="message">AssetId trait should also contain TypeInfo bound (#10038)</div>
@@ -341,651 +498,6 @@ runtime and then the types will use the normal Debug derive instead of
 printing `wasm:stripped`.
 
 * Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cafe12e</div>
-                                        <div class="message">Switch to using ss58-registry crate (#9755)
-
-* Switch to using ss58-registry crate
-* Custom(42) is now eq to Substrate
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-Co-authored-by: André Silva &lt;123550+andresilva@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-common</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier-v0.12.3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0539212</div>
-                                        <div class="message">Bump Deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 85 commits in
-                                        <span class="repo">darwinia-network/substrate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">current-base</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d356ce</div>
-                                        <div class="message">Require crypto scheme for `insert-key` (#9909)
-
-* Require crypto scheme for `insert-key`
-
-We should not "guess" the scheme as this can depend on the
-implementation of the runtime etc.
-
-* FMT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddc2c6e</div>
-                                        <div class="message">chore: refresh of the substrate_builder image (#9808)
-
-* chore: refresh of the substrate_builder image
-
-fix #9715
-
-* chore: renaming +  build script
-
-* Fix spaces/tabs
-
-* Add doc
-
-* Remove non binary
-
-* Update docker/substrate_builder.Dockerfile
-
-Co-authored-by: Denis Pisarev &lt;denis.pisarev@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#125092f</div>
-                                        <div class="message">Introduce block authorship soft deadline (#9663)
-
-* Soft limit.
-
-* Add soft deadline tests.
-
-* cargo +nightly fmt --all
-
-* Fix sc-service test.
-
-* Improving tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a30e1b2</div>
-                                        <div class="message">Rework Transaction Priority calculation (#9834)
-
-* Add transaction validity docs.
-
-* Re-work priority calculation.
-
-* Fix tests.
-
-* Update frame/transaction-payment/src/lib.rs
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
-
-* cargo +nightly fmt --all
-
-* Fix an obvious mistake :)
-
-* Re-work again.
-
-* Fix test.
-
-* cargo +nightly fmt --all
-
-* Make VirtualTip dependent on the transaction size.
-
-* cargo +nightly fmt --all
-
-* Update frame/transaction-payment/src/lib.rs
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
-
-* Fix compilation.
-
-* Update bin/node/runtime/src/lib.rs
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c0c9c9</div>
-                                        <div class="message">Do not propagate host RUSTFLAGS when checking for WASM toolchain (#9926)
-
-* Do not propagate host RUSTFLAGS when checking for WASM toolchain
-
-* Update utils/wasm-builder/src/prerequisites.rs
-
-* Update utils/wasm-builder/src/prerequisites.rs
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca90ea7</div>
-                                        <div class="message">Small quoting comment fix (#9927)
-
-Tiny quotes fix that snuck in lately (something I picked up elsewhere in document generation)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5413a1f</div>
-                                        <div class="message">add clippy to CI (#9694)
-
-* Focus on correctness lints. This relies on a compiler patch that landed 8th July 2021.
-If people are using an earlier version of the compiler everything will still work unless they try and run clippy.
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-Co-authored-by: Denis Pisarev &lt;denis.pisarev@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9be8fdd</div>
-                                        <div class="message">Ensure BeforeBestBlockBy voting rule accounts for base (#9920)
-
-* Ensure BeforeBestBlockBy voting rule accounts for base
-
-* fmt
-
-Co-authored-by: Andronik Ordian &lt;write@reusable.software&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c775344</div>
-                                        <div class="message">rm `.maintain` lock (#9919)
-
-* rm maintain lock
-
-* ignore template gen lockfile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df6a1ad</div>
-                                        <div class="message">Downstream `node-template` pull (#9915)
-
-* downstream node template pull: README updated, add shell.nix
-
-* consistant cargo.toml style
-
-* Update bin/node-template/shell.nix
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdce20c</div>
-                                        <div class="message">Implement core::fmt::Debug for BoundedVec (#9914)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c60ccc0</div>
-                                        <div class="message">Quickly skip invalid transactions during block authorship. (#9789)
-
-* Support skipping invalid transactions in the iterator.
-
-* Expose concrete iterator.
-
-* cargo +nightly fmt --all
-
-* More consistent placement.
-
-* Update Cargo.lock
-
-* Pass transaction to 'report_invalid'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#540b4fd</div>
-                                        <div class="message">Add SS58 prefix for Automata (#9805)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1e45a6</div>
-                                        <div class="message">Clean up sc-peerset (#9806)
-
-* Clean up sc-peerset
-
-* cargo +nightly fmt --all
-
-* Nit
-
-* Nit
-
-* .
-
-* Nit
-
-* .
-
-* Apply suggestions from code review
-
-* .
-
-* Update client/peerset/src/peersstate.rs
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d0a917</div>
-                                        <div class="message">Test each benchmark case in own #[test] (#9860)
-
-* Generate one #[test] fn per bench case.
-
-* Update benchmark macro syntax in frame pallets.
-
-* Explain new benchmark macro syntax in example pallet.
-
-* support with and without a semicolon
-
-* update pallets to use individual tests
-
-* migrate staking too
-
-* migrate more pallets
-
-* fix up democracy and use individual tests
-
-* Fix comment
-
-* Put println message in panic
-
-* Remove `another_set_dummy` from doc
-
-`another_set_dummy` is not present in the benchmarking.rs (anymore).
-
-* Update doc for benchmarks macro
-
-* Update doc for impl_benchmark_test_suite macro
-
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2e7ae3</div>
-                                        <div class="message">Add build with docker section to README (#9792)
-
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf9683e</div>
-                                        <div class="message">Simple Trait to Inspect Metadata (#9893)
-
-* simple trait to inspect metadata
-
-* import vec</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3302199</div>
-                                        <div class="message">Pallet Assets: Create new asset classes from genesis config (#9742)
-
-* Pallet Assets: Allow creating asset classes from genesis config
-
-* Add accounts and metadata to genesis config
-
-* whitespace fixes
-
-* Update more chainspecs
-
-* Run rustfmt over code
-
-* More formatting fixes
-
-* Update frame/assets/src/lib.rs
-
-Improve error message
-
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
-
-* Update frame/assets/src/lib.rs
-
-Improve error message
-
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
-
-Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b95e23</div>
-                                        <div class="message">doc: subkey usage (#9905)
-
-* CI: md styling
-
-* CI: add container usage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70b4a8a</div>
-                                        <div class="message">Silence alert about large-statement-fetcher (#9882)
-
-* Silence alert about large-statement-fetcher
-
-That task is not continuous and behaving exactly as desired.
-
-* Get rid of rule completely
-
-- Pierre thinks it does not add any value
-- Basti rightly complains that Polkadot specific exceptions make little
-  sense in the Substrate repo.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 24 commits in
-                                        <span class="repo">darwinia-network/substrate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f87ea7d</div>
-                                        <div class="message">use pipeline-scripts for dependent projects script (#9749)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00629de</div>
-                                        <div class="message">make the ws buffer size configurable (#10013)
-
-* make the ws buffer size configurable
-
-* Update client/cli/src/commands/run_cmd.rs
-
-Co-authored-by: Tomasz Drwięga &lt;tomusdrw@users.noreply.github.com&gt;
-
-* Update client/cli/src/commands/run_cmd.rs
-
-Co-authored-by: Tomasz Drwięga &lt;tomusdrw@users.noreply.github.com&gt;
-
-* Update client/cli/src/commands/run_cmd.rs
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-* Final touches
-
-* Apply suggestions from code review
-
-* fix bench
-
-* remove in buffer
-
-* Apply suggestions from code review
-
-Co-authored-by: Tomasz Drwięga &lt;tomusdrw@users.noreply.github.com&gt;
-
-Co-authored-by: Tomasz Drwięga &lt;tomusdrw@users.noreply.github.com&gt;
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66296a0</div>
-                                        <div class="message">Migrate to `docs.substrate.io` throughout (#10007)
-
-* all reverences of substrate.dev replaced with *correct* docs.substrate.io links
-
-* fix links in non-cargo files, errors in replace
-
-* homepage https://substrate.io
-
-* cargo +nightly fmt
-
-* FMT
-
-Co-authored-by: Bastian Köcher &lt;info@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#383a26c</div>
-                                        <div class="message">Move template to `homepage = "https://substrate.io/"` , correct links (#10006)
-
-* move to https://docs.substrate.io/
-
-* cargo to https://docs.substrate.io/ homepage
-
-* Update bin/node-template/pallets/template/src/lib.rs
-
-Co-authored-by: Squirrel &lt;gilescope@gmail.com&gt;
-
-* homepage = "https://docs.substrate.io/"
-
-Co-authored-by: Squirrel &lt;gilescope@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30ee840</div>
-                                        <div class="message">Bump base58 from 0.1.0 to 0.2.0 (#10018)
-
-Bumps [base58](https://github.com/debris/base58) from 0.1.0 to 0.2.0.
-- [Release notes](https://github.com/debris/base58/releases)
-- [Commits](https://github.com/debris/base58/commits)
-
----
-updated-dependencies:
-- dependency-name: base58
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d01cac</div>
-                                        <div class="message">Bump retain_mut from 0.1.3 to 0.1.4 (#10021)
-
-Bumps [retain_mut](https://github.com/upsuper/retain_mut) from 0.1.3 to 0.1.4.
-- [Release notes](https://github.com/upsuper/retain_mut/releases)
-- [Commits](https://github.com/upsuper/retain_mut/commits)
-
----
-updated-dependencies:
-- dependency-name: retain_mut
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9689a13</div>
-                                        <div class="message">Ensure we don't create gap epochs when importing multiple genesis epochs (#10019)
-
-The babe `authoring_blocks` test was flaky because it could happen that
-we imported the first block multiple times. This lead to import the
-genesis epoch multiples times. `EpochChanges` was assuming that
-importing a genesis epoch while there was already an imported epoch
-means that there is a "gap". However, this wasn't true as we just
-imported 2 genesis epochs. The bug is solved by checking that the
-already imported epochs are not all genesis epochs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5c9087</div>
-                                        <div class="message">allow remote-ext to exclude some keys (#10020)
-
-* allow remote-ext to exclude some keys
-
-* don't use deprecated, just remove.
-
-* rename</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc88737</div>
-                                        <div class="message">Add TypeInfo (#10010)
-
-* add TypeInfo for DispatchTime
-
-* add TypeInfo for BoundedBTreeSet
-
-* add skip_type_params
-
-* add TypeInfo for BoundedSlice
-
-* add skip_type_params</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51361fd</div>
-                                        <div class="message">Bump parity-scale-codec from 2.2.0 to 2.3.1 (#9998)
-
-* Bump parity-scale-codec from 2.2.0 to 2.3.1
-
-Bumps [parity-scale-codec](https://github.com/paritytech/parity-scale-codec) from 2.2.0 to 2.3.1.
-- [Release notes](https://github.com/paritytech/parity-scale-codec/releases)
-- [Changelog](https://github.com/paritytech/parity-scale-codec/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/paritytech/parity-scale-codec/compare/v2.2...parity-scale-codec-v2.3.1)
-
----
-updated-dependencies:
-- dependency-name: parity-scale-codec
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-* Update UI test expectations
-
-* Update UI test expectations
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Keith Yeung &lt;kungfukeith11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90dd23e</div>
-                                        <div class="message">documentation for recovery of emergency phase (#9989)
-
-* documentation for recovery of emergency phase
-
-* Update frame/election-provider-multi-phase/src/lib.rs
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
-
-* Update frame/election-provider-multi-phase/src/lib.rs
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;
-
-Co-authored-by: Alexander Popiak &lt;alexander.popiak@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66f0008</div>
-                                        <div class="message">sc-executor-wasmtime: upgrade wasmtime to 0.30.0 (#10003)
-
-* sc-executor-wasmtime: upgrade wasmtime to 0.30.0
-
-Changes related to memory64 proposal implementation,
-for additional details see bytecodealliance/wasmtime#3153
-
-* sc-executor-wasmtime: introduce parallel_compilation flag
-
-* typos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f92e978</div>
-                                        <div class="message">Bump sha2 from 0.9.5 to 0.9.8 (#10008)
-
-Bumps [sha2](https://github.com/RustCrypto/hashes) from 0.9.5 to 0.9.8.
-- [Release notes](https://github.com/RustCrypto/hashes/releases)
-- [Commits](https://github.com/RustCrypto/hashes/compare/sha2-v0.9.5...sha2-v0.9.8)
-
----
-updated-dependencies:
-- dependency-name: sha2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#508c5a7</div>
-                                        <div class="message">hint what to do if you didn't use bot merge (#10009)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98ef769</div>
-                                        <div class="message">sp-debug-derive: Add `force-debug` feature (#9996)
-
-* sp-debug-derive: Add `force-debug` feature
-
-Sometimes users want to have proper debug information even inside the
-wasm runtime, when they use `RuntimeDebug`. To not fork Substrate to
-change a type to a normal `Debug` derive, this pr introduces the
-`force-debug` feature. This feature can be enabled by the user in their
-runtime and then the types will use the normal Debug derive instead of
-printing `wasm:stripped`.
-
-* Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cafe12e</div>
-                                        <div class="message">Switch to using ss58-registry crate (#9755)
-
-* Switch to using ss58-registry crate
-* Custom(42) is now eq to Substrate
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-Co-authored-by: André Silva &lt;123550+andresilva@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1403b37</div>
-                                        <div class="message">node-template: Do not provide benchmarking host functions by default (#10005)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e308d0f</div>
-                                        <div class="message">pow: add Version for quick-check of metadata state and refactor lock handling (#9698)
-
-* pow: add Version for quick-check of metadata state and refactor lock handling
-
-* typo: mut self -&gt; self
-
-* Run rustfmt
-
-* typo: grammar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66ba332</div>
-                                        <div class="message">sc-offchain: Fix flaky http tests (#10000)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6a095a</div>
-                                        <div class="message">Bump pin-project from 1.0.5 to 1.0.8 (#9999)
-
-Bumps [pin-project](https://github.com/taiki-e/pin-project) from 1.0.5 to 1.0.8.
-- [Release notes](https://github.com/taiki-e/pin-project/releases)
-- [Changelog](https://github.com/taiki-e/pin-project/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/taiki-e/pin-project/compare/v1.0.5...v1.0.8)
-
----
-updated-dependencies:
-- dependency-name: pin-project
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
