@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="302" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,64 +19,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#91 Panic on Pangolin Parachain `v5.2.1-testnet`</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/substrate</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">darwinia-network/darwinia-parachain</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#91 Panic on Pangolin Parachain `v5.2.1-testnet`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">darwinia-network/darwinia-parachain</span></div>
-                                    <div class="comment">Re-cmopile fix this.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#91 Panic on Pangolin Parachain `v5.2.1-testnet`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">darwinia-network/darwinia-parachain</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">v5.2.1-testnet</span>
-                                        of
-                                        <span class="repo">darwinia-network/darwinia-parachain</span>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ad29be4</div>
+                                        <div class="message">Disable Bot</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,14 +43,1036 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                        <span class="repo">darwinia-network/substrate</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xavier-clean</span></div>
+                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a6245c</div>
-                                        <div class="message">Remove Double Space</div>
+                                        <div class="sha">#1df7fe5</div>
+                                        <div class="message">Add `TypeInfo` (#11599)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/substrate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fe68e09</div>
+                                        <div class="message">Add `TypeInfo` (#11599)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/substrate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">darwinia-v0.12.3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a580015</div>
+                                        <div class="message">Remove</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 151 commits in
+                                        <span class="repo">darwinia-network/substrate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cd1853b</div>
+                                        <div class="message">Only read storage after origin check (#11391)
+
+* only read storage after origin check
+
+* fmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c14be4</div>
+                                        <div class="message">jsonrpc http server: expose health endpoint (#11395)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34737a2</div>
+                                        <div class="message">[ci] Divide .gitlab-ci.yml into several files (#11333)
+
+* rebase
+
+* update Cargo.lock
+
+* revert Cargo.lock
+
+* fix Cargo.lock from 11384</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a5ad4c</div>
+                                        <div class="message">fix a few more things with nomination pools (#11373)
+
+* fix a few more things with nomination pools
+
+* add bench
+
+* use weight fn
+
+* cargo run --quiet --profile=production  --features=runtime-benchmarks --manifest-path=bin/node/cli/Cargo.toml -- benchmark pallet --chain=dev --steps=50 --repeat=20 --pallet=pallet_nomination_pools --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --output=./frame/nomination-pools/src/weights.rs --template=./.maintain/frame-weight-template.hbs
+
+* allow real root to also set roles
+
+* Update frame/nomination-pools/src/lib.rs
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+
+* Update frame/nomination-pools/src/lib.rs
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+
+* move out of the closure
+
+* fix a few more things
+
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7143e65</div>
+                                        <div class="message">update Cargo.lock (#11384)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f2e139</div>
+                                        <div class="message">sc-consensus-slots: rename `client` -&gt; `select_chain` (#11375)
+
+* rename `client` -&gt; `select_chain`
+
+* missed one
+
+* `cargo fmt` (only the file I touched)
+
+* Missed another one
+
+* Revert "`cargo fmt` (only the file I touched)"
+
+This reverts commit 96a0c6cd131cdc08013f7ddb9e7bf2af34ae3ee3.
+
+* `cargo fmt` (again) (only the LINES I touched)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9df248</div>
+                                        <div class="message">Refactory of Fork-Tree data structure (#11228)
+
+* Iterative version of some fork-tree methods
+
+* Prune doesn't require its generic args to be 'clone'
+
+* Fork-tree import and drain-filter iterative implementations
+
+* Fork-tree map iterative implementation
+
+* Optimization of some operations, e.g. rebalance only when required
+
+* Destructuring assignments not supported yet by stable rustc 1.57
+
+* Safe implementation of 'map' and 'drain_filter' methods
+
+* Remove dummy comment
+
+* Trigger CI pipeline
+
+* Test map for multi-root fork-tree and refactory of `find_node_index_where`
+
+* Fix find node index with predicate
+
+* Nits
+
+* Tree traversal algorithm is not specified
+
+* Move unspecified tree traversal warning to 'map'
+
+* Immutable 'drain_filter' predicate
+
+* Apply suggestions from code review
+
+* Remove double mapping
+
+Co-authored-by: André Silva &lt;123550+andresilva@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbe4fd4</div>
+                                        <div class="message">Sanity check for Babe's configuration (#11385)
+
+* Prevent div by zero in native babe code
+* Additional sanity check for babe config
+* Further sanity checks and postpone threshold computation
+* Apply suggestions from code review
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0ccd00</div>
+                                        <div class="message">jsonrpsee integration (#8783)
+
+* Add tokio
+
+* No need to map CallError to CallError
+
+* jsonrpsee proc macros (#9673)
+
+* port error types to `JsonRpseeError`
+
+* migrate chain module to proc macro api
+
+* make it compile with proc macros
+
+* update branch
+
+* update branch
+
+* update to jsonrpsee master
+
+* port system rpc
+
+* port state rpc
+
+* port childstate &amp; offchain
+
+* frame system rpc
+
+* frame transaction payment
+
+* bring back CORS hack to work with polkadot UI
+
+* port babe rpc
+
+* port manual seal rpc
+
+* port frame mmr rpc
+
+* port frame contracts rpc
+
+* port finality grandpa rpc
+
+* port sync state rpc
+
+* resolve a few TODO + no jsonrpc deps
+
+* Update bin/node/rpc-client/src/main.rs
+
+* Update bin/node/rpc-client/src/main.rs
+
+* Update bin/node/rpc-client/src/main.rs
+
+* Update bin/node/rpc-client/src/main.rs
+
+* Port over system_ rpc tests
+
+* Make it compile
+
+* Use prost 0.8
+
+* Use prost 0.8
+
+* Make it compile
+
+* Ignore more failing tests
+
+* Comment out WIP tests
+
+* fix nit in frame system api
+
+* Update lockfile
+
+* No more juggling tokio versions
+
+* No more wait_for_stop ?
+
+* Remove browser-testing
+
+* Arguments must be arrays
+
+* Use same argument names
+
+* Resolve todo: no wait_for_stop for WS server
+Add todo: is parse_rpc_result used?
+Cleanup imports
+
+* fmt
+
+* log
+
+* One test passes
+
+* update jsonrpsee
+
+* update jsonrpsee
+
+* cleanup rpc-servers crate
+
+* jsonrpsee: add host and origin filtering (#9787)
+
+* add access control in the jsonrpsee servers
+
+* use master
+
+* fix nits
+
+* rpc runtime_version safe
+
+* fix nits
+
+* fix grumbles
+
+* remove unused files
+
+* resolve some todos
+
+* jsonrpsee more cleanup (#9803)
+
+* more cleanup
+
+* resolve TODOs
+
+* fix some unwraps
+
+* remove type hints
+
+* update jsonrpsee
+
+* downgrade zeroize
+
+* pin jsonrpsee rev
+
+* remove unwrap nit
+
+* Comment out more tests that aren't ported
+
+* Comment out more tests
+
+* Fix tests after merge
+
+* Subscription test
+
+* Invalid nonce test
+
+* Pending exts
+
+* WIP removeExtrinsic test
+
+* Test remove_extrinsic
+
+* Make state test: should_return_storage work
+
+* Uncomment/fix the other non-subscription related state tests
+
+* test: author_insertKey
+
+* test: author_rotateKeys
+
+* Get rest of state tests passing
+
+* asyncify a little more
+
+* Add todo to note #msg change
+
+* Crashing test for has_session_keys
+
+* Fix error conversion to avoid stack overflows
+Port author_hasSessionKeys test
+fmt
+
+* test author_hasKey
+
+* Add two missing tests
+Add a check on the return type
+Add todos for James's concerns
+
+* RPC tests for state, author and system (#9859)
+
+* Fix test runner
+
+* Impl Default for SubscriptionTaskExecutor
+
+* Keep the minimul amount of code needed to compile tests
+
+* Re-instate `RpcSession` (for now)
+
+* cleanup
+
+* Port over RPC tests
+
+* Add tokio
+
+* No need to map CallError to CallError
+
+* Port over system_ rpc tests
+
+* Make it compile
+
+* Use prost 0.8
+
+* Use prost 0.8
+
+* Make it compile
+
+* Ignore more failing tests
+
+* Comment out WIP tests
+
+* Update lockfile
+
+* No more juggling tokio versions
+
+* No more wait_for_stop ?
+
+* Remove browser-testing
+
+* Arguments must be arrays
+
+* Use same argument names
+
+* Resolve todo: no wait_for_stop for WS server
+Add todo: is parse_rpc_result used?
+Cleanup imports
+
+* fmt
+
+* log
+
+* One test passes
+
+* Comment out more tests that aren't ported
+
+* Comment out more tests
+
+* Fix tests after merge
+
+* Subscription test
+
+* Invalid nonce test
+
+* Pending exts
+
+* WIP removeExtrinsic test
+
+* Test remove_extrinsic
+
+* Make state test: should_return_storage work
+
+* Uncomment/fix the other non-subscription related state tests
+
+* test: author_insertKey
+
+* test: author_rotateKeys
+
+* Get rest of state tests passing
+
+* asyncify a little more
+
+* Add todo to note #msg change
+
+* Crashing test for has_session_keys
+
+* Fix error conversion to avoid stack overflows
+Port author_hasSessionKeys test
+fmt
+
+* test author_hasKey
+
+* Add two missing tests
+Add a check on the return type
+Add todos for James's concerns
+
+* offchain rpc tests
+
+* Address todos
+
+* fmt
+
+Co-authored-by: James Wilson &lt;james@jsdw.me&gt;
+
+* fix drop in state test
+
+* update jsonrpsee
+
+* fix ignored system test
+
+* fix chain tests
+
+* remove some boiler plate
+
+* Port BEEFY RPC (#9883)
+
+* Merge master
+
+* Port beefy RPC (ty @niklas!)
+
+* trivial changes left over from merge
+
+* Remove unused code
+
+* Update jsonrpsee
+
+* fix build
+
+* make tests compile again
+
+* beefy update jsonrpsee
+
+* fix: respect rpc methods policy
+
+* update cargo.lock
+
+* update jsonrpsee
+
+* update jsonrpsee
+
+* downgrade error logs
+
+* update jsonrpsee
+
+* Fix typo
+
+* remove unused file
+
+* Better name
+
+* Port Babe RPC tests
+
+* Put docs back
+
+* Resolve todo
+
+* Port tests for System RPCs
+
+* Resolve todo
+
+* fix build
+
+* Updated jsonrpsee to current master
+
+* fix: port finality grandpa rpc tests
+
+* Move .into() outside of the match
+
+* more review grumbles
+
+* jsonrpsee: add `rpc handlers` back (#10245)
+
+* add back RpcHandlers
+
+* cargo fmt
+
+* fix docs
+
+* fix grumble: remove needless alloc
+
+* resolve TODO
+
+* fmt
+
+* Fix typo
+
+* grumble: Use constants based on BASE_ERROR
+
+* grumble: DRY whitelisted listening addresses
+grumble: s/JSONRPC/JSON-RPC/
+
+* cleanup
+
+* grumbles: Making readers aware of the possibility of gaps
+
+* review grumbles
+
+* grumbles
+
+* remove notes from niklasad1
+
+* Update `jsonrpsee`
+
+* fix: jsonrpsee features
+
+* jsonrpsee: fallback to random port in case the specified port failed (#10304)
+
+* jsonrpsee: fallback to random port
+
+* better comment
+
+* Update client/rpc-servers/src/lib.rs
+
+Co-authored-by: Maciej Hirsz &lt;1096222+maciejhirsz@users.noreply.github.com&gt;
+
+* Update client/rpc-servers/src/lib.rs
+
+Co-authored-by: Maciej Hirsz &lt;1096222+maciejhirsz@users.noreply.github.com&gt;
+
+* address grumbles
+
+* cargo fmt
+
+* addrs already slice
+
+Co-authored-by: Maciej Hirsz &lt;1096222+maciejhirsz@users.noreply.github.com&gt;
+
+* Update jsonrpsee to 092081a0a2b8904c6ebd2cd99e16c7bc13ffc3ae
+
+* lockfile
+
+* update jsonrpsee
+
+* fix warning
+
+* Don't fetch jsonrpsee from crates
+
+* make tests compile again
+
+* fix rpc tests
+
+* remove unused deps
+
+* update tokio
+
+* fix rpc tests again
+
+* fix: test runner
+
+`HttpServerBuilder::builder` fails unless it's called within tokio runtime
+
+* cargo fmt
+
+* grumbles: fix subscription aliases
+
+* make clippy happy
+
+* update remaining subscriptions alias
+
+* cleanup
+
+* cleanup
+
+* fix chain subscription: less boiler plate (#10285)
+
+* fix chain subscription: less boiler plate
+
+* fix bad merge
+
+* cargo fmt
+
+* Switch to jsonrpsee 0.5
+
+* fix build
+
+* add missing features
+
+* fix nit: remove needless Box::pin
+
+* Integrate jsonrpsee metrics (#10395)
+
+* draft metrics impl
+
+* Use latest api
+
+* Add missing file
+
+* Http server metrics
+
+* cleanup
+
+* bump jsonrpsee
+
+* Remove `ServerMetrics` and use a single middleware for both connection counting (aka sessions) and call metrics.
+
+* fix build
+
+* remove needless Arc::clone
+
+* Update to jsonrpsee 0.6
+
+* lolz
+
+* fix metrics
+
+* Revert "lolz"
+
+This reverts commit eed6c6a56e78d8e307b4950f4c52a1c3a2322ba1.
+
+* fix: in-memory rpc support subscriptions
+
+* commit Cargo.lock
+
+* Update tests to 0.7
+
+* fix TODOs
+
+* ws server: generate subscriptionIDs as Strings
+
+Some libraries seems to expect the subscription IDs to be Strings, let's not break
+this in this PR.
+
+* Increase timeout
+
+* Port over tests
+
+* cleanup
+
+* Using error codes from the spec
+
+* fix clippy
+
+* cargo fmt
+
+* update jsonrpsee
+
+* fix nits
+
+* fix: rpc_query
+
+* enable custom subid gen through spawn_tasks
+
+* remove unsed deps
+
+* unify tokio deps
+
+* Revert "enable custom subid gen through spawn_tasks"
+
+This reverts commit 5c5eb70328fe39d154fdb55c56e637b4548cf470.
+
+* fix bad merge of `test-utils`
+
+* fix more nits
+
+* downgrade wasm-instrument to 0.1.0
+
+* [jsonrpsee]: enable custom RPC subscription ID generatation (#10731)
+
+* enable custom subid gen through spawn_tasks
+
+* fix nits
+
+* Update client/service/src/builder.rs
+
+Co-authored-by: David &lt;dvdplm@gmail.com&gt;
+
+* add Poc; needs jsonrpsee pr
+
+* update jsonrpsee
+
+* add re-exports
+
+* add docs
+
+Co-authored-by: David &lt;dvdplm@gmail.com&gt;
+
+* cargo fmt
+
+* fmt
+
+* port RPC-API dev
+
+* Remove unused file
+
+* fix nit: remove async trait
+
+* fix doc links
+
+* fix merge nit: remove jsonrpc deps
+
+* kill namespace on rpc apis
+
+* companion for jsonrpsee v0.10 (#11158)
+
+* companion for jsonrpsee v0.10
+
+* update versions v0.10.0
+
+* add some fixes
+
+* spelling
+
+* fix spaces
+
+Co-authored-by: Niklas Adolfsson &lt;niklasadolfsson1@gmail.com&gt;
+
+* send error before subs are closed
+
+* fix unsubscribe method names: chain
+
+* fix tests
+
+* jsonrpc server: print binded local address
+
+* grumbles: kill SubscriptionTaskExecutor
+
+* Update client/sync-state-rpc/src/lib.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
+
+* Update client/rpc/src/chain/chain_full.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
+
+* Update client/rpc/src/chain/chain_full.rs
+
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
+
+* sync-state-rpc: kill anyhow
+
+* no more anyhow
+
+* remove todo
+
+* jsonrpsee:  fix bad params in subscriptions. (#11251)
+
+* update jsonrpsee
+
+* fix error responses
+
+* revert error codes
+
+* dont do weird stuff in drop impl
+
+* rpc servers: remove needless clone
+
+* Remove silly constants
+
+* chore: update jsonrpsee v0.12
+
+* commit Cargo.lock
+
+* deps: downgrade git2
+
+* feat: CLI flag max subscriptions per connection
+
+* metrics: use old logging format
+
+* fix: read WS address from substrate output (#11379)
+
+Co-authored-by: Niklas Adolfsson &lt;niklasadolfsson1@gmail.com&gt;
+Co-authored-by: James Wilson &lt;james@jsdw.me&gt;
+Co-authored-by: Maciej Hirsz &lt;hello@maciej.codes&gt;
+Co-authored-by: Maciej Hirsz &lt;1096222+maciejhirsz@users.noreply.github.com&gt;
+Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a0dcaf</div>
+                                        <div class="message">stabilize `seal_contains_storage` (`seal0`) and `seal_set_storage` (`seal1`) (#11378)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5ee51</div>
+                                        <div class="message">contracts: Prevent PoV attack vector with minimal viable solution (#11372)
+
+* Add ContractAccessWeight
+
+* Apply suggestions from code review
+
+Co-authored-by: Michael Müller &lt;michi@parity.io&gt;
+
+Co-authored-by: Michael Müller &lt;michi@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9f0b08</div>
+                                        <div class="message">allow defensive operations to take a proof (#11353)
+
+* allow defensive operations to take a proof
+
+* Update frame/support/src/traits/misc.rs
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+
+* Update frame/bags-list/src/list/mod.rs
+
+Co-authored-by: Keith Yeung &lt;kungfukeith11@gmail.com&gt;
+
+* Update frame/support/src/traits/misc.rs
+
+Co-authored-by: Keith Yeung &lt;kungfukeith11@gmail.com&gt;
+
+* Update frame/support/src/traits/misc.rs
+
+Co-authored-by: Keith Yeung &lt;kungfukeith11@gmail.com&gt;
+
+* Fix build
+
+* fix build again
+
+* fmt
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Keith Yeung &lt;kungfukeith11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7df8fb</div>
+                                        <div class="message">Parity-db `Change` missing implementation.  (#11049)
+
+* support for release as in kvdb (only if no rc).
+
+* Start impl
+
+* minimal implementation for paritydb rc
+
+* Update client/db/src/parity_db.rs
+
+Co-authored-by: Arkadiy Paronyan &lt;arkady.paronyan@gmail.com&gt;
+
+* Update client/db/src/parity_db.rs
+
+Co-authored-by: Arkadiy Paronyan &lt;arkady.paronyan@gmail.com&gt;
+
+* Update client/db/src/parity_db.rs
+
+Co-authored-by: Arkadiy Paronyan &lt;arkady.paronyan@gmail.com&gt;
+
+* Commit not panicking in DbAdapter
+
+* errors from string
+
+* update parity db version
+
+Co-authored-by: Arkadiy Paronyan &lt;arkady.paronyan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a056753</div>
+                                        <div class="message">Rename nomination pools pallet id (#11361)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#015a46e</div>
+                                        <div class="message">Break the ref cycle (#11371)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98518a6</div>
+                                        <div class="message">update approval rules (#11368)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99bc7b5</div>
+                                        <div class="message">Bump pretty_assertions from 1.0.0 to 1.2.1 (#11360)
+
+Bumps [pretty_assertions](https://github.com/colin-kiegel/rust-pretty-assertions) from 1.0.0 to 1.2.1.
+- [Release notes](https://github.com/colin-kiegel/rust-pretty-assertions/releases)
+- [Changelog](https://github.com/colin-kiegel/rust-pretty-assertions/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/colin-kiegel/rust-pretty-assertions/compare/v1.0.0...v1.2.1)
+
+---
+updated-dependencies:
+- dependency-name: pretty_assertions
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43d8c87</div>
+                                        <div class="message">Remove the `--unsafe-pruning` CLI-argument (step 1) (#10995)
+
+* sc-client-db: utils::open_database(...) — return OpenDbError so that the caller could tell the `OpenDbError::DoesNotExist` clearly
+
+* sc-client-db: utils::open_database(..) — accept the `create: bool` argument
+
+* sc-client-db: pruning — optional argument in the DatabaseSettings
+
+* sc-state-db: Split `Error&lt;E&gt;` into separate `Error&lt;E&gt;` and `StateDbError`
+
+* StateDb::open: choose the pruning-mode depending on the requested and stored values
+
+* sc-state-db: test for different combinations of stored and requested pruning-modes
+
+* CLI-argument: mark the unsafe-pruning as deprecated
+
+* Fix tests
+
+* tests: do not specify --pruning when running the substrate over the existing storage
+
+* fix types for benches
+
+* cargo fmt
+
+* Check whether the pruning-mode and sync-mode are compatible
+
+* cargo fmt
+
+* parity-db: 0.3.11 -&gt; 0.3.12
+
+* sc-state-db: MetaDb::set_meta — a better doc-test
+
+* cargo fmt
+
+* make MetaDb read-only again!
+
+* Remove the stray newline (and run the CI once again please)
+
+* Last nitpicks
+
+* A more comprehensive error message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dedfef2</div>
+                                        <div class="message">Add event tests to Nomination Pools (#11349)
+
+* fix a few things with nomination pools
+
+* fix typo
+
+* fix build
+
+* eventify tests
+
+* Update frame/nomination-pools/src/tests.rs
+
+Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;
+
+* fmt
+
+* comments
+
+* split
+
+Co-authored-by: kianenigma &lt;kian@parity.io&gt;
+Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f3aafb</div>
+                                        <div class="message">Bump k256 from 0.10.2 to 0.10.4 (#11249)
+
+Bumps [k256](https://github.com/RustCrypto/elliptic-curves) from 0.10.2 to 0.10.4.
+- [Release notes](https://github.com/RustCrypto/elliptic-curves/releases)
+- [Commits](https://github.com/RustCrypto/elliptic-curves/compare/k256/v0.10.2...k256/v0.10.4)
+
+---
+updated-dependencies:
+- dependency-name: k256
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
