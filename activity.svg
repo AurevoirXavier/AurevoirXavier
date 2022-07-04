@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#1318 Avoid hardcoding `ChainId` for the internal transaction</span>
+                                        <span class="issue">#1320 Remove bsc pallet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by AsceticBear in <span class="repo">darwinia-network/darwinia-common</span></div>
+                                    <div>opened by HackFisher in <span class="repo">darwinia-network/darwinia-common</span></div>
                                 </div>
                             </section>
                         </div>
@@ -35,15 +35,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1317 Companion of darwinia-network/darwinia-messages-substrate#155</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by AsceticBear in <span class="repo">darwinia-network/darwinia-common</span></div>
+                                    <div>on branch <span class="code">denny-remove-bsc</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#862a729</div>
+                                        <div class="message">Merge branch 'main' into denny-remove-bsc</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -55,12 +59,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#108 Re-genesis Darwinia Parachain</span>
+                                        <span class="issue">#5749 Rename `extra_constant`</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">darwinia-network/darwinia-parachain</span></div>
-                                    <div>14 files changed <span class="code">++69 --70</span></div>
+                                    <div> in <span class="repo">paritytech/polkadot</span></div>
+                                    <div>1 file changed <span class="code">++4 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -71,15 +75,422 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-parachain</span>
+                                        Pushed 961 commits in
+                                        <span class="repo">AurevoirXavier/polkadot</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xavier-darwinia-parachain</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1547b57</div>
-                                        <div class="message">Re-genesis</div>
+                                        <div class="sha">#56354e5</div>
+                                        <div class="message">Update logging in paras_inherent (#3927)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0ccdb5</div>
+                                        <div class="message">Bump libsecp256k1 from 0.6.0 to 0.7.0 (#3909)
+
+Bumps [libsecp256k1](https://github.com/paritytech/libsecp256k1) from 0.6.0 to 0.7.0.
+- [Release notes](https://github.com/paritytech/libsecp256k1/releases)
+- [Changelog](https://github.com/paritytech/libsecp256k1/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/paritytech/libsecp256k1/commits)
+
+---
+updated-dependencies:
+- dependency-name: libsecp256k1
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbedad9</div>
+                                        <div class="message">Remove BEEFY repo dependency (#3923)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#501f115</div>
+                                        <div class="message">Substrate Companion for rust 1.54 (#3807)
+
+* Substrate Companion for rust 1.54
+
+* CI: run with a staging CI image
+
+* Revert "CI: run with a staging CI image"
+
+This reverts commit f3b51da0a4c0ffa43b576af5482a2be256948870.
+
+* CI: debug, again
+
+* compilation fixes
+
+* tabify
+
+* update Substrate
+
+* Update .gitlab-ci.yml
+
+* CI: add ubuntu-based image with npm
+
+Co-authored-by: Denis P &lt;denis.pisarev@parity.io&gt;
+Co-authored-by: Andronik Ordian &lt;write@reusable.software&gt;
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: parity-processbot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6422e67</div>
+                                        <div class="message">Fix broken links (#3919)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d4cd4c</div>
+                                        <div class="message">update BaseXcmWegiht to match Kusama (#3911)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ece7544</div>
+                                        <div class="message">add parachains pallets to Polkadot runtime (#3815)
+
+* add parachains pallets to Polkadot runtime
+
+* some updates
+
+* temp update deposits, fix compile
+
+* lower para byte deposit
+
+* fix genesis
+
+* fmt
+
+* fix spell
+
+* updates to consts
+
+* update benchmark list
+
+* fix merge master
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=polkadot-dev --steps=50 --repeat=20 --pallet=runtime_common::crowdloan --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/polkadot/src/weights/runtime_common_crowdloan.rs
+
+* skip large meta
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=polkadot-dev --steps=50 --repeat=20 --pallet=runtime_common::crowdloan --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/polkadot/src/weights/runtime_common_crowdloan.rs
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=polkadot-dev --steps=50 --repeat=20 --pallet=runtime_common::paras_registrar --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/polkadot/src/weights/runtime_common_paras_registrar.rs
+
+* fmt
+
+* add and update proxies
+
+* add weight info
+
+* weights
+
+* lower minimum contribution to 5 DOT
+
+* only overwrite when default
+
+Co-authored-by: Shawn Tabrizi &lt;shawntabrizi@gmail.com&gt;
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80a0bfd</div>
+                                        <div class="message">Add a `force_unfreeze` extrinsic to the disputes module (#3906)
+
+* add a 'force_unfreeze' to the Disputes module
+
+* fmt
+
+* Benchmark Disputes `force_unfreeze` extrinsic (#3908)
+
+* Companion for Generate storage info for pallet babe #9760 (#3831)
+
+* Adding MaxSegmentLength and MaxAuthorities
+to pallet babe
+
+* Missed a few to_vec
+
+* Removing `MaxSegmentLength` as not needed anymore
+
+* Adding `MaxAuthorities` to couple of missing place
+
+* Adding missing definition of `MaxAuthorities`
+
+* Adding a missing to_vec
+
+* update Substrate
+
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: parity-processbot &lt;&gt;
+
+* Benchmark Disputes `force_unfreeze` extrinsic
+
+target pr: #3906
+target branch: rh-unfreeze
+
+* Add benchmark to rococo runtime; run benchmark locally
+
+* Revert unintentionally added diff
+
+* Some spacing and comments
+
+* Bump proc-macro-crate from 1.0.0 to 1.1.0 (#3863)
+
+Bumps [proc-macro-crate](https://github.com/bkchr/proc-macro-crate) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/bkchr/proc-macro-crate/releases)
+- [Commits](https://github.com/bkchr/proc-macro-crate/commits)
+
+---
+updated-dependencies:
+- dependency-name: proc-macro-crate
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+
+* Bump parity-scale-codec from 2.2.0 to 2.3.0 (#3833)
+
+Bumps [parity-scale-codec](https://github.com/paritytech/parity-scale-codec) from 2.2.0 to 2.3.0.
+- [Release notes](https://github.com/paritytech/parity-scale-codec/releases)
+- [Changelog](https://github.com/paritytech/parity-scale-codec/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/paritytech/parity-scale-codec/compare/v2.2...parity-scale-codec-v2.3.0)
+
+---
+updated-dependencies:
+- dependency-name: parity-scale-codec
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+
+* Use super::WeightInfo to try and get CI to compile
+
+* cargo run --quiet --release --features runtime-benchmarks -- benchmark --chain=rococo-dev --steps=50 --repeat=20 --pallet=runtime_parachains::disputes --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --output=./runtime/parachains/src/disputes/weights.rs --header=./file_header.txt
+
+* impl TestWeightInfo; remove weights from runtime_parachains dir
+
+* fmt
+
+* Update test-runtime
+
+Co-authored-by: Georges &lt;georges.dib@gmail.com&gt;
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;
+
+Co-authored-by: Zeke Mostov &lt;32168567+emostov@users.noreply.github.com&gt;
+Co-authored-by: Georges &lt;georges.dib@gmail.com&gt;
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#257bd5c</div>
+                                        <div class="message">Add new rococo chainspec (#3905)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec29b1a</div>
+                                        <div class="message">Ensure all parachain configuration extrinsics are operational (#3912)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#524439e</div>
+                                        <div class="message">Bump parity-scale-codec from 2.2.0 to 2.3.0 (#3833)
+
+Bumps [parity-scale-codec](https://github.com/paritytech/parity-scale-codec) from 2.2.0 to 2.3.0.
+- [Release notes](https://github.com/paritytech/parity-scale-codec/releases)
+- [Changelog](https://github.com/paritytech/parity-scale-codec/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/paritytech/parity-scale-codec/compare/v2.2...parity-scale-codec-v2.3.0)
+
+---
+updated-dependencies:
+- dependency-name: parity-scale-codec
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a97bf52</div>
+                                        <div class="message">Bump proc-macro-crate from 1.0.0 to 1.1.0 (#3863)
+
+Bumps [proc-macro-crate](https://github.com/bkchr/proc-macro-crate) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/bkchr/proc-macro-crate/releases)
+- [Commits](https://github.com/bkchr/proc-macro-crate/commits)
+
+---
+updated-dependencies:
+- dependency-name: proc-macro-crate
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e43470</div>
+                                        <div class="message">Companion for Generate storage info for pallet babe #9760 (#3831)
+
+* Adding MaxSegmentLength and MaxAuthorities
+to pallet babe
+
+* Missed a few to_vec
+
+* Removing `MaxSegmentLength` as not needed anymore
+
+* Adding `MaxAuthorities` to couple of missing place
+
+* Adding missing definition of `MaxAuthorities`
+
+* Adding a missing to_vec
+
+* update Substrate
+
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: parity-processbot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a19b9ef</div>
+                                        <div class="message">Companion for substrate PR#9766 (#3900)
+
+* fix weights
+
+* reduce time
+
+* update Substrate
+
+Co-authored-by: parity-processbot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ce805b</div>
+                                        <div class="message">Companion for Generate storage info for pallet grandpa #9817 (#3892)
+
+* Adding `MaxAuthorities` to pallet grandpa
+This is neede after changes to substrate
+
+* Adding `MaxAuthorities` to granda in test-runtime
+
+* Missed one `MaxAuthorities`
+
+* update Substrate
+
+Co-authored-by: parity-processbot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90e8929</div>
+                                        <div class="message">add tracing to assignment criteria (#3886)
+
+* add tracing to assignment criteria
+
+* fmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9c4bc1</div>
+                                        <div class="message">Add benchmarking for parachain runtime paras pallet (#3888)
+
+* Crate basic barebones benchmarking infrastructure for paras
+
+* Fill in benchmarking contents
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=westend-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/westend/src/weights/runtime_parachains_paras.rs
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=kusama-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/kusama/src/weights/runtime_parachains_paras.rs
+
+* Use autogenerated WeightInfos for kusama and westend
+
+* cargo fmt
+
+* Use saturating_sub
+
+* Add missing import
+
+* Try and hit the worst possible time complexity as much as possible
+
+* cargo fmt
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=westend-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/westend/src/weights/runtime_parachains_paras.rs
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=kusama-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/kusama/src/weights/runtime_parachains_paras.rs
+
+* Add a MAX_HEAD_DATA_SIZE constant
+
+* Prefill vectors with sample data for worst case complexity
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=westend-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/westend/src/weights/runtime_parachains_paras.rs
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=kusama-dev --steps=50 --repeat=20 --pallet=runtime_parachains::paras --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/kusama/src/weights/runtime_parachains_paras.rs
+
+* Improve comment on SAMPLE_SIZE constant
+
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#481dd29</div>
+                                        <div class="message">companion for substrate#9788 (#3858)
+
+* companion for https://github.com/paritytech/substrate/pull/9788
+
+* fmt
+
+* Some fixes
+
+* final fixes
+
+* fix a few small things
+
+* update Substrate
+
+Co-authored-by: parity-processbot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c406f7b</div>
+                                        <div class="message">Substrate Companion for #9566 (#3704)
+
+* runtime migrations
+
+* clean up
+
+* cargo fmt
+
+* companion
+
+* add _ to satisfy trait
+
+* fix try-runtime
+
+* update substrate
+
+Co-authored-by: thiolliere &lt;gui.thiolliere@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25cb158</div>
+                                        <div class="message">weights: pallet-staking &amp; pallet-bags-list (#3872)
+
+* Get ready to weight staking &amp; bags-list
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=kusama-dev --steps=50 --repeat=20 --pallet=pallet_staking --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/kusama/src/weights/
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=kusama-dev --steps=50 --repeat=20 --pallet=pallet_bags_list --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/kusama/src/weights/
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=polkadot-dev --steps=50 --repeat=20 --pallet=pallet_staking --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/polkadot/src/weights/
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=westend-dev --steps=50 --repeat=20 --pallet=pallet_bags_list --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/westend/src/weights/
+
+* cargo run --quiet --release --features=runtime-benchmarks -- benchmark --chain=westend-dev --steps=50 --repeat=20 --pallet=pallet_staking --extrinsic=* --execution=wasm --wasm-execution=compiled --heap-pages=4096 --header=./file_header.txt --output=./runtime/westend/src/weights/
+
+* fmt
+
+Co-authored-by: Parity Bot &lt;admin@parity.io&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -88,19 +499,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-parachain</span>
+                                        Reviewed
+                                        <span class="issue">#1318 Avoid hardcoding `ChainId` for the internal transaction</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xavier-darwinia-parachain</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b936dc</div>
-                                        <div class="message">Update Spec</div>
-                                    </div>
+                                    <div>opened by AsceticBear in <span class="repo">darwinia-network/darwinia-common</span></div>
                                 </div>
                             </section>
                         </div>
