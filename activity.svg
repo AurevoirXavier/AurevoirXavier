@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,6 +19,83 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1363 Release Tracing Node</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">darwinia-network/darwinia-common</span></div>
+                                    <div>1 file changed <span class="code">++54 --10</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0228fdf</div>
+                                        <div class="message">Release Tracing Node</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/pays</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#83eb962</div>
+                                        <div class="message">More Assertions</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-common</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/pays</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7cae877</div>
+                                        <div class="message">Test `Pays::No`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -31,594 +108,6 @@
                                     <div class="commit">
                                         <div class="sha">#e59ba1c</div>
                                         <div class="message">Doc</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1362 Change Threshold Call for ECDSA Authority</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">darwinia-network/darwinia-common</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-common</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/pays</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#14271b2</div>
-                                        <div class="message">Doc</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1361 Free to Submit the First-Correct Signature</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">darwinia-network/darwinia-common</span></div>
-                                    <div>1 file changed <span class="code">++23 --4</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">AurevoirXavier/polkadot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier-code-cleaning</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f4c235</div>
-                                        <div class="message">Add missing trigger wildcards for some CI workflows (#5812)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e11707</div>
-                                        <div class="message">malus: add `finality_delay` cli flag (#5770)
-
-* add malus_finality_delay flag
-
-* cargo update -p sp-io
-
-* no warnings when malus is disabled
-
-* subpar workaround for feature unification problem
-
-* remove malus_finality_delay from regular cli
-
-* document finality_delay param, rename cli arg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35874e2</div>
-                                        <div class="message">[ci] publish parachain-implementers-guide (#5806)
-
-* [Do not merge] [ci] publish parachain-implementers-guide
-
-* fix .cancel-pipeline
-
-* rename build-implementers-guide
-
-* fix
-
-* debig docs
-
-* fix needs
-
-* debug publish
-
-* change image for impl guide job
-
-* fix mdbook
-
-* add folder
-
-* remove mdbook-graphviz
-
-* fix publish
-
-* fix publish
-
-* debug publish
-
-* remove debug
-
-* fix script order
-
-* return pipeline
-
-* remove test ref from publish</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9804117</div>
-                                        <div class="message">westend xcm: collectives parachain is trusted teleporter (#5798)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f3e99d</div>
-                                        <div class="message">Cleanup light client leftovers (#5794)
-
-* Cleanup light client leftovers
-
-* Remove light clent leftovers in test-parachains
-
-* update lockfile for {"substrate"}
-
-Co-authored-by: parity-processbot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ac32c2</div>
-                                        <div class="message">Fix benchmarking tests (#5791)
-
-* Re-add tests
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Test with release profile
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Re-add tests
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Test with diener
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Revert "Test with release profile"
-
-This reverts commit d5384c5b603e1f8b7d14871ee57d2661e61bdb75.
-
-* Revert "Test with diener"
-
-This reverts commit 9e035759c780c2dfaf431456c8d0ff1a78e68d64.
-
-* cargo update -p sp-io
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Update tests/benchmark_block.rs
-
-Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;
-
-Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#264b81a</div>
-                                        <div class="message">allow re-use and avoid compiling kusama parachain code (#5792)
-
-* allow re-use and avoid compiling kusama parachain code
-
-* fixup removed trailing ;
-
-* make it compat with rustfmt +nightly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb1bf69</div>
-                                        <div class="message">Introduce async runtime calling trait for runtime-api subsystem (#5782)
-
-* Implement OverseerRuntimeClient
-
-* blockchainevents
-
-* Update patches
-
-* Finish merging rntime-api subsystem
-
-* First version that is able to produce blocks
-
-* Make OverseerRuntimeClient async
-
-* Move overseer notification stream forwarding to cumulus
-
-* Remove unused imports
-
-* Add more logging to collator-protocol
-
-* Lockfile
-
-* Use hashes in OverseerRuntimeClient
-
-* Move OverseerRuntimeClient into extra module
-
-* Fix old session info call and make HeadSupportsParachain async
-
-* Improve naming of trait
-
-* Cleanup
-
-* Remove unused From trait implementation
-
-* Remove unwanted debug print
-
-* Move trait to polkadot-node-subsystem-types
-
-* Add sections to runtime client
-
-Co-authored-by: Davide Galassi &lt;davxy@datawok.net&gt;
-
-* Reorder methods
-
-* Fix spelling
-
-* Fix spacing in Cargo.toml
-
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;
-
-* Remove unused babe methods
-
-Co-authored-by: Davide Galassi &lt;davxy@datawok.net&gt;
-Co-authored-by: Bastian Köcher &lt;bkchr@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6831e9</div>
-                                        <div class="message">add `Extrinsic Ordering` check that runs against a local reference node (#5790)
-
-* add `Extrinsic Ordering` check that runs against a local reference node
-
-* cleanup
-
-* use different polkadot base path
-
-* check all chains &amp; other review nits
-
-* fixup
-
-* review nits
-
-* do not fail-fast</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c64ccd</div>
-                                        <div class="message">Co #11456: Expose `benchmark extrinsic` command (#5620)
-
-* Expose 'benchmark extrinsic' command
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Add test
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Fix tests
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Fix tests
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Split benchmarking into own mod
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Simplify code
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Fixup
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Cleanup
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Spell
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Revert Cargo.lock updates
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* update lockfile for {"substrate"}
-
-* Fix brittle test
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Bump spec version to 9270
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Sleep in test to make it work in CI...
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Disable failing test
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Revert "Bump spec version to 9270"
-
-This reverts commit c1c385d7a4dc849e7f4d4723740aec66c2b7be09.
-
-* Delete brittle test, see #5788
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Disable failing test
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-* Delete more failing tests...
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
-
-Co-authored-by: parity-processbot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f75ed5e</div>
-                                        <div class="message">`staking-miner`:  Add handling of `SIGTERM`, `SIGKILL`, `SIGQUIT` and `SIGINT` (#5780)
-
-* Add handling of SIGTERM, SIGINT and SIGQUIT
-
-Fix #5649
-
-* Fix signals and log levels
-
-* Add missing imports
-
-* Add sig count to the logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eed45cf</div>
-                                        <div class="message">Zombienet: paritydb test (#5310)
-
-* Add test
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* gitlab integration
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* tune test
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* Try waiting for nodes to be up before checks
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* Use js check for paritydb folder
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* artifacts true
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* change error message
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* debug
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* try again
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* use log line contains for test
-
-* bump zombienet verision for test
-
-* Is approval checking lag 0 on rocksdb ?
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* Is approval checking lag 1 with paritydb ?
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-
-* update zombienet test for parityDb
-
-* Update zombienet_tests/misc/0001-check_paritydb.sh
-
-Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;
-
-Co-authored-by: Javier Viola &lt;javier@parity.io&gt;
-Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf54653</div>
-                                        <div class="message">Fix Typo (#5766)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e76cd14</div>
-                                        <div class="message">Fix Core Version display in the release notes (#5781)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec6214</div>
-                                        <div class="message">companion for new pools reward scheme (#5757)
-
-* companion for new pools reward scheme
-
-* fix build
-
-* fix
-
-* Fux
-
-* update lockfile for {"substrate"}
-
-* fmt
-
-Co-authored-by: parity-processbot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81cd489</div>
-                                        <div class="message">fix disable-runtime-api feature flag (#5773)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffed273</div>
-                                        <div class="message">split NetworkBridge into two subsystems (#5616)
-
-* foo
-
-* rolling session window
-
-* fixup
-
-* remove use statemetn
-
-* fmt
-
-* split NetworkBridge into two subsystems
-
-Pending cleanup
-
-* split
-
-* chore: reexport OrchestraError as OverseerError
-
-* chore: silence warnings
-
-* fixup tests
-
-* chore: add default timenout of 30s to subsystem test helper ctx handle
-
-* single item channel
-
-* fixins
-
-* fmt
-
-* cleanup
-
-* remove dead code
-
-* remove sync bounds again
-
-* wire up shared state
-
-* deal with some FIXMEs
-
-* use distinct tags
-
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;
-
-* use tag
-
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;
-
-* address naming
-
-tx and rx are common in networking and also have an implicit meaning regarding networking
-compared to incoming and outgoing which are already used with subsystems themselvesq
-
-* remove unused sync oracle
-
-* remove unneeded state
-
-* fix tests
-
-* chore: fmt
-
-* do not try to register twice
-
-* leak Metrics type
-
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;
-Co-authored-by: Andronik &lt;write@reusable.software&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b2b067</div>
-                                        <div class="message">Implement prune only stagnant check mode (#5761)
-
-* Limit number of elements loaded from the stagnant key
-
-This will likely be required if we enable stagnant prunning as currently database has way
-too many entries to be prunned in a single iteration
-
-* Fmt run
-
-* Slightly improve logging
-
-* Some more debug nits
-
-* Fmt pass
-
-* Add stagnant prunning delay
-
-* Enable stagnant check worker
-
-* Implement stagnant pruning without stagnant checks
-
-* Update node/core/chain-selection/src/tree.rs
-
-Co-authored-by: Andronik &lt;write@reusable.software&gt;
-
-* Apply suggestions from code review
-
-Co-authored-by: Andronik &lt;write@reusable.software&gt;
-
-Co-authored-by: Andronik &lt;write@reusable.software&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7d9ab5</div>
-                                        <div class="message">Bump chevdor/srtool-actions from 0.4.0 to 0.5.0 (#5769)
-
-Bumps [chevdor/srtool-actions](https://github.com/chevdor/srtool-actions) from 0.4.0 to 0.5.0.
-- [Release notes](https://github.com/chevdor/srtool-actions/releases)
-- [Commits](https://github.com/chevdor/srtool-actions/compare/v0.4.0...v0.5.0)
-
----
-updated-dependencies:
-- dependency-name: chevdor/srtool-actions
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5027d60</div>
-                                        <div class="message">Update release-99_bot.yml (#5764)
-
-* Update release-99_bot.yml
-
-* Update .github/workflows/release-99_bot.yml
-
-Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
