@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier/v0.12.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78e0337</div>
-                                        <div class="message">Companion of darwinia-network/darwinia-common#1332</div>
+                                        <div class="sha">#a47e737</div>
+                                        <div class="message">Companion of darwinia-network/darwinia-common#1332 Part.2</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier/v0.12.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dbb83e8</div>
-                                        <div class="message">Companion of darwinia-network/darwinia-common#1313</div>
+                                        <div class="sha">#89be23f</div>
+                                        <div class="message">Companion of darwinia-network/darwinia-common#1333</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">xavier/v0.12.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b23863e</div>
-                                        <div class="message">Remove Unnecessary Dep</div>
+                                        <div class="sha">#d78e79b</div>
+                                        <div class="message">Companion of darwinia-network/darwinia-common#1393</div>
                                     </div>
                                 </div>
                             </section>
@@ -82,19 +82,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">darwinia-network/darwinia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">xavier/v0.12.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8542201</div>
-                                        <div class="message">Anchor `darwinia-v0.12.4`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c2ea6c</div>
-                                        <div class="message">Code Cleaning (#935)</div>
+                                        <div class="sha">#9fa19d3</div>
+                                        <div class="message">Companion of darwinia-network/darwinia-common#1401</div>
                                     </div>
                                 </div>
                             </section>
@@ -106,19 +102,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">darwinia-network/darwinia-common</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">darwinia-v0.12.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a405253</div>
-                                        <div class="message">Code Cleaning (#1400)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a17191</div>
-                                        <div class="message">Bump Frontier (#1399)</div>
+                                        <div class="sha">#abac162</div>
+                                        <div class="message">Remove Unused Field (#1401)</div>
                                     </div>
                                 </div>
                             </section>
