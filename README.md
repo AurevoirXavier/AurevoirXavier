@@ -13,3 +13,6 @@
 <a href="https://github.com/AurevoirXavier">
   <img align="center" width="49%" src="./metrics.plugin.activity.svg"/>
 </a>
+<a href="https://github.com/AurevoirXavier">
+  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg"/>
+</a>
