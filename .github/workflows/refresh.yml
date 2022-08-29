@@ -36,7 +36,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_ignored: php
+          plugin_languages_ignored: handlebars, php
           plugin_languages_details: lines, bytes-size, percentage
   followup:
     runs-on: ubuntu-latest
@@ -46,8 +46,8 @@ jobs:
           filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes
   activity:
     runs-on: ubuntu-latest
     steps:
@@ -69,5 +69,4 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issue
