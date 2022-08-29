@@ -49,17 +49,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-  activity:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 20
-          plugin_activity_timestamps: yes
   notable:
     runs-on: ubuntu-latest
     steps:
@@ -72,3 +61,14 @@ jobs:
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 20
+          plugin_activity_timestamps: yes
