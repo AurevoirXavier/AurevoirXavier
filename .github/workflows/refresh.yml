@@ -47,6 +47,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
+          plugin_followup_sections: user
           plugin_followup_indepth: yes
   activity:
     runs-on: ubuntu-latest
