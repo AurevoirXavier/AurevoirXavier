@@ -11,8 +11,8 @@
   <img align="center" width="49%" src="./metrics.plugin.habits.facts.svg"/>
 </a>
 <a href="https://github.com/AurevoirXavier">
-  <img align="center" width="49%" src="./metrics.plugin.activity.svg"/>
+  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg"/>
 </a>
 <a href="https://github.com/AurevoirXavier">
-  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg"/>
+  <img align="center" width="49%" src="./metrics.plugin.activity.svg"/>
 </a>
