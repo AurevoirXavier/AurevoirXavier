@@ -38,17 +38,17 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: handlebars, php
           plugin_languages_details: lines, bytes-size, percentage
-  followup:
+  habits:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.indepth.svg
+          filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_followup_indepth: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
   activity:
     runs-on: ubuntu-latest
     steps:
