@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 4.95mb of code in 1724 edited files across 1182 commits</small>
+                <small>estimation from 4.95mb of code in 1727 edited files across 1184 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.6456771321462" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="436.6456771321462" y="0" width="11.463961457357076" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.1096385895033" y="0" width="8.994479264292409" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.1041178537957" y="0" width="1.5227126288659794" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.62683048266166" y="0" width="0.5102653467666354" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1370958294283" y="0" width="0.47220595126522963" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="459.60930178069356" y="0" width="0.3475866916588566" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9568884723524" y="0" width="0.04311152764761012" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.6512332687937" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="436.6512332687937" y="0" width="11.461234110615372" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.112467379409" y="0" width="8.992339422510312" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.1048068019193" y="0" width="1.5223503661924405" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.62715716811175" y="0" width="0.51014395151107" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1373011196228" y="0" width="0.4720936105732806" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="459.60939473019613" y="0" width="0.3475039986530853" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9568987288492" y="0" width="0.04310127115077027" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -69,7 +69,7 @@
                             <small>
                                 <div>1.20k lines</div>
                                 <div>26.7 kB</div>
-                                <div>1.96%</div>
+                                <div>1.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -144,7 +144,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M9.585.52a2.678 2.678 0 00-3.17 0l-.928.68a1.178 1.178 0 01-.518.215L3.83 1.59a2.678 2.678 0 00-2.24 2.24l-.175 1.14a1.178 1.178 0 01-.215.518l-.68.928a2.678 2.678 0 000 3.17l.68.928c.113.153.186.33.215.518l.175 1.138a2.678 2.678 0 002.24 2.24l1.138.175c.187.029.365.102.518.215l.928.68a2.678 2.678 0 003.17 0l.928-.68a1.17 1.17 0 01.518-.215l1.138-.175a2.678 2.678 0 002.241-2.241l.175-1.138c.029-.187.102-.365.215-.518l.68-.928a2.678 2.678 0 000-3.17l-.68-.928a1.179 1.179 0 01-.215-.518L14.41 3.83a2.678 2.678 0 00-2.24-2.24l-1.138-.175a1.179 1.179 0 01-.518-.215L9.585.52zM7.303 1.728c.415-.305.98-.305 1.394 0l.928.68c.348.256.752.423 1.18.489l1.136.174c.51.078.909.478.987.987l.174 1.137c.066.427.233.831.489 1.18l.68.927c.305.415.305.98 0 1.394l-.68.928a2.678 2.678 0 00-.489 1.18l-.174 1.136a1.178 1.178 0 01-.987.987l-1.137.174a2.678 2.678 0 00-1.18.489l-.927.68c-.415.305-.98.305-1.394 0l-.928-.68a2.678 2.678 0 00-1.18-.489l-1.136-.174a1.178 1.178 0 01-.987-.987l-.174-1.137a2.678 2.678 0 00-.489-1.18l-.68-.927a1.178 1.178 0 010-1.394l.68-.928c.256-.348.423-.752.489-1.18l.174-1.136c.078-.51.478-.909.987-.987l1.137-.174a2.678 2.678 0 001.18-.489l.927-.68zM11.28 6.78a.75.75 0 00-1.06-1.06L7 8.94 5.78 7.72a.75.75 0 00-1.06 1.06l1.75 1.75a.75.75 0 001.06 0l3.75-3.75z"/>
                         </svg>
-                        487 commits verified by GPG
+                        489 commits verified by GPG
                     </div>
                 </div>
             </section>
