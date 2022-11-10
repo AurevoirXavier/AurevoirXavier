@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1883" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1567" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,82 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/subalfred</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09f14e1</div>
+                                        <div class="message">Bump ss58-registry from 1.33.0 to 1.34.0 (#281)
+
+Bumps [ss58-registry](https://github.com/paritytech/ss58-registry) from 1.33.0 to 1.34.0.
+- [Release notes](https://github.com/paritytech/ss58-registry/releases)
+- [Changelog](https://github.com/paritytech/ss58-registry/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/paritytech/ss58-registry/compare/v1.33.0...v1.34.0)
+
+---
+updated-dependencies:
+- dependency-name: ss58-registry
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Nov 2022, 08:14:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/ss58-registry-1.34.0</span>
+                                        in
+                                        <span class="repo">hack-ink/subalfred</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Nov 2022, 08:14:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/shell-chain</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8196d3c</div>
+                                        <div class="message">Enable `kusama-native`, `rococo-native`</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Nov 2022, 08:12:17</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -356,238 +432,6 @@ Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">9 Nov 2022, 12:32:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">hack-ink/Grants-Program</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e0c7bff</div>
-                                        <div class="message">amend timeline (#1258)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d48174</div>
-                                        <div class="message">Update accepted_grant_applications.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52e18a6</div>
-                                        <div class="message">Update accepted_grant_applications.md (#1255)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddf9bc0</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Ink box</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e322108</div>
-                                        <div class="message">Added ink-boxes application (#1243)
-
-* Added ink-boxes application
-
-* Removed GitLab profile link since it is not opening
-
-* Updated milestone cost</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28dad12</div>
-                                        <div class="message">societal application update (#1249)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#391ca80</div>
-                                        <div class="message">Terminate RelationGraph (#1250)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e7f3e7</div>
-                                        <div class="message">
-                                            Update template (#1247)
-
-Cleaned up the template to mention things only once,
-                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFEklEQVR4nO2aO2wTdxjAvwlcJ8FKDJHJC1utRDg7cWwnjo2dOE78in13jlGlqksrVahLu7RLBVQdqi7t0C7twlJVahe6tEMpEMirQEoCsZ34cWdDEqAhhKRAIQlvvupLJ6TzuUsf+ss/6Sed7vsN/n939mSAChX+Febj8VeL8fhNOR5HNYvx+PJiInEAWKMoisuL8TiulpGagijeANYoiOKztaEhxERCVWqoBdaQRfHRrXgcnycSqlIji+JDYA1JENZXRBGfDw2pSo0kCPeBNWRBuLNCb0CZBdyMx2kBt4E1ZJ5fXRYEfE5LUJGaAs/fAtYoCMLSjb+xAGpknl8C1pB5fvEG/QaUW4AoYkEQFoA1ZJ4v/iYI+EwUVaWmwPMFYA2Z53PXeb7sAqiRBSELrCFFo+lrsRg+o7dAxauxGEqxWApYQ47Fpq/SG1BuATyPhWh0ClhDjkYnF6JRfMrzqlJTiMXOA2vIg4Pj84OD+DQWU5WawuDgGLCGFImcpsM9iUZVpSYfiQwDa8jh8PErkQg+oSWoSI0cifwErCFFIj8Ww2F8HImoWgiHMRcK/QCskQ8Gvy+EQviYlqAiNVI4fAxYIx8KfScFg/goFFKVGikU+hZYIx8IfJMPBPARLUFFagrB4NfAGvlA4Gh2YAAfBgKq5v7yKLBGbmDgq60FlJGanN//JbBGLhD4IjMwgA/KOEcLCAQ+B9bI+v2fzfX342Z/Pz4oIc2oyfj9nwJrZPv6Ppn1+3G9rw83/X5FN/x+pEby+z8G1sj6fB/N+ny47vPhZglpRo3U3/8hsEbW5zuU9vnwXm8vbpSQZtTkens/ANbIer3vp3p68K7Xi+slpBk1mZ6e94A1Zj2ed5NeL97xevG+x6PobY8Hqcl4ve8Aa8x6vW8nPR5cc7vxXglpRk2mp+cgsEbG5XozuX8/rrpceK+ENKMm43a/AayRdrtfn6FDdnfjH06nojSjJudyvQasMedyHbjU3Y0rTife7epSlGbUzLndCWCNtN0uXHQ6cbmzE+84HIrSjJqU3c4Da6QcjtB0Vxcu2e14u4RLDgdSk+zsDAJrJDs7+6YdDrxus+HvHR2K0oya2a6uXmCNWafTTYe7Roe1WhWlGTVph6MbWCPtcNinbDZcbG/HtbY2RWlGTcpqtQFrpKxW84WODlxob8dVi0VRmlEzY7NxwBqX7PZXfrVacd5iwVscp+gViwWpmXM4XgbWyJrNLZNtbXiZ43CltVXRIschNRfN5hZgjazZvG3SYtmc4TiUWlsVpdmk2bxBLbDIhX37Dk5y3Np5jkMlJzludXrv3rf+689ZoUKFCv8Yx5qaXjpnMh0ZN5nSEybTJknXZ02mw6NGowZYZtRgME4YjdLYnj042dyMM42NW9I13Rs3GvPUAKtPfqylRRpvbsacwYALu3a9IN2j2VhLS57JN+GXxsYjo01NmK2vx3m9XlGaUTPR2HgIWGOsoSF91mDAK7W1qlIz0tDA3h8lR3bv3pjeuRMv63SqUkMtsMYZg2FjSq/HYk2NqtScMRjWgTXO1NenJ/R6LFRVqUrN6fp6Br8Cev3hYb0eU9XVKGs0iiarqpCaEb2evR/BUQDNqbq6/HBtLSa1WpS2bXvBGa0WaTZcV5c/DrAdWORnjcZ4UqfLn9DpcKSmBs9rtXhOq926pnundLr8OY1mD7DMcYDtJ2tqDp2ork6d2LFjY8vq6iTdY/bJV4D/L38CmPi9qZxf59sAAAAASUVORK5CYII=" height="16" width="16" alt="" />
-                                            for everything that is constantly ignored.
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78fa796</div>
-                                        <div class="message">Office hours (#1244)
-
-* Update README.md
-
-First Draft
-
-* Add office hours form link, update text
-
-* Update README.md
-
-Remove second please
-
-Co-authored-by: Sebastian Müller &lt;sebastian@web3.foundation&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d895ff</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Signac completed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c4af03</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Add Substrate IPFS Utilities</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3beeb9</div>
-                                        <div class="message">Add IPFS Utilities application (#1187)
-
-* Add IPFS Utilities application
-
-* remove Milestone 3
-
-* Update IPFS util application
-
-* Update IPFS utilities grant application</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82d9970</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Ink Smart Contract Wizard</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f302c3</div>
-                                        <div class="message">Fix formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6419e9</div>
-                                        <div class="message">Added grant application (#1241)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17d1ecc</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Update native bitcoin vaults</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1860dd8</div>
-                                        <div class="message">Change image source for ParaSpell application (#1238)
-
-* Change image source for ParaSpell application
-
-- since old folder was removed from ParaSpell repository images are no longer linked.
-Thus we wish to replace them with permanent solution that is not linked anywhere in repo.
-
-* Repair one picture
-
-- One picture was replaced with wrong one, this commit fixes that.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad4b36f</div>
-                                        <div class="message">Update accepted_grant_applications.md
-
-Add Anagolay</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37767b5</div>
-                                        <div class="message">project idiyanale: multi-token community contributions for verified creators (#1224)
-
-* anagolay project idiyanale multi token community contributions for verified creators
-
-* Remove the mentions of DOT,KSM. Diagram as well</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4aac629</div>
-                                        <div class="message">move smart contract RFP</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Nov 2022, 12:22:42</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">guantong-add-pallets</span>
-                                        in
-                                        <span class="repo">darwinia-network/darwinia-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Nov 2022, 12:13:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/shell-chain</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5fa61d5</div>
-                                        <div class="message">Adjust the runtime pallets structure (#29)
-
-* frame-system
-
-* pallet-timestamp
-
-* pallet-authorship
-
-* pallet-balances
-
-* pallet-transaction-payment
-
-* pallet-parachain-system
-
-* pallet-parachain-info
-
-* pallet-aura-ext
-
-* pallet-xcmp-queue
-
-* pallet-dmp-queue
-
-* pallet-session
-
-* pallet-aura
-
-* pallet-collator-selection
-
-* format
-
-* deal ambiguous name
-
-* fix compile
-
-* clear imports
-
-* update visibility for pallets
-
-* add license for pallets
-
-* update darwinia comments</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Nov 2022, 12:12:59</div>
                             </section>
                         </div>
                     </section>
