@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1727" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1610" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,48 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#866f678</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Dec 2022, 09:09:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#020297c</div>
+                                        <div class="message">Refactor tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Dec 2022, 09:07:39</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -404,146 +446,6 @@ cc @AurevoirXavier</div>
 cc @AurevoirXavier</div>
                                 </div>
                                 <div class="timestamp">30 Nov 2022, 17:45:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">darwinia-network/darwinia-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/staking</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ee051ab</div>
-                                        <div class="message">Fix compile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c7dcc</div>
-                                        <div class="message">Fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d446075</div>
-                                        <div class="message">Merge and fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7845ccd</div>
-                                        <div class="message">Add `message-transact` back (#74)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e68b051</div>
-                                        <div class="message">Fix #72 (#79)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f12766b</div>
-                                        <div class="message">Bridge related pallets (#70)
-
-* Copy from Crab Parachain
-
-* Replace Crab Parachain &gt; Darwinia
-
-* bridge pallets, many errors need to fix
-
- Conflicts:
-	Cargo.lock
-	runtime/common/Cargo.toml
-	runtime/darwinia/src/pallets/mod.rs
-
-* Add fee_market
-
- Conflicts:
-	runtime/common/Cargo.toml
-
-* Update deps
-
-* Update deps
-
-* Add bridge related pallets to darwinia
-
-* Add bridge related pallets to crab
-
-* format
-
-* Update deps
-
-* review
-
-* comment
-
-Co-authored-by: bear &lt;boundless.forest@outlook.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc0ea38</div>
-                                        <div class="message">Add assets component (#69)
-
-* Add asset pallet
-
-* Add asset precompile
-
-* Add precompile interface
-
-* Impl all asset precompile interfaces
-
-* Self review
-
-* Code clean
-
-* Add mock file
-
-* Fix test compile
-
-* Add test 1
-
-* Add test 2
-
-* Add test 3
-
-* Add test 4
-
-* Finish test
-
-* Add another type
-
-* Update asset origin
-
-* Fix CI
-
-* Move out from Others
-
-* Add asset to other runtimes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5be305</div>
-                                        <div class="message">Crab &amp; Pangolin Runtime (#56)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Nov 2022, 17:41:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/staking</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#98c8a58</div>
-                                        <div class="message">Deposit functions</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Nov 2022, 17:24:50</div>
                             </section>
                         </div>
                     </section>
