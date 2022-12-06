@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1577" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1601" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,64 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#695 Use `array-bytes` for array/bytes/hex operations</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/parity-common</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            I've taken a look before and remained unconvinced.
+One of the benefits advertized:
+                                            <i>And it's completely no-std.</i>
+                                            We could also use
+                                            <code>rustc-hex</code>
+                                            without it's
+                                            <code>std</code>
+                                            feature and call it completely no-std this way.
+By switfly looking at https://github.com/hack-ink/array-bytes/blob/main/src/lib.rs I see a few problems:
+
+It's using unidiomatic function naming: https://rust-lang.github.io/api-guidelines/naming.html
+Unwraps and safe
+                                            <code>unchecked</code>
+                                            methods.
+It's not audited.
+
+So what's the benefit, really?
+                                        </i>
+                                        IMHO, the API is much easier to understand:
+                                        <code>x2y</code>
+                                        .
+It did provide some
+                                        <code>unchecked</code>
+                                        functions, but to use it, it's totally up to you. Maybe you are writing some off-chain tools or unit tests, then you might want to get rid of the
+                                        <code>Result</code>
+                                        .
+True. But I'd love to push this. 
+It's faster than rust-hex.
+And it provides some
+                                        <code>*_into</code>
+                                        functions which are pretty convenient/handy for Substrate/blockchain development.
+Also, some
+                                        <code>serde</code>
+                                        support.
+
+For me, I want to bring these to other blockchain developers.
+It's really an honor and a good example to be a part of the parity-common (the most frequently used blockchain library).
+Would you consider this?
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Dec 2022, 13:03:21</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -506,31 +564,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div>3 files changed <span class="code">++60 --32</span></div>
                                 </div>
                                 <div class="timestamp">6 Dec 2022, 08:57:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1720db6</div>
-                                        <div class="message">Handle reference count (#102)
-
-* Handle reference count
-
-* Fix test</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Dec 2022, 08:57:02</div>
                             </section>
                         </div>
                     </section>
