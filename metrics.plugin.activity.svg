@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2116" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1534" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,85 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/account-genesis</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#28b092e</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into xavier/account-genesis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b19e28</div>
+                                        <div class="message">Add `bridge_parachains` pallet (#122)
+
+* Update Grandpa Name
+
+* Add bridge parachain pallet
+
+* Correct bridge message verify
+
+* type HeadersToKeep
+
+* Fix CI
+
+* Fix CI</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Dec 2022, 05:51:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/account-genesis</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#91c46b7</div>
+                                        <div class="message">Update scope</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Dec 2022, 05:50:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia-2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/account-genesis</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2456a48</div>
+                                        <div class="message">Purge locks</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Dec 2022, 05:08:27</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -408,217 +487,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">12 Dec 2022, 08:39:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/scale-info-2.3.1</span>
-                                        in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Dec 2022, 08:39:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 92 commits in
-                                        <span class="repo">AurevoirXavier/AurevoirXavier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7cf8904</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2282643</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#069654f</div>
-                                        <div class="message">Update metrics.plugin.isocalendar.fullyear.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76e6984</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00071b9</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69008fe</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b821548</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#351663f</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f836e2a</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd1065e</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1aaa419</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8416d6e</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ae111c</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb71d86</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f9a03e</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5208bd</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e46dd5f</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e49f23</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b82e52</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68f0fda</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Dec 2022, 08:38:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 41 commits in
-                                        <span class="repo">AurevoirXavier/AurevoirXavier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe70bc</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0521093</div>
-                                        <div class="message">Update metrics.plugin.isocalendar.fullyear.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9936a3</div>
-                                        <div class="message">Update metrics.plugin.languages.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#892f02b</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5907235</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a9fb46</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a53a009</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9120a1</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ba3e99</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1599109</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3d2dfa</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8baa124</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6230ee0</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64589c0</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96a1177</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c35846</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d61aa71</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46ad3d4</div>
-                                        <div class="message">Update metrics.base.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7595de0</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7734edf</div>
-                                        <div class="message">Update metrics.plugin.notable.indepth.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Dec 2022, 08:37:54</div>
                             </section>
                         </div>
                     </section>
