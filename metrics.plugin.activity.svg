@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1584" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,108 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/bench-staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#53e173f</div>
+                                        <div class="message">Fix compile</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2023, 21:56:15</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/bench-staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#872bd82</div>
+                                        <div class="message">Fix tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2023, 21:53:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/bench-staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84bf713</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into xavier/bench-staking</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94a0a2a</div>
+                                        <div class="message">Adjust weight to fee (#1066)
+
+* Adjust weight to fee
+
+* Fix Pangolin/Pangoro runtime common tests
+
+* Fix ts test and update the FeeCalculator returned weight
+
+---------
+
+Co-authored-by: bear &lt;boundless.forest@outlook.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2023, 21:48:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/bench-staking</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aa03eec</div>
+                                        <div class="message">Fix compile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02cd8b1</div>
+                                        <div class="message">Bench staking</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2023, 21:47:59</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -370,93 +472,6 @@ Co-authored-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">23 Mar 2023, 16:57:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">mayooear/gpt4-pdf-chatbot-langchain</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Mar 2023, 16:49:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/serde-1.0.158</span>
-                                        in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Mar 2023, 16:43:19</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ff9b2d</div>
-                                        <div class="message">Bump serde from 1.0.157 to 1.0.158 (#431)
-
-Bumps [serde](https://github.com/serde-rs/serde) from 1.0.157 to 1.0.158.
-- [Release notes](https://github.com/serde-rs/serde/releases)
-- [Commits](https://github.com/serde-rs/serde/compare/v1.0.157...v1.0.158)
-
----
-updated-dependencies:
-- dependency-name: serde
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Mar 2023, 16:43:19</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/cargo/serde-1.0.158</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d814b3</div>
-                                        <div class="message">Merge branch 'main' into dependabot/cargo/serde-1.0.158</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Mar 2023, 16:36:39</div>
                             </section>
                         </div>
                     </section>
