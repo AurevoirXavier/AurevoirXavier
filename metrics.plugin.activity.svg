@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1777" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2161" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,1323 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/pallet-tips</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#286fd79</div>
+                                        <div class="message">Fix</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 03:00:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1709 Add `MaxTipAmount` for pallet-tips</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div>5 files changed <span class="code">++35 --1</span></div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:52:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/pallet-tips</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e74d1a6</div>
+                                        <div class="message">Add `MaxTipAmount` for pallet-tips</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:51:44</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">xavier/pallet-tips</span>
+                                        in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:16:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1708 CI check features</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div>1 file changed <span class="code">++18 --0</span></div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:16:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1537 CI checks features</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div>0 files changed <span class="code">++0 --0</span></div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:15:15</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">xavier/ci</span>
+                                        in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:12:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 43 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1517eb8</div>
+                                        <div class="message">Bump the known_good_semver group with 2 updates (#1620)
+
+[//]: # (dependabot-start)
+⚠️  **Dependabot is rebasing this PR** ⚠️ 
+
+Rebasing might not happen immediately, so don't worry if this takes some
+time.
+
+Note: if you make any changes to this PR yourself, they will take
+precedence over the rebase.
+
+---
+
+[//]: # (dependabot-end)
+
+Bumps the known_good_semver group with 2 updates:
+[clap](https://github.com/clap-rs/clap) and
+[syn](https://github.com/dtolnay/syn).
+
+Updates `clap` from 4.4.3 to 4.4.4
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/clap-rs/clap/releases"&gt;clap's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.4.4&lt;/h2&gt;
+&lt;h2&gt;[4.4.4] - 2023-09-18&lt;/h2&gt;
+&lt;h3&gt;Internal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update &lt;code&gt;terminal_size&lt;/code&gt; to 0.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/clap-rs/clap/blob/master/CHANGELOG.md"&gt;clap's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;[4.4.4] - 2023-09-18&lt;/h2&gt;
+&lt;h3&gt;Internal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update &lt;code&gt;terminal_size&lt;/code&gt; to 0.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/e6e539660f36487e3521ab6835ef1381a21785a4"&gt;&lt;code&gt;e6e5396&lt;/code&gt;&lt;/a&gt;
+chore: Release&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/acbb60c11389d362e3b2d23a7b2a0a0523bd2fa8"&gt;&lt;code&gt;acbb60c&lt;/code&gt;&lt;/a&gt;
+docs: Update changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/f09d521450c50f56153f7246489666c71e3b4739"&gt;&lt;code&gt;f09d521&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/clap-rs/clap/issues/5129"&gt;#5129&lt;/a&gt;
+from cgwalters/widen-terminal-size&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/84f99ff979d58e3fe94716144b1800fd81723ed7"&gt;&lt;code&gt;84f99ff&lt;/code&gt;&lt;/a&gt;
+chore(builder): Bump terminal_size to 0.3&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/7f8df272d90afde89e40de086492e1c9f5749897"&gt;&lt;code&gt;7f8df27&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/clap-rs/clap/issues/5124"&gt;#5124&lt;/a&gt;
+from devinherron/master&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/clap-rs/clap/commit/4dff87386a950d8dfa8e89906e9bf54d180d13de"&gt;&lt;code&gt;4dff873&lt;/code&gt;&lt;/a&gt;
+fix(doc): Fix typo in 03_04_subcommands.md&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/clap-rs/clap/compare/v4.4.3...v4.4.4"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `syn` from 2.0.36 to 2.0.37
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dtolnay/syn/releases"&gt;syn's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.37&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Work around incorrect future compatibility warning in rustc
+1.74.0-nightly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/96810880f3acbb63415cf4684ab42c82edc31e2a"&gt;&lt;code&gt;9681088&lt;/code&gt;&lt;/a&gt;
+Release 2.0.37&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/fbe3bc2ddcee4192f95697a953330d031030f5a1"&gt;&lt;code&gt;fbe3bc2&lt;/code&gt;&lt;/a&gt;
+Work around unknown_lints warning on rustc older than 1.64&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/75cf912e061ef5a1d97c003f4988f43d7639f5a8"&gt;&lt;code&gt;75cf912&lt;/code&gt;&lt;/a&gt;
+Ignore more repr_transparent_external_private_fields&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/299c782439823b868de4aea3682b41d03351d978"&gt;&lt;code&gt;299c782&lt;/code&gt;&lt;/a&gt;
+Ignore false repr_transparent_external_private_fields FCW in generated
+code&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/dtolnay/syn/compare/2.0.36...2.0.37"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7d29bc</div>
+                                        <div class="message">XCM: Deprecate old functions (#1645)
+
+Two old functions should be deprecated and have their code altered in
+line with capabilities of XCMv2 and above.
+
+This means we can use the proper `Unlimited` form of weight limit rather
+than guessing weight from the local chain.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f00edb</div>
+                                        <div class="message">Refactor availability-recovery strategies (#1457)
+
+Refactors availability-recovery strategies to allow for easily adding
+new hotpaths and failover mechanisms.
+
+The new interface allows for chaining multiple `RecoveryStrategy`-es
+together, to cleanly express the relationship between them and share
+state and code where neccessary/possible:
+
+This was done in order to aid in implementing new hotpaths like
+[systematic chunks
+recovery](https://github.com/paritytech/polkadot-sdk/issues/598) and
+[fetching from approval
+checkers](https://github.com/paritytech/polkadot-sdk/issues/575).
+
+Thanks to this design, intermediate state can be shared between the
+strategies. For example, if the systematic chunks recovery retrieved
+less than the needed amount of chunks, pass them over to the next
+FetchChunks strategy, which will only need to recover the remaining
+number of chunks.
+
+Draft example of how a systematic chunk recovery strategy would look:
+https://github.com/paritytech/polkadot-sdk/commit/667d870bdf1470525d66c13929d5eac7249dd995
+(notice how easy it was to add and reuse code)
+
+Note that this PR doesn't itself add any new strategy, it should fully
+preserve backwards compatiblity in terms of functionality. Follow-up PRs
+to add new strategies will come.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#771c3fb</div>
+                                        <div class="message">Disable Calls to Identity Pallet (#1476)
+
+This PR filters calls from the Identity pallet from all Relay Chain
+runtimes as preparation to move the identity state and logic to a system
+parachain within each network.
+
+After this change is deployed to a runtime, no more changes such as
+adding new sub-identities will be possible. The frozen state will be
+part of the genesis state of the system chain. After the system chain
+launches, the pallet and all state will be removed from each Relay
+Chain.
+
+Applications and UIs that render display information from this pallet
+will need to read from the system chain when it launches.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdbdbc7</div>
+                                        <div class="message">allow governance body on parachain to have sovereign account (#1291)
+
+The goal is to allow Fellowship on Collective chain to have a sovereign
+account on Polkadot so that we can add it as an identity registrar. This
+will allow Fellows origin to be able to provide judgements for
+Fellowship members.
+
+This currently allow any body on any parachain including non system
+parachains to have sovereign account. I cannot think of any reason why
+that may be an issue but let me know if I should change it to filter
+only system parachains.
+
+[This](https://gist.github.com/xlc/ec61bfa4e9f6d62da27d30141ad2c72b) is
+the testing script.
+
+Original PR: https://github.com/paritytech/polkadot/pull/7518</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d96c8d</div>
+                                        <div class="message">Add Method to Establish HRMP Channels Among System Parachains (#1473)
+
+Solution to establish HRMP channels between system parachains.
+
+---------
+
+Co-authored-by: Muharem Ismailov &lt;ismailov.m.h@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3061c1</div>
+                                        <div class="message">archive: Fetch body, genesisHash and header (#1560)
+
+This PR lays the foundation for implementing the archive RPC methods.
+
+The methods implemented by this PR:
+- archive_unstable_body: Fetch the block's body (a vector of hex-encoded
+scale-encoded extrinsics) from a given block hash
+- archive_unstable_genesisHash: Fetch the genesis hash
+- archive_unstable_header: Fetch the header from a given block hash
+
+Added unit tests for the methods.
+
+This PR is implementing the methods without exposing them to the RPC
+layer; which are to be exposed by a follow-up PR.
+
+Closes: https://github.com/paritytech/polkadot-sdk/issues/1509 
+Closes: https://github.com/paritytech/polkadot-sdk/issues/1514
+
+@paritytech/subxt-team
+
+---------
+
+Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6079b6d</div>
+                                        <div class="message">Remove Polkadot &amp; Kusama native runtime (#1304)
+
+This pull request removes the Polkadot and Kusama native runtime from
+the polkadot node. This brings some implications with it:
+
+There are no more kusama/polkadot-dev chain specs available. We will
+need to write some tooling in the fellowship repo to provide them
+easily.
+
+The try-runtime job for polkadot &amp; kusama is not available anymore as we
+don't have the dev chain specs anymore.
+
+Certain benchmarking commands will also not work until we migrate them
+to use a runtime api.
+
+Some crates in utils are still depending on the polkadot/kusama native
+runtime that will also need to be fixed.
+
+Port of: https://github.com/paritytech/polkadot/pull/7467</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#122086d</div>
+                                        <div class="message">Revert #1409 partially (#1603)
+
+Futures channels that are used by default has a side effect of
+`Sender::Clone` that efficiently increases the capacity of the bounded
+channel by one. This PR fixes the undesired backpressure removal that
+was caused by the #1409. This issue has been discovered by @sandreim
+during Versi testing and needs to be treated as critical that should not
+be included in any release without this reversion.
+
+This PR reverts the original behaviour.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffe5db0</div>
+                                        <div class="message">Staking: Add `dest` to `Rewarded` to aid in reward calculations (#1602)
+
+Addresses https://github.com/paritytech/polkadot-sdk/issues/129.
+
+Returns `Self:payee()` from `make_payout` in a tuple alongside an
+imbalance &amp; adds it to `Rewarded` event.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a181ced</div>
+                                        <div class="message">Replace free for all collation in `cumulus` runtimes (#1251)
+
+Partially fixes #103 
+
+This PR removes instances of "free for all" collation in the `glutton`,
+`shell`, and `seedling` runtimes and replaces them with Aura instances.
+Aura is configured without a session manager, so the initial authority
+set cannot be changed later on.
+
+---------
+
+Signed-off-by: georgepisaltu &lt;george.pisaltu@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6f5e23</div>
+                                        <div class="message">[ci] Publish implementers guide (#1615)
+
+PR adds a job that publishes implementers guide
+
+cc https://github.com/paritytech/polkadot-sdk/issues/1614
+cc https://github.com/paritytech/ci_cd/issues/879</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8900d5b</div>
+                                        <div class="message">Move ISSUE_TEMPLATE (#1567)
+
+This PR moves the `ISSUE_TEMPLATE` to the root and removes the old ones.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#372929f</div>
+                                        <div class="message">Bump the known_good_semver group with 1 update (#1606)
+
+Bumps the known_good_semver group with 1 update:
+[syn](https://github.com/dtolnay/syn).
+
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dtolnay/syn/releases"&gt;syn's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.36&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restore compatibility with
+&lt;code&gt;--generate-link-to-definition&lt;/code&gt; documentation builds (&lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1514"&gt;#1514&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.0.35&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make rust-analyzer produce preferred brackets for invocations of
+&lt;code&gt;Token!&lt;/code&gt; macro (&lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1510"&gt;#1510&lt;/a&gt;, &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1512"&gt;#1512&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.0.34&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentation improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/ef6476c76431da488720c8ee3fdfff57a199a848"&gt;&lt;code&gt;ef6476c&lt;/code&gt;&lt;/a&gt;
+Release 2.0.36&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/6ae1a9756a128f18341a4cba56772ee1715a06e2"&gt;&lt;code&gt;6ae1a97&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1514"&gt;#1514&lt;/a&gt;
+from dtolnay/pubnotdoc&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/7bfef4b2befee954bc002724c8331612fed3d47f"&gt;&lt;code&gt;7bfef4b&lt;/code&gt;&lt;/a&gt;
+Work around doc breakage in generate-link-to-definition mode&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/ce360ff4b1695311dcc569ade1fc9ff1ff6ac4d9"&gt;&lt;code&gt;ce360ff&lt;/code&gt;&lt;/a&gt;
+Release 2.0.35&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/23736bdc48a964286ea032ea5c172574239119ef"&gt;&lt;code&gt;23736bd&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1512"&gt;#1512&lt;/a&gt;
+from dtolnay/tokendoc&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/6f6b0040d420abfda0b5504dc13b7c76319ebccd"&gt;&lt;code&gt;6f6b004&lt;/code&gt;&lt;/a&gt;
+Improve docs of Token! macro&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/319433e12a0e13d1b549a189ae1ce1d3293a7ea9"&gt;&lt;code&gt;319433e&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1510"&gt;#1510&lt;/a&gt;
+from ModProg/patch-3&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/975ce0b7c4319166ff0ae5ea839d923410615dae"&gt;&lt;code&gt;975ce0b&lt;/code&gt;&lt;/a&gt;
+Release 2.0.34&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/858e578d1e3aed3d7ac965a59b5044a1ca4eadf2"&gt;&lt;code&gt;858e578&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1511"&gt;#1511&lt;/a&gt;
+from dtolnay/notdoc&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/1b0d7f807862cb36256848a9f55a81a9aca41976"&gt;&lt;code&gt;1b0d7f8&lt;/code&gt;&lt;/a&gt;
+Add cfg(not(doc)) to doc(hidden) functions&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/dtolnay/syn/compare/2.0.33...2.0.36"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=syn&amp;package-manager=cargo&amp;previous-version=2.0.33&amp;new-version=2.0.36)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d34664</div>
+                                        <div class="message">chainHead: Add support for storage closest merkle descendant #14818 (#1153)
+
+This PR adds support for fetching the closest merkle value of some key.
+
+
+Builds on top of
+- https://github.com/paritytech/trie/pull/199
+
+Migrates https://github.com/paritytech/substrate/pull/14818 to the
+monorepo.
+Closes: https://github.com/paritytech/substrate/issues/14550
+Closes: https://github.com/paritytech/polkadot-sdk/issues/1506
+
+// @paritytech/subxt-team
+
+---------
+
+Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;
+Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20052e1</div>
+                                        <div class="message">Bump docker/build-push-action from 4 to 5 (#1552)
+
+Bumps
+[docker/build-push-action](https://github.com/docker/build-push-action)
+from 4 to 5.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/docker/build-push-action/releases"&gt;docker/build-push-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v5.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node 20 as default runtime (requires &lt;a
+href="https://github.com/actions/runner/releases/tag/v2.308.0"&gt;Actions
+Runner v2.308.0&lt;/a&gt; or later) by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/954"&gt;docker/build-push-action#954&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/959"&gt;docker/build-push-action#959&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v4.2.1...v5.0.0"&gt;https://github.com/docker/build-push-action/compare/v4.2.1...v5.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v4.2.1&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Buildx v0.10 enables support for a minimal &lt;a
+href="https://slsa.dev/provenance/"&gt;SLSA Provenance&lt;/a&gt; attestation,
+which requires support for &lt;a
+href="https://github.com/opencontainers/image-spec"&gt;OCI-compliant&lt;/a&gt;
+multi-platform images. This may introduce issues with registry and
+runtime support (e.g. &lt;a
+href="https://redirect.github.com/docker/buildx/issues/1533"&gt;Google
+Cloud Run and AWS Lambda&lt;/a&gt;). You can optionally disable the default
+provenance attestation functionality using &lt;code&gt;provenance:
+false&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;warn if docker config can't be parsed by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/957"&gt;docker/build-push-action#957&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v4.2.0...v4.2.1"&gt;https://github.com/docker/build-push-action/compare/v4.2.0...v4.2.1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v4.2.0&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Buildx v0.10 enables support for a minimal &lt;a
+href="https://slsa.dev/provenance/"&gt;SLSA Provenance&lt;/a&gt; attestation,
+which requires support for &lt;a
+href="https://github.com/opencontainers/image-spec"&gt;OCI-compliant&lt;/a&gt;
+multi-platform images. This may introduce issues with registry and
+runtime support (e.g. &lt;a
+href="https://redirect.github.com/docker/buildx/issues/1533"&gt;Google
+Cloud Run and AWS Lambda&lt;/a&gt;). You can optionally disable the default
+provenance attestation functionality using &lt;code&gt;provenance:
+false&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;display proxy configuration by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/872"&gt;docker/build-push-action#872&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.6.0
+to 0.8.0 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/930"&gt;docker/build-push-action#930&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): Bump word-wrap from 1.2.3 to 1.2.5 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/925"&gt;docker/build-push-action#925&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): Bump semver from 6.3.0 to 6.3.1 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/902"&gt;docker/build-push-action#902&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v4.1.1...v4.2.0"&gt;https://github.com/docker/build-push-action/compare/v4.1.1...v4.2.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v4.1.1&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Buildx v0.10 enables support for a minimal &lt;a
+href="https://slsa.dev/provenance/"&gt;SLSA Provenance&lt;/a&gt; attestation,
+which requires support for &lt;a
+href="https://github.com/opencontainers/image-spec"&gt;OCI-compliant&lt;/a&gt;
+multi-platform images. This may introduce issues with registry and
+runtime support (e.g. &lt;a
+href="https://redirect.github.com/docker/buildx/issues/1533"&gt;Google
+Cloud Run and AWS Lambda&lt;/a&gt;). You can optionally disable the default
+provenance attestation functionality using &lt;code&gt;provenance:
+false&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.3.0 to 0.5.0 by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/880"&gt;docker/build-push-action#880&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v4.1.0...v4.1.1"&gt;https://github.com/docker/build-push-action/compare/v4.1.0...v4.1.1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v4.1.0&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Buildx v0.10 enables support for a minimal &lt;a
+href="https://slsa.dev/provenance/"&gt;SLSA Provenance&lt;/a&gt; attestation,
+which requires support for &lt;a
+href="https://github.com/opencontainers/image-spec"&gt;OCI-compliant&lt;/a&gt;
+multi-platform images. This may introduce issues with registry and
+runtime support (e.g. &lt;a
+href="https://redirect.github.com/docker/buildx/issues/1533"&gt;Google
+Cloud Run and AWS Lambda&lt;/a&gt;). You can optionally disable the default
+provenance attestation functionality using &lt;code&gt;provenance:
+false&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Switch to actions-toolkit implementation by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/811"&gt;docker/build-push-action#811&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/838"&gt;docker/build-push-action#838&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/855"&gt;docker/build-push-action#855&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/860"&gt;docker/build-push-action#860&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/875"&gt;docker/build-push-action#875&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;e2e: quay.io by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/799"&gt;docker/build-push-action#799&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/805"&gt;docker/build-push-action#805&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;e2e: local harbor and nexus by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/800"&gt;docker/build-push-action#800&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;e2e: add artifactory container registry to test against by &lt;a
+href="https://github.com/jedevc"&gt;&lt;code&gt;@​jedevc&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/804"&gt;docker/build-push-action#804&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;e2e: add distribution tests by &lt;a
+href="https://github.com/jedevc"&gt;&lt;code&gt;@​jedevc&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/814"&gt;docker/build-push-action#814&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/815"&gt;docker/build-push-action#815&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v4.0.0...v4.1.0"&gt;https://github.com/docker/build-push-action/compare/v4.0.0...v4.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/0565240e2d4ab88bba5387d719585280857ece09"&gt;&lt;code&gt;0565240&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/959"&gt;#959&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/actions/core-1.10.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/3ab07f880128dd3b47d7764b661d608b1e37712a"&gt;&lt;code&gt;3ab07f8&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/b9e7e4daec1dd1fed28b226354d2eef8aa92ca38"&gt;&lt;code&gt;b9e7e4d&lt;/code&gt;&lt;/a&gt;
+chore(deps): Bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/04d1a3b0491bb1fbd0843d1fea3390e385bf2252"&gt;&lt;code&gt;04d1a3b&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/954"&gt;#954&lt;/a&gt;
+from crazy-max/update-node20&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/1a4d1a13fb219ebf616f93930a8c4c6a9ff24155"&gt;&lt;code&gt;1a4d1a1&lt;/code&gt;&lt;/a&gt;
+chore: node 20 as default runtime&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/675965c0e16f1a0f94ecafff969d8c966f92c17b"&gt;&lt;code&gt;675965c&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/58ee34cb6bad9fc3b471453afb4ed741cb0e6ff3"&gt;&lt;code&gt;58ee34c&lt;/code&gt;&lt;/a&gt;
+chore: fix author in package.json&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/c97c4060bdc51e97b1b2a972eab2f77d6ae8e57a"&gt;&lt;code&gt;c97c406&lt;/code&gt;&lt;/a&gt;
+fix ProxyConfig type when checking length&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/47d5369e0b15ff3b951d5787a265fbecf0fc2bac"&gt;&lt;code&gt;47d5369&lt;/code&gt;&lt;/a&gt;
+vendor: bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.8.0 to
+0.12.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/8895c7468fbe88881dcc4c5b416553e604722cf2"&gt;&lt;code&gt;8895c74&lt;/code&gt;&lt;/a&gt;
+chore: update dev dependencies&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/docker/build-push-action/compare/v4...v5"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=docker/build-push-action&amp;package-manager=github_actions&amp;previous-version=4&amp;new-version=5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Chevdor &lt;chevdor@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a50e6ba</div>
+                                        <div class="message">Bump docker/login-action from 2 to 3 (#1531)
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from
+2 to 3.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/docker/login-action/releases"&gt;docker/login-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node 20 as default runtime (requires &lt;a
+href="https://github.com/actions/runner/releases/tag/v2.308.0"&gt;Actions
+Runner v2.308.0&lt;/a&gt; or later) by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/593"&gt;docker/login-action#593&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/598"&gt;docker/login-action#598&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​aws-sdk/client-ecr&lt;/code&gt; and
+&lt;code&gt;@​aws-sdk/client-ecr-public&lt;/code&gt; to 3.410.0 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/555"&gt;docker/login-action#555&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/560"&gt;docker/login-action#560&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/582"&gt;docker/login-action#582&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/599"&gt;docker/login-action#599&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump semver from 6.3.0 to 6.3.1 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/556"&gt;docker/login-action#556&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump https-proxy-agent to 7.0.2 &lt;a
+href="https://redirect.github.com/docker/login-action/pull/561"&gt;docker/login-action#561&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/588"&gt;docker/login-action#588&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/login-action/compare/v2.2.0...v3.0.0"&gt;https://github.com/docker/login-action/compare/v2.2.0...v3.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.2.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Switch to actions-toolkit implementation by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/409"&gt;docker/login-action#409&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/470"&gt;docker/login-action#470&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/476"&gt;docker/login-action#476&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​aws-sdk/client-ecr&lt;/code&gt; and
+&lt;code&gt;@​aws-sdk/client-ecr-public&lt;/code&gt; to 3.347.1 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/524"&gt;docker/login-action#524&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/364"&gt;docker/login-action#364&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/pull/363"&gt;docker/login-action#363&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump minimatch from 3.0.4 to 3.1.2 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/354"&gt;docker/login-action#354&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump json5 from 2.2.0 to 2.2.3 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/378"&gt;docker/login-action#378&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump http-proxy-agent from 5.0.0 to 7.0.0 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/509"&gt;docker/login-action#509&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump https-proxy-agent from 5.0.1 to 7.0.0 in &lt;a
+href="https://redirect.github.com/docker/login-action/pull/508"&gt;docker/login-action#508&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/login-action/compare/v2.1.0...v2.2.0"&gt;https://github.com/docker/login-action/compare/v2.1.0...v2.2.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.1.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure AWS temp credentials are redacted in workflow logs by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; (&lt;a
+href="https://redirect.github.com/docker/login-action/issues/275"&gt;#275&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.6.0 to 1.10.0 (&lt;a
+href="https://redirect.github.com/docker/login-action/issues/252"&gt;#252&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/login-action/issues/292"&gt;#292&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​aws-sdk/client-ecr&lt;/code&gt; from 3.53.0 to 3.186.0 (&lt;a
+href="https://redirect.github.com/docker/login-action/issues/298"&gt;#298&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​aws-sdk/client-ecr-public&lt;/code&gt; from 3.53.0 to 3.186.0
+(&lt;a
+href="https://redirect.github.com/docker/login-action/issues/299"&gt;#299&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/login-action/compare/v2.0.0...v2.1.0"&gt;https://github.com/docker/login-action/compare/v2.0.0...v2.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/343f7c4344506bcbf9b4de18042ae17996df046d"&gt;&lt;code&gt;343f7c4&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/login-action/issues/599"&gt;#599&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/aws-sdk-dependenc...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/aad0f974f21dc644b324e9fa84c4e364f62acbe6"&gt;&lt;code&gt;aad0f97&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/2e0cd391447ec1a654ce199502a5d596fad131a2"&gt;&lt;code&gt;2e0cd39&lt;/code&gt;&lt;/a&gt;
+build(deps): bump the aws-sdk-dependencies group with 2 updates&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/203bc9c4eff55a7fac1552bc4811dc0ea4814f2e"&gt;&lt;code&gt;203bc9c&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/login-action/issues/588"&gt;#588&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/proxy-agent-depen...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/2199648fc889a2592472959743a8e7d4423bcb29"&gt;&lt;code&gt;2199648&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/b489376173c4ff2c6e783dcb597ba8eff69245fe"&gt;&lt;code&gt;b489376&lt;/code&gt;&lt;/a&gt;
+build(deps): bump the proxy-agent-dependencies group with 1 update&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/7c309e74e68d0a0055fd02607b10b3d96510544c"&gt;&lt;code&gt;7c309e7&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/login-action/issues/598"&gt;#598&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/actions/core-1.10.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/0ccf222961de35820c1704a0293ca7483b07d065"&gt;&lt;code&gt;0ccf222&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/56d703e106032867ad04c1e54d781c209f451e26"&gt;&lt;code&gt;56d703e&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/login-action/issues/597"&gt;#597&lt;/a&gt;
+from docker/dependabot/github_actions/aws-actions/con...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/login-action/commit/24d3b3519e6e369d4d0a307a02881c2f81318560"&gt;&lt;code&gt;24d3b35&lt;/code&gt;&lt;/a&gt;
+build(deps): bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/docker/login-action/compare/v2...v3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=docker/login-action&amp;package-manager=github_actions&amp;previous-version=2&amp;new-version=3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Sergejs Kostjucenko &lt;85877331+sergejparity@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f14bf34</div>
+                                        <div class="message">Broker pallet: `RegionDropped` event fix &amp; additional tests (#1609)
+
+This PR includes the following fix:
+- [x] The `duration` is always set to zero in the `RegionDropped` event.
+This is fixed in this PR.
+
+Also added some additional tests to cover some cases that aren't covered
+:
+- [x] Selling a partitioned region to the instantaneous coretime pool.
+- [x] Partitioning a region after assigning it to a particular task.
+- [x] Interlacing a region after assigning it to a particular task.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#519a0f0</div>
+                                        <div class="message">Replace secrets with the new ones (#1564)
+
+In the monorepo, secrets used in the various previous repos have been
+renamed into:
+- `CUMULUS_DOCKERHUB_USERNAME`
+- `CUMULUS_DOCKERHUB_TOKEN`
+- `POLKADOT_DOCKERHUB_USERNAME`
+- `POLKADOT_DOCKERHUB_TOKEN`
+
+This PR makes those changes and remove one of the GHW that has now been
+updated for the monorepo.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e05d369</div>
+                                        <div class="message">Bump docker/setup-buildx-action from 2.1.0 to 3.0.0 (#1551)
+
+Bumps
+[docker/setup-buildx-action](https://github.com/docker/setup-buildx-action)
+from 2.1.0 to 3.0.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/docker/setup-buildx-action/releases"&gt;docker/setup-buildx-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node 20 as default runtime (requires &lt;a
+href="https://github.com/actions/runner/releases/tag/v2.308.0"&gt;Actions
+Runner v2.308.0&lt;/a&gt; or later) by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/264"&gt;docker/setup-buildx-action#264&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/267"&gt;docker/setup-buildx-action#267&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.10.0...v3.0.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.10.0...v3.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.10.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.7.1 to 0.10.0 by
+&lt;a href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/258"&gt;docker/setup-buildx-action#258&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump word-wrap from 1.2.3 to 1.2.5 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/253"&gt;docker/setup-buildx-action#253&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.9.1...v2.10.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.9.1...v2.10.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.9.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.7.0 to 0.7.1 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/248"&gt;docker/setup-buildx-action#248&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixes an issue where building Buildx does not match the local
+platform (&lt;a
+href="https://redirect.github.com/docker/actions-toolkit/pull/135"&gt;docker/actions-toolkit#135&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.9.0...v2.9.1"&gt;https://github.com/docker/setup-buildx-action/compare/v2.9.0...v2.9.1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.9.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.6.0 to 0.7.0 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/246"&gt;docker/setup-buildx-action#246&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds support to cache Buildx binary to hosted tool cache and GHA
+cache backend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.8.0...v2.9.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.8.0...v2.9.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.8.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Only set specific flags for drivers supporting them by &lt;a
+href="https://github.com/nicks"&gt;&lt;code&gt;@​nicks&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/241"&gt;docker/setup-buildx-action#241&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.5.0 to 0.6.0 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/242"&gt;docker/setup-buildx-action#242&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.7.0...v2.8.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.7.0...v2.8.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.7.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.3.0 to 0.5.0 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/237"&gt;docker/setup-buildx-action#237&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/238"&gt;docker/setup-buildx-action#238&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.6.0...v2.7.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.6.0...v2.7.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.6.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Set node name for k8s driver when appending nodes by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/219"&gt;docker/setup-buildx-action#219&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.1.0-beta.18 to
+0.3.0 in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/220"&gt;docker/setup-buildx-action#220&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/229"&gt;docker/setup-buildx-action#229&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/231"&gt;docker/setup-buildx-action#231&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/236"&gt;docker/setup-buildx-action#236&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.5.0...v2.6.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.5.0...v2.6.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.5.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cleanup&lt;/code&gt; input to remove builder and temp files by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/213"&gt;docker/setup-buildx-action#213&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;do not remove builder using the &lt;code&gt;docker&lt;/code&gt; driver by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/218"&gt;docker/setup-buildx-action#218&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix current context as builder name for &lt;code&gt;docker&lt;/code&gt; driver
+by &lt;a href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/pull/209"&gt;docker/setup-buildx-action#209&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/v2.4.1...v2.5.0"&gt;https://github.com/docker/setup-buildx-action/compare/v2.4.1...v2.5.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v2.4.1&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/f95db51fddba0c2d1ec667646a06c2ce06100226"&gt;&lt;code&gt;f95db51&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/issues/267"&gt;#267&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/actions/core-1.10.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/998a87c2c1933fe580ddf99d6f6f94a19c0f91b4"&gt;&lt;code&gt;998a87c&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/28bae5933655f85dce39ef1a90237c1942b8e2c6"&gt;&lt;code&gt;28bae59&lt;/code&gt;&lt;/a&gt;
+build(deps): bump &lt;code&gt;@​actions/core&lt;/code&gt; from 1.10.0 to 1.10.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/c2153417150d92671c82aea83a1583b776b52910"&gt;&lt;code&gt;c215341&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/setup-buildx-action/issues/264"&gt;#264&lt;/a&gt;
+from crazy-max/update-node20&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/02e9319239595dc97a5705a2df905d0b2ea023bf"&gt;&lt;code&gt;02e9319&lt;/code&gt;&lt;/a&gt;
+chore: node 20 as default runtime&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/5c9160effc4a5e931046bcd3a44677eb8eaa7b00"&gt;&lt;code&gt;5c9160e&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/1283140f57ede4d0e30355ef4cb25390eaee8204"&gt;&lt;code&gt;1283140&lt;/code&gt;&lt;/a&gt;
+chore: fix author in package.json&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/c6afe06e4a92d0bf5b6f524c3564e64647d0b97d"&gt;&lt;code&gt;c6afe06&lt;/code&gt;&lt;/a&gt;
+vendor: bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.10.0 to
+0.12.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/f35e0d5a040dd319f1a502de9e27a7f748c79fc5"&gt;&lt;code&gt;f35e0d5&lt;/code&gt;&lt;/a&gt;
+chore: update dev dependencies&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/setup-buildx-action/commit/baeb468fb29686888d706e7200d0e311a4fee4b2"&gt;&lt;code&gt;baeb468&lt;/code&gt;&lt;/a&gt;
+dev: remove unneeded binaries&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/docker/setup-buildx-action/compare/95cb08cb2672c73d4ffd2f422e6d11953d2a9c70...f95db51fddba0c2d1ec667646a06c2ce06100226"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=docker/setup-buildx-action&amp;package-manager=github_actions&amp;previous-version=2.1.0&amp;new-version=3.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Sept 2023, 02:11:10</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -343,206 +1660,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">26 Sept 2023, 01:33:16</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/slothunter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4bb3f60</div>
-                                        <div class="message">Bump clap from 4.4.4 to 4.4.5 (#115)
-
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.4 to 4.4.5.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.4...v4.4.5)
-
----
-updated-dependencies:
-- dependency-name: clap
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.5</span>
-                                        in
-                                        <span class="repo">hack-ink/telegram-webhook</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.5</span>
-                                        in
-                                        <span class="repo">hack-ink/cargo-featalign</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.5</span>
-                                        in
-                                        <span class="repo">hack-ink/slothunter</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.5</span>
-                                        in
-                                        <span class="repo">hack-ink/cargo-all</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/telegram-webhook</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#74e60dd</div>
-                                        <div class="message">Bump clap from 4.4.4 to 4.4.5 (#8)
-
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.4 to 4.4.5.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.4...v4.4.5)
-
----
-updated-dependencies:
-- dependency-name: clap
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/cargo-featalign</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ad3d368</div>
-                                        <div class="message">Bump clap from 4.4.4 to 4.4.5 (#43)
-
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.4 to 4.4.5.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.4...v4.4.5)
-
----
-updated-dependencies:
-- dependency-name: clap
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bfd10c7</div>
-                                        <div class="message">Bump cargo_toml from 0.16.1 to 0.16.3 (#634)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Sept 2023, 01:33:14</div>
                             </section>
                         </div>
                     </section>
