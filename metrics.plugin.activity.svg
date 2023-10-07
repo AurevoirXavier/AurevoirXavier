@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1620" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1327" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.string{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,92 +19,41 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#1254 Run account migration script</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">7 Oct 2023, 04:14:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1254 Run account migration script</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div class="comment">
-                                        <code class="language-multiline" xml:space="preserve">Connected to Darwinia: Pangolin2 v6.4.0-adb83a5392b
-Using sender account 0x3e25247CfF03F99a7D83b28F207112234feE73a6
-<span class="token trimmed">(29 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Oct 2023, 04:14:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#10 Run Actix_server But i want to get data from telegram , is it possible?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Mahdi-Farahani in <span class="repo">hack-ink/telegram-webhook</span></div>
-                                    <div class="comment">I think this isn't the goal of this project.</div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:11:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/cargo/sha2-0.10.8</span>
+                                        <span class="code">dependabot/cargo/reqwest-0.11.22</span>
                                         in
-                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                        <span class="repo">hack-ink/subalfred</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
+                                <div class="timestamp">7 Oct 2023, 08:28:25</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.6</span>
-                                        in
-                                        <span class="repo">hack-ink/cargo-featalign</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/subalfred</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e03792</div>
+                                        <div class="message">Bump reqwest from 0.11.20 to 0.11.22 (#641)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:28:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -118,61 +67,10 @@ Using sender account 0x3e25247CfF03F99a7D83b28F207112234feE73a6
                       branch
                                         <span class="code">dependabot/cargo/thiserror-1.0.49</span>
                                         in
-                                        <span class="repo">hack-ink/unescaper</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.6</span>
-                                        in
-                                        <span class="repo">hack-ink/slothunter</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.6</span>
-                                        in
                                         <span class="repo">hack-ink/subalfred</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/cargo/clap-4.4.6</span>
-                                        in
-                                        <span class="repo">hack-ink/cargo-all</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:05</div>
+                                <div class="timestamp">7 Oct 2023, 08:25:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -189,14 +87,31 @@ Using sender account 0x3e25247CfF03F99a7D83b28F207112234feE73a6
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5b314a</div>
-                                        <div class="message">Bump clap from 4.4.5 to 4.4.6 (#637)
+                                        <div class="sha">#66a202f</div>
+                                        <div class="message">Bump thiserror from 1.0.48 to 1.0.49 (#636)
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
+                                <div class="timestamp">7 Oct 2023, 08:25:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/regex-1.9.6</span>
+                                        in
+                                        <span class="repo">hack-ink/slothunter</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:21:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -207,14 +122,161 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">hack-ink/unescaper</span>
+                                        <span class="repo">hack-ink/slothunter</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c22a000</div>
-                                        <div class="message">Bump thiserror from 1.0.48 to 1.0.49 (#24)
+                                        <div class="sha">#cd96274</div>
+                                        <div class="message">Bump regex from 1.9.5 to 1.9.6 (#119)
+
+Bumps [regex](https://github.com/rust-lang/regex) from 1.9.5 to 1.9.6.
+- [Release notes](https://github.com/rust-lang/regex/releases)
+- [Changelog](https://github.com/rust-lang/regex/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rust-lang/regex/compare/1.9.5...1.9.6)
+
+---
+updated-dependencies:
+- dependency-name: regex
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:21:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/clap-4.4.6</span>
+                                        in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:19:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7846959</div>
+                                        <div class="message">Bump clap from 4.4.3 to 4.4.6 (#10)
+
+Bumps [clap](https://github.com/clap-rs/clap) from 4.4.3 to 4.4.6.
+- [Release notes](https://github.com/clap-rs/clap/releases)
+- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/clap-rs/clap/compare/clap_complete-v4.4.3...v4.4.6)
+
+---
+updated-dependencies:
+- dependency-name: clap
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:19:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/example/webpki-0.22.2</span>
+                                        in
+                                        <span class="repo">hack-ink/subalfred</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:17:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/subalfred</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#18cbd1b</div>
+                                        <div class="message">Bump webpki from 0.22.1 to 0.22.2 in /example (#639)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:17:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/thiserror-1.0.49</span>
+                                        in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:17:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6083c9</div>
+                                        <div class="message">Bump thiserror from 1.0.48 to 1.0.49 (#62)
 
 Bumps [thiserror](https://github.com/dtolnay/thiserror) from 1.0.48 to 1.0.49.
 - [Release notes](https://github.com/dtolnay/thiserror/releases)
@@ -231,77 +293,24 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
+                                <div class="timestamp">7 Oct 2023, 08:17:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/regex-1.9.6</span>
+                                        in
+                                        <span class="repo">hack-ink/cargo-featalign</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5f6a85e</div>
-                                        <div class="message">Bump sha2 from 0.10.7 to 0.10.8 (#63)
-
-Bumps [sha2](https://github.com/RustCrypto/hashes) from 0.10.7 to 0.10.8.
-- [Commits](https://github.com/RustCrypto/hashes/compare/sha2-v0.10.7...sha2-v0.10.8)
-
----
-updated-dependencies:
-- dependency-name: sha2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/slothunter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6658049</div>
-                                        <div class="message">Bump clap from 4.4.5 to 4.4.6 (#118)
-
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.5 to 4.4.6.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.5...v4.4.6)
-
----
-updated-dependencies:
-- dependency-name: clap
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
+                                <div class="timestamp">7 Oct 2023, 08:16:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -318,17 +327,17 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3869f11</div>
-                                        <div class="message">Bump clap from 4.4.5 to 4.4.6 (#45)
+                                        <div class="sha">#5448e8b</div>
+                                        <div class="message">Bump regex from 1.9.5 to 1.9.6 (#46)
 
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.5 to 4.4.6.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.5...v4.4.6)
+Bumps [regex](https://github.com/rust-lang/regex) from 1.9.5 to 1.9.6.
+- [Release notes](https://github.com/rust-lang/regex/releases)
+- [Changelog](https://github.com/rust-lang/regex/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rust-lang/regex/compare/1.9.5...1.9.6)
 
 ---
 updated-dependencies:
-- dependency-name: clap
+- dependency-name: regex
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -337,64 +346,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/cargo-all</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a7b252</div>
-                                        <div class="message">Bump clap from 4.4.5 to 4.4.6 (#85)
-
-Bumps [clap](https://github.com/clap-rs/clap) from 4.4.5 to 4.4.6.
-- [Release notes](https://github.com/clap-rs/clap/releases)
-- [Changelog](https://github.com/clap-rs/clap/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/clap-rs/clap/compare/v4.4.5...v4.4.6)
-
----
-updated-dependencies:
-- dependency-name: clap
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Sept 2023, 11:10:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/telegram-webhook</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0dd9de3</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Sept 2023, 13:35:31</div>
+                                <div class="timestamp">7 Oct 2023, 08:16:57</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -406,12 +358,48 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">v6.4.0-patch</span>
+                                        <span class="code">dependabot/cargo/reqwest-0.11.22</span>
                                         in
-                                        <span class="repo">darwinia-network/darwinia</span>
+                                        <span class="repo">hack-ink/githuber</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Sept 2023, 05:25:51</div>
+                                <div class="timestamp">7 Oct 2023, 08:16:46</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff5b54c</div>
+                                        <div class="message">Bump reqwest from 0.11.20 to 0.11.22 (#109)
+
+Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.11.20 to 0.11.22.
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.11.20...v0.11.22)
+
+---
+updated-dependencies:
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:16:45</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -423,12 +411,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/github_actions/toshimaru/auto-author-assign-2.0.1</span>
+                                        <span class="code">dependabot/cargo/toml-0.8.2</span>
                                         in
-                                        <span class="repo">darwinia-network/darwinia</span>
+                                        <span class="repo">hack-ink/slothunter</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Sept 2023, 05:25:35</div>
+                                <div class="timestamp">7 Oct 2023, 08:14:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -439,23 +427,21 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
+                                        <span class="repo">hack-ink/slothunter</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd1f6f0</div>
-                                        <div class="message">Bump toshimaru/auto-author-assign from 2.0.0 to 2.0.1 (#1285)
+                                        <div class="sha">#c326342</div>
+                                        <div class="message">Bump toml from 0.8.0 to 0.8.2 (#120)
 
-Bumps [toshimaru/auto-author-assign](https://github.com/toshimaru/auto-author-assign) from 2.0.0 to 2.0.1.
-- [Release notes](https://github.com/toshimaru/auto-author-assign/releases)
-- [Changelog](https://github.com/toshimaru/auto-author-assign/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/toshimaru/auto-author-assign/compare/v2.0.0...v2.0.1)
+Bumps [toml](https://github.com/toml-rs/toml) from 0.8.0 to 0.8.2.
+- [Commits](https://github.com/toml-rs/toml/compare/toml-v0.8.0...toml-v0.8.2)
 
 ---
 updated-dependencies:
-- dependency-name: toshimaru/auto-author-assign
+- dependency-name: toml
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -464,7 +450,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Sept 2023, 05:25:34</div>
+                                <div class="timestamp">7 Oct 2023, 08:14:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -474,322 +460,50 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">xavier/pallet-tips</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#10e4f33</div>
-                                        <div class="message">Check first</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#769bdd3</div>
-                                        <div class="message">runtime-api: cleanup after v7 stabilization (#1729)
+                                        <div class="sha">#b23a388</div>
+                                        <div class="message">Bump reqwest from 0.11.20 to 0.11.22 (#66)
 
-Follow-up to #1543.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14e5d23</div>
-                                        <div class="message">Move requests-responses and polling from `ChainSync` to `SyncingEngine` (#1650)
-
-Move request-response handling from `ChainSync` to `SyncingEngine` as
-part of [Sync
-2.0](https://github.com/paritytech/polkadot-sdk/issues/534) refactoring
-aimed at making `ChainSync` a pure state machine.
-
-Resolves https://github.com/paritytech/polkadot-sdk/issues/502.
-
----------
-
-Co-authored-by: Aaro Altonen &lt;48052676+altonen@users.noreply.github.com&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02284a3</div>
-                                        <div class="message">Add custom error message for `StorageNoopGuard` (#1727)
-
-Expand `StorageNoopGuard` to be able to add extra context through a
-custom error message. When the guard is triggered it panics with an
-error message which can be defaulted, set on construction, or set after
-it has been constructed.
-
-Turn `StorageNoopGuard` into struct with `storage_root` and
-`error_message` and added `from_error_message` constructor and
-`set_error_message` setter.
-
-Also added `new()` aliased to `default()`.
-
-Closes #375
-
----------
-
-Co-authored-by: joe petrowski &lt;25483142+joepetrowski@users.noreply.github.com&gt;
-Co-authored-by: Liam Aharon &lt;liam.aharon@hotmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec9274e</div>
-                                        <div class="message">remove unnecessary hash string (#1722)
-
-This PR removes some unnecessary `r#`...`#` around a string and the
-corresponding comment that it was done because rustfmt wasn't working
-for "some reason". It seems to work fine now and clippy prefers it this
-way.
-
----------
-
-Co-authored-by: Joshy Orndorff &lt;git-user-email.h0ly5@simplelogin.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69ed308</div>
-                                        <div class="message">OpenGov in Westend and Rococo (#1177)
-
-Migrating [PR from the archived polkadot
-repo](https://github.com/paritytech/polkadot/pull/7272)
-
-As per
-https://github.com/paritytech/polkadot/pull/7272#issuecomment-1559240466,
-the changes in this MR include the following pallets into [x] Rococo and
-[x] Westend runtimes:
-
-    pallet_conviction_voting
-    pallet_referenda
-    pallet_ranked_collective
-    pallet_custom_origins
-    pallet_whitelist
-
-And only for westend-runtime:
-
-    pallet_treasury
-
-Following [Kusama runtime
-config](https://github.com/paritytech/polkadot/tree/dbae30efe080a1d41fe54ef4da8af47614c9ca93/runtime/kusama/src)
-as a baseline.
-
-Benchmarking of the following pallets done for both Rococo and Westend:
-
-    pallet_conviction_voting
-    pallet_referenda
-    pallet_ranked_collective (only on Rococo)
-    pallet_whitelist
-
-And only for Westend:
-
-    pallet_treasury
-
-Removed Gov1 from Rococo as in
-https://github.com/paritytech/polkadot/pull/6701
-
-Rococo Gov1 storage will be cleaned in a different PR - [issue ](https://github.com/paritytech/polkadot-sdk/issues/1618)
-
----------
-
-Co-authored-by: Giles Cope &lt;gilescope@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b061a5</div>
-                                        <div class="message">Associated type Hasher for `QueryPreimage`, `StorePreimage` and `Bounded` (#1720)
-
-I hope it's enough to fix #1701 
-the only solution I found to make it happen is to put an associated type
-to the `Bounded` enum as well.
-@liamaharon @kianenigma @bkchr 
-
-Polkadot address: 12poSUQPtcF1HUPQGY3zZu2P8emuW9YnsPduA4XG3oCEfJVp
-
----------
-
-Signed-off-by: muraca &lt;mmuraca247@gmail.com&gt;
-Co-authored-by: Liam Aharon &lt;liam.aharon@hotmail.com&gt;
-Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cbe0c7</div>
-                                        <div class="message">Migrate polkadot-primitives to v6 (#1543)
-
-- Async-backing related primitives are stable `primitives::v6`
-- Async-backing API is now part of `api_version(7)`
-- It's enabled on Rococo and Westend runtimes
-
----------
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a2833c</div>
-                                        <div class="message">genesis-builder: implemented for all runtimes (#1492)
-
-This PR implements [`GenesisBuilder`
-API](https://github.com/paritytech/polkadot-sdk/blob/a414ea7515c9cdc81f1d12410e646afc148250e8/substrate/primitives/genesis-builder/src/lib.rs#L38)
-for all the runtimes in polkadot repo.
-
-Step towards: paritytech/polkadot-sdk#25
-
----------
-
-Co-authored-by: ordian &lt;write@reusable.software&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab3a3bc</div>
-                                        <div class="message">`BlockId` removal: `tx-pool` refactor (#1678)
-
-It changes following APIs:
-- trait `ChainApi`
--- `validate_transaction`
-
-- trait `TransactionPool` 
---`submit_at`
---`submit_one`
---`submit_and_watch`
-
-and some implementation details, in particular:
-- impl `Pool` 
---`submit_at`
---`resubmit_at`
---`submit_one`
---`submit_and_watch`
---`prune_known`
---`prune`
---`prune_tags`
---`resolve_block_number`
---`verify`
---`verify_one`
-
-- revalidation queue
-
-All tests are also adjusted.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a846b74</div>
-                                        <div class="message">Bump directories from 4.0.1 to 5.0.1 (#1656)
-
-Bumps [directories](https://github.com/soc/directories-rs) from 4.0.1 to
-5.0.1.
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/soc/directories-rs/commits"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=directories&amp;package-manager=cargo&amp;previous-version=4.0.1&amp;new-version=5.0.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
+Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.11.20 to 0.11.22.
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.11.20...v0.11.22)
 
 ---
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore &lt;dependency name&gt; major version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's major version (unless you unignore this specific
-dependency's major version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's minor version (unless you unignore this specific
-dependency's minor version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
-and stop Dependabot creating any more for the specific dependency
-(unless you unignore this specific dependency or upgrade to it yourself)
-- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
-conditions of the specified dependency
-- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
-remove the ignore condition of the specified dependency and ignore
-conditions
-
-
-&lt;/details&gt;
+updated-dependencies:
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d3ce4d</div>
-                                        <div class="message">Allow debug_assertions in short-benchmarks CI job (#1711)
-
-Add debug_assertions to WASM builds in the short-benchmarks CI job.
-
-Disallow warnings, show a full backtrace and remove the WASM output
-colour to improve information from this CI step in the event of a failure.
-
-This is motivated by a
-[case](https://github.com/paritytech/polkadot-sdk/pull/1676/commits/23d64918be3ca68413050383c5d8a73f63d451dd)
-where a benchmark was misconfigured in master and failing to send
-notifications, but passing CI. We don't want this to fail if the problem
-happens in production, but ideally we'd know from the CI if it was
-misconfigured and the messages weren't getting sent, as that could
-(would?) affect the weights that the benchmark generates.
-
-Enabling debug-assertions in WASM builds for the short-benchmarks would
-catch "soft" failures like this in future.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc50eda</div>
-                                        <div class="message">chainHead/storage: Fix storage iteration using the query key (#1665)
-
-This PR ensures that all storage keys under a prefix are returned by the
-`chainHead_storage` method.
-
-Before this PR, the `storage_keys` was used with just the `start_key`.
-Before the pagination event was generated, the last reported key
-`last_key` was saved internally.
-When the pagination is resumed, the `last_key` will serve as the next
-`start_key` to the `storage_keys` API.
-
-However, this behavior does not function properly for non-prefixed
-storage keys.
-
-Entry keys `a`, `ab`, `abc` share a common prefix and therefore the `ab`
-key leads to `abc`.
-However, for `a`, `ab`, `aB` and `abc`, the `aB` key does not
-immediately lead to `abc`.
-
-To mitigate this, the PR saves the start key of the query, together with
-the next pagination key.
-Improve testing to ensure we have a key entry that doesn't share the
-prefix with the descendant key.
-
-@paritytech/subxt-team
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
+                                </div>
+                                <div class="timestamp">7 Oct 2023, 08:14:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/syn-2.0.38</span>
+                                        in
+                                        <span class="repo">hack-ink/subalfred</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Sept 2023, 02:57:32</div>
+                                <div class="timestamp">7 Oct 2023, 08:14:31</div>
                             </section>
                         </div>
                     </section>
