@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1772" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1344" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,752 +19,17 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#54 Check if default features checker will hide missing features checker's result</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hack-ink/cargo-featalign</span></div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 10:55:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#53 Improve default features checker</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hack-ink/cargo-featalign</span></div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 10:53:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1708 CI check features</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
-                                    <div class="comment">
-                                        I have decided to disable the default std features checker for this repository.
-Some crates use
-                                        <code>default-features = ["std"]</code>
-                                        , while others do not.
-For example, in https://github.com/meithecatte/enumflags2/blob/master/Cargo.toml, std is not set as its default feature. However, cargo-featalign will complain if you do not specify
-                                        <code>default-features = false</code>
-                                        for their crate.
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 10:50:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/ci</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#49493c1</div>
-                                        <div class="message">Disable std features checker</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 10:48:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1296 EVM support OpenGov</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div class="comment">Why do we need to create an account for this?</div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 09:15:55</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1296 EVM support OpenGov</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 09:15:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/ci</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aba9455</div>
-                                        <div class="message">Fix missing features</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 09:14:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 101 commits in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/ci</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#945ebbb</div>
-                                        <div class="message">archive: Implement height, hashByHeight and call (#1582)
-
-This PR implements:
-- `archive_unstable_finalized_height`: Get the height of the most recent
-finalized block
-- `archive_unstable_hash_by_height`: Get the hashes (possible empty) of
-blocks from the given height
-- `archive_unstable_call`: Call into the runtime of a block
-
-Builds on top of: https://github.com/paritytech/polkadot-sdk/pull/1560
-
-### Testing Done
-- unit tests for the methods with custom block tree for different
-heights / forks
-
-Closes: https://github.com/paritytech/polkadot-sdk/issues/1510
-Closes: https://github.com/paritytech/polkadot-sdk/issues/1513
-Closes: https://github.com/paritytech/polkadot-sdk/issues/1511
-
-@paritytech/subxt-team
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;
-Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5a0708</div>
-                                        <div class="message">rpc/client: Propagate `rpc_methods` method to reported methods (#1713)
-
-The PR exposes the `rpc_methods` name in the `rpc_methods` response.
-This feature is useful for servers that only forward requests to methods
-that are reported by the `rpc_methods`.
-
-Jsonrpsee exposes the available methods registered so far. Registering
-the `rpc_methods` requires a closure that already stores the result. As
-such, the `rpc_methods` method name is manually added to the available
-methods.
-
-Closes: https://github.com/paritytech/polkadot-sdk/issues/1627
-
-### Testing Done
-
-```
-$&gt; curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "rpc_methods", "params":[]}' http://localhost:9944
-
-{"jsonrpc":"2.0","result":{"methods":["account_nextIndex",... "rpc_methods",..."unsubscribe_newHead"]},"id":1}⏎
-```
-
-@paritytech/subxt-team
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50242a6</div>
-                                        <div class="message">rococo-runtime: `RococoGenesisExt` removed (#1490)
-
-[`RococoGenesisExt`](https://github.com/paritytech/polkadot-sdk/blob/a414ea7515c9cdc81f1d12410e646afc148250e8/polkadot/node/service/src/chain_spec.rs#L152-L171)
-is removed. It was the hack to allow overwriting
-`EpochDurationInBlocks`. Removal of `RococGenesisExt` prevents from
-manipulating the state to change the runtime constants.
-
-Changes:
-- Environment variable which controls the `time::EpochDurationInBlocks`
-value was added: `ROCOCO_EPOCH_DURATION` (epoch duration will be set to
-the value of env),
-- `10,100,600` versions of rococo-runtime are built in CI and put into `polkadot-debug` docker image.
-
-`rococo-runtime` building examples:
-- to build runtime for `versi_staging_testnet` which had
-EpochDurationInBlocks set to 100:
-  ```
-ROCOCO_EPOCH_DURATION=100 cargo build --features=fast-runtime -p
-rococo-runtime
-  ```
-- to build runtime for `wococo_development`
-  ```
-ROCOCO_EPOCH_DURATION=10 cargo build --features=fast-runtime -p
-rococo-runtime
-  ```
-- to build `versi-staging` chain spec:
-  ```
-ROCOCO_EPOCH_DURATION=100 cargo run -p polkadot --features=fast-runtime
--- build-spec --chain versi-staging --raw
-  ```
-- to build `wococo-dev` chain spec:
-  ```
-ROCOCO_EPOCH_DURATION=10 cargo run -p polkadot --features=fast-runtime
--- build-spec --chain wococo-dev --raw
-  ```
-
-It is also possible to change the epoch duration by replacing the `code` field in the chain spec with the hex dump of pre-built runtime wasm blob (because the epoch duration is hard-coded into wasm blob).
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1eb342</div>
-                                        <div class="message">PVF: more filesystem sandboxing (#1373)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de71fec</div>
-                                        <div class="message">Add `MaxTipAmount` for pallet-tips (#1709)
-
-Last week we experienced a governance attack.
-Surprisingly, there was no upper limit on the tip amount.
-
-Due to the mechanism of pallet-fragment-election, the council members
-will be refreshed immediately. Attacker is easy to control the council
-and give a large tip amount.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b50d8e6</div>
-                                        <div class="message">add some events for pallet-bounties (#1706)
-
-Add missing events for pallet-bounties</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4384c61</div>
-                                        <div class="message">Added `review-bot` to fine tune review requirements (#1673)
-
-Created a Github Action that uses the [Review-Bot
-app](https://github.com/paritytech/review-bot) to require more fine
-tuned requirements to review pull requests before allowing the PR to be
-merged.
-
-This uses
-[`pull_request_target`](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#pull_request_target)
-for the event, not `pull_request`. This is a security measure so that an
-attacker doesn’t have access to the secrets.
-
-All the rules have been copied from the original
-`.github/pr-custom-review.yml` file.
-
-I want to clarify, this particular commit is **not intended to replace
-PRCR yet**.
-
-# Advantages it brings over `PRCR`
-
-Most of the features available in `PRCR` have been duplicated and
-enhanced. For a complete detailed write up, please see:
-- paritytech/pr-custom-review#114 -&gt; Proposal for the rewrite
-- [Review Bot
-Documentation](https://github.com/paritytech/review-bot/blob/main/README.md)
-
-The most important features are:
-- `include` and `exclude` fields now accept an array, making it easier
-to read the regular expressions.
-- Ability to skip a rule
-- We can set that PRs coming from a particular user or team will cause
-the rule to be skipped.
-- This is used in the `Audit rule`, which was requested by
-@the-right-joyce.
-  - This resolves paritytech/pr-custom-review#136
-- Ability to request fellows instead of teams
-- As requested in polkadot-fellows/runtimes#7, this bot has the ability
-to request fellows by rank instead of users.
-- We currently have polkadot-fellows/runtimes#31 which is using that
-feature.
-
-Aside from all the rules available in `PRCR` I have added a particular
-rule to lock the review-bot files and require a review from the
-`locks-review` team, the @paritytech/ci team and the
-@paritytech/opstooling team to ensure that the file has been written
-correctly.
-
-## Next steps
-
-The next steps will consist on paritytech/review-bot#53, once this issue
-has been resolved, and `review-bot` has worked without any issues on
-this repository for a while, we will upgrade it to be able to fully
-replace `PRCR`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bc97e4</div>
-                                        <div class="message">Add event field names to HRMP Event variants (#1695)
-
-Update the HRMP pallet to use field names for Event variants to improve
-metadata for a better client experience.
-Event variants are now structs instead of unnamed tuples.
-
-Partially implements Substrate issue
-[9903](https://github.com/paritytech/substrate/issues/9903) which
-doesn't appear to have been moved to the monorepo.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#769bdd3</div>
-                                        <div class="message">runtime-api: cleanup after v7 stabilization (#1729)
-
-Follow-up to #1543.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14e5d23</div>
-                                        <div class="message">Move requests-responses and polling from `ChainSync` to `SyncingEngine` (#1650)
-
-Move request-response handling from `ChainSync` to `SyncingEngine` as
-part of [Sync
-2.0](https://github.com/paritytech/polkadot-sdk/issues/534) refactoring
-aimed at making `ChainSync` a pure state machine.
-
-Resolves https://github.com/paritytech/polkadot-sdk/issues/502.
-
----------
-
-Co-authored-by: Aaro Altonen &lt;48052676+altonen@users.noreply.github.com&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02284a3</div>
-                                        <div class="message">Add custom error message for `StorageNoopGuard` (#1727)
-
-Expand `StorageNoopGuard` to be able to add extra context through a
-custom error message. When the guard is triggered it panics with an
-error message which can be defaulted, set on construction, or set after
-it has been constructed.
-
-Turn `StorageNoopGuard` into struct with `storage_root` and
-`error_message` and added `from_error_message` constructor and
-`set_error_message` setter.
-
-Also added `new()` aliased to `default()`.
-
-Closes #375
-
----------
-
-Co-authored-by: joe petrowski &lt;25483142+joepetrowski@users.noreply.github.com&gt;
-Co-authored-by: Liam Aharon &lt;liam.aharon@hotmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec9274e</div>
-                                        <div class="message">remove unnecessary hash string (#1722)
-
-This PR removes some unnecessary `r#`...`#` around a string and the
-corresponding comment that it was done because rustfmt wasn't working
-for "some reason". It seems to work fine now and clippy prefers it this
-way.
-
----------
-
-Co-authored-by: Joshy Orndorff &lt;git-user-email.h0ly5@simplelogin.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69ed308</div>
-                                        <div class="message">OpenGov in Westend and Rococo (#1177)
-
-Migrating [PR from the archived polkadot
-repo](https://github.com/paritytech/polkadot/pull/7272)
-
-As per
-https://github.com/paritytech/polkadot/pull/7272#issuecomment-1559240466,
-the changes in this MR include the following pallets into [x] Rococo and
-[x] Westend runtimes:
-
-    pallet_conviction_voting
-    pallet_referenda
-    pallet_ranked_collective
-    pallet_custom_origins
-    pallet_whitelist
-
-And only for westend-runtime:
-
-    pallet_treasury
-
-Following [Kusama runtime
-config](https://github.com/paritytech/polkadot/tree/dbae30efe080a1d41fe54ef4da8af47614c9ca93/runtime/kusama/src)
-as a baseline.
-
-Benchmarking of the following pallets done for both Rococo and Westend:
-
-    pallet_conviction_voting
-    pallet_referenda
-    pallet_ranked_collective (only on Rococo)
-    pallet_whitelist
-
-And only for Westend:
-
-    pallet_treasury
-
-Removed Gov1 from Rococo as in
-https://github.com/paritytech/polkadot/pull/6701
-
-Rococo Gov1 storage will be cleaned in a different PR - [issue ](https://github.com/paritytech/polkadot-sdk/issues/1618)
-
----------
-
-Co-authored-by: Giles Cope &lt;gilescope@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b061a5</div>
-                                        <div class="message">Associated type Hasher for `QueryPreimage`, `StorePreimage` and `Bounded` (#1720)
-
-I hope it's enough to fix #1701 
-the only solution I found to make it happen is to put an associated type
-to the `Bounded` enum as well.
-@liamaharon @kianenigma @bkchr 
-
-Polkadot address: 12poSUQPtcF1HUPQGY3zZu2P8emuW9YnsPduA4XG3oCEfJVp
-
----------
-
-Signed-off-by: muraca &lt;mmuraca247@gmail.com&gt;
-Co-authored-by: Liam Aharon &lt;liam.aharon@hotmail.com&gt;
-Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cbe0c7</div>
-                                        <div class="message">Migrate polkadot-primitives to v6 (#1543)
-
-- Async-backing related primitives are stable `primitives::v6`
-- Async-backing API is now part of `api_version(7)`
-- It's enabled on Rococo and Westend runtimes
-
----------
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
-Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a2833c</div>
-                                        <div class="message">genesis-builder: implemented for all runtimes (#1492)
-
-This PR implements [`GenesisBuilder`
-API](https://github.com/paritytech/polkadot-sdk/blob/a414ea7515c9cdc81f1d12410e646afc148250e8/substrate/primitives/genesis-builder/src/lib.rs#L38)
-for all the runtimes in polkadot repo.
-
-Step towards: paritytech/polkadot-sdk#25
-
----------
-
-Co-authored-by: ordian &lt;write@reusable.software&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab3a3bc</div>
-                                        <div class="message">`BlockId` removal: `tx-pool` refactor (#1678)
-
-It changes following APIs:
-- trait `ChainApi`
--- `validate_transaction`
-
-- trait `TransactionPool` 
---`submit_at`
---`submit_one`
---`submit_and_watch`
-
-and some implementation details, in particular:
-- impl `Pool` 
---`submit_at`
---`resubmit_at`
---`submit_one`
---`submit_and_watch`
---`prune_known`
---`prune`
---`prune_tags`
---`resolve_block_number`
---`verify`
---`verify_one`
-
-- revalidation queue
-
-All tests are also adjusted.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a846b74</div>
-                                        <div class="message">Bump directories from 4.0.1 to 5.0.1 (#1656)
-
-Bumps [directories](https://github.com/soc/directories-rs) from 4.0.1 to
-5.0.1.
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/soc/directories-rs/commits"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=directories&amp;package-manager=cargo&amp;previous-version=4.0.1&amp;new-version=5.0.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore &lt;dependency name&gt; major version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's major version (unless you unignore this specific
-dependency's major version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's minor version (unless you unignore this specific
-dependency's minor version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
-and stop Dependabot creating any more for the specific dependency
-(unless you unignore this specific dependency or upgrade to it yourself)
-- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
-conditions of the specified dependency
-- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
-remove the ignore condition of the specified dependency and ignore
-conditions
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d3ce4d</div>
-                                        <div class="message">Allow debug_assertions in short-benchmarks CI job (#1711)
-
-Add debug_assertions to WASM builds in the short-benchmarks CI job.
-
-Disallow warnings, show a full backtrace and remove the WASM output
-colour to improve information from this CI step in the event of a failure.
-
-This is motivated by a
-[case](https://github.com/paritytech/polkadot-sdk/pull/1676/commits/23d64918be3ca68413050383c5d8a73f63d451dd)
-where a benchmark was misconfigured in master and failing to send
-notifications, but passing CI. We don't want this to fail if the problem
-happens in production, but ideally we'd know from the CI if it was
-misconfigured and the messages weren't getting sent, as that could
-(would?) affect the weights that the benchmark generates.
-
-Enabling debug-assertions in WASM builds for the short-benchmarks would
-catch "soft" failures like this in future.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc50eda</div>
-                                        <div class="message">chainHead/storage: Fix storage iteration using the query key (#1665)
-
-This PR ensures that all storage keys under a prefix are returned by the
-`chainHead_storage` method.
-
-Before this PR, the `storage_keys` was used with just the `start_key`.
-Before the pagination event was generated, the last reported key
-`last_key` was saved internally.
-When the pagination is resumed, the `last_key` will serve as the next
-`start_key` to the `storage_keys` API.
-
-However, this behavior does not function properly for non-prefixed
-storage keys.
-
-Entry keys `a`, `ab`, `abc` share a common prefix and therefore the `ab`
-key leads to `abc`.
-However, for `a`, `ab`, `aB` and `abc`, the `aB` key does not
-immediately lead to `abc`.
-
-To mitigate this, the PR saves the start key of the query, together with
-the next pagination key.
-Improve testing to ensure we have a key entry that doesn't share the
-prefix with the descendant key.
-
-@paritytech/subxt-team
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 09:02:16</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1708 CI check features</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Do you know what this
-                                            <code>true == true</code>
-                                            is doing in the action? Or is this after variable interpolation for some debugging?
-                                        </i>
-                                        This flag indicates that
-                                        <code>default-features = std</code>
-                                        . Not all projects assume that default features are std.
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 08:47:38</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1296 EVM support OpenGov</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 08:40:29</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1296 EVM support OpenGov</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div class="comment">Need some comments.</div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 08:40:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/b</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#817a74e</div>
-                                        <div class="message">Bench Pangolin
-
-Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 08:38:40</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/cargo/lettre-0.11.0</span>
+                                        <span class="code">dependabot/cargo/serde-1.0.189</span>
                                         in
-                                        <span class="repo">hack-ink/slothunter</span>
+                                        <span class="repo">inv-cafe/x-majordomo</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:46</div>
+                                <div class="timestamp">17 Oct 2023, 11:14:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -775,59 +40,22 @@ Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">hack-ink/slothunter</span>
+                                        <span class="repo">inv-cafe/x-majordomo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c70571</div>
-                                        <div class="message">Bump lettre from 0.10.4 to 0.11.0 (#125)
+                                        <div class="sha">#c22a8c0</div>
+                                        <div class="message">Bump serde from 1.0.188 to 1.0.189 (#13)
 
-Bumps [lettre](https://github.com/lettre/lettre) from 0.10.4 to 0.11.0.
-- [Release notes](https://github.com/lettre/lettre/releases)
-- [Changelog](https://github.com/lettre/lettre/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/lettre/lettre/compare/v0.10.4...v0.11.0)
-
----
-updated-dependencies:
-- dependency-name: lettre
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:46</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/cargo-all</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b27c1</div>
-                                        <div class="message">Bump regex from 1.10.0 to 1.10.2 (#90)
-
-Bumps [regex](https://github.com/rust-lang/regex) from 1.10.0 to 1.10.2.
-- [Release notes](https://github.com/rust-lang/regex/releases)
-- [Changelog](https://github.com/rust-lang/regex/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/rust-lang/regex/compare/1.10.0...1.10.2)
+Bumps [serde](https://github.com/serde-rs/serde) from 1.0.188 to 1.0.189.
+- [Release notes](https://github.com/serde-rs/serde/releases)
+- [Commits](https://github.com/serde-rs/serde/compare/v1.0.188...v1.0.189)
 
 ---
 updated-dependencies:
-- dependency-name: regex
+- dependency-name: serde
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -836,7 +64,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:42</div>
+                                <div class="timestamp">17 Oct 2023, 11:14:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -848,12 +76,99 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/cargo/regex-1.10.2</span>
+                                        <span class="code">dependabot/cargo/tokio-1.33.0</span>
                                         in
-                                        <span class="repo">hack-ink/cargo-all</span>
+                                        <span class="repo">inv-cafe/x-majordomo</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:43</div>
+                                <div class="timestamp">17 Oct 2023, 11:11:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c96295e</div>
+                                        <div class="message">Bump tokio from 1.32.0 to 1.33.0 (#11)
+
+Bumps [tokio](https://github.com/tokio-rs/tokio) from 1.32.0 to 1.33.0.
+- [Release notes](https://github.com/tokio-rs/tokio/releases)
+- [Commits](https://github.com/tokio-rs/tokio/compare/tokio-1.32.0...tokio-1.33.0)
+
+---
+updated-dependencies:
+- dependency-name: tokio
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:11:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84649cd</div>
+                                        <div class="message">Bump async-trait from 0.1.73 to 0.1.74 (#14)
+
+Bumps [async-trait](https://github.com/dtolnay/async-trait) from 0.1.73 to 0.1.74.
+- [Release notes](https://github.com/dtolnay/async-trait/releases)
+- [Commits](https://github.com/dtolnay/async-trait/compare/0.1.73...0.1.74)
+
+---
+updated-dependencies:
+- dependency-name: async-trait
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:08:50</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/async-trait-0.1.74</span>
+                                        in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:08:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -867,10 +182,45 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                       branch
                                         <span class="code">dependabot/cargo/tracing-0.1.39</span>
                                         in
-                                        <span class="repo">hack-ink/githuber</span>
+                                        <span class="repo">inv-cafe/x-majordomo</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:42</div>
+                                <div class="timestamp">17 Oct 2023, 11:06:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inv-cafe/x-majordomo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e2c0e01</div>
+                                        <div class="message">Bump tracing from 0.1.37 to 0.1.39 (#15)
+
+Bumps [tracing](https://github.com/tokio-rs/tracing) from 0.1.37 to 0.1.39.
+- [Release notes](https://github.com/tokio-rs/tracing/releases)
+- [Commits](https://github.com/tokio-rs/tracing/compare/tracing-0.1.37...tracing-0.1.39)
+
+---
+updated-dependencies:
+- dependency-name: tracing
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:06:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -884,10 +234,66 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                       branch
                                         <span class="code">dependabot/cargo/serde-1.0.189</span>
                                         in
-                                        <span class="repo">hack-ink/array-bytes</span>
+                                        <span class="repo">hack-ink/cargo-featalign</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:42</div>
+                                <div class="timestamp">17 Oct 2023, 11:05:59</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/cargo-featalign</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e182ca9</div>
+                                        <div class="message">Bump serde from 1.0.188 to 1.0.189 (#49)
+
+Bumps [serde](https://github.com/serde-rs/serde) from 1.0.188 to 1.0.189.
+- [Release notes](https://github.com/serde-rs/serde/releases)
+- [Commits](https://github.com/serde-rs/serde/compare/v1.0.188...v1.0.189)
+
+---
+updated-dependencies:
+- dependency-name: serde
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:05:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">hack-ink/cargo-featalign</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/cargo/serde-1.0.189</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff0a9cf</div>
+                                        <div class="message">Merge branch 'main' into dependabot/cargo/serde-1.0.189</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -899,12 +305,82 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/cargo/regex-1.10.2</span>
+                                        <span class="code">dependabot/cargo/reqwest-0.11.22</span>
+                                        in
+                                        <span class="repo">hack-ink/slothunter</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/slothunter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0d3f61c</div>
+                                        <div class="message">Bump reqwest from 0.11.20 to 0.11.22 (#122)
+
+Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.11.20 to 0.11.22.
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.11.20...v0.11.22)
+
+---
+updated-dependencies:
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/serde-1.0.189</span>
                                         in
                                         <span class="repo">hack-ink/subalfred</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:42</div>
+                                <div class="timestamp">17 Oct 2023, 11:04:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/cargo_metadata-0.18.1</span>
+                                        in
+                                        <span class="repo">hack-ink/cargo-featalign</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:25</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -918,10 +394,123 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                       branch
                                         <span class="code">dependabot/cargo/tracing-0.1.39</span>
                                         in
-                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                        <span class="repo">hack-ink/cargo-all</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Oct 2023, 08:33:42</div>
+                                <div class="timestamp">17 Oct 2023, 11:04:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/subalfred</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b15b971</div>
+                                        <div class="message">Bump serde from 1.0.188 to 1.0.189 (#650)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/cargo-all</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#06db7de</div>
+                                        <div class="message">Bump tracing from 0.1.37 to 0.1.39 (#89)
+
+Bumps [tracing](https://github.com/tokio-rs/tracing) from 0.1.37 to 0.1.39.
+- [Release notes](https://github.com/tokio-rs/tracing/releases)
+- [Commits](https://github.com/tokio-rs/tracing/compare/tracing-0.1.37...tracing-0.1.39)
+
+---
+updated-dependencies:
+- dependency-name: tracing
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/cargo-featalign</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eda7940</div>
+                                        <div class="message">Bump cargo_metadata from 0.18.0 to 0.18.1 (#51)
+
+Bumps [cargo_metadata](https://github.com/oli-obk/cargo_metadata) from 0.18.0 to 0.18.1.
+- [Release notes](https://github.com/oli-obk/cargo_metadata/releases)
+- [Changelog](https://github.com/oli-obk/cargo_metadata/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/oli-obk/cargo_metadata/compare/0.18.0...0.18.1)
+
+---
+updated-dependencies:
+- dependency-name: cargo_metadata
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 11:04:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#54 Check if default features checker will hide missing features checker's result</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">hack-ink/cargo-featalign</span></div>
+                                </div>
+                                <div class="timestamp">17 Oct 2023, 10:55:48</div>
                             </section>
                         </div>
                     </section>
