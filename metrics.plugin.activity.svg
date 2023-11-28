@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1377" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1727" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit svg{margin:0}.audit.low{fill:#e53935}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,375 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 28 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#58a1f9c</div>
+                                        <div class="message">polkadot: disable block authoring backoff on production networks (#2510)
+
+Currently the polkadot node will backoff from block authoring if
+finality starts lagging. This PR disables this mechanism on production
+networks (polkadot and kusama) and adds a flags to optionally force
+enabling it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7ffc6</div>
+                                        <div class="message">Added NetworkId::PolkadotBulletin variant (#2517)
+
+We're going to bridge Polkadot Bridge Hub with [Polkadot Bulletin
+chain](https://github.com/zdave-parity/polkadot-bulletin-chain) soon
+(and Rococo Bridge Hub with 1:1 copy of Polkadot Bulletin chain even
+sooner), so we need a variant for that chain in `NetworkId`. As
+suggested, I'm adding a new variant for it to the `NetworkId` (we may
+have used `ByGenesis(_)`, but decision was made to have a dedicated
+variant for that).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7506271</div>
+                                        <div class="message">Pools: Add ability to configure commission claiming permissions (#2474)
+
+Addresses #409.
+
+This request has been raised by multiple community members - the ability
+for the nomination pool root role to configure permissionless commission
+claiming:
+
+&gt; Would it be possible to have a claim_commission_other extrinsic for
+claiming commission of nomination pools permissionless?
+
+This PR does not quite introduce this additional call, but amends
+`do_claim_commission` to check a new `claim_permission` field in the
+`Commission` struct, configured by an enum:
+
+```
+enum CommissionClaimPermission {
+   Permissionless,
+   Account(AccountId),
+}
+```
+This can be optionally set in a bonded pool's
+`commission.claim_permission` field:
+
+```
+struct BondedPool {
+   commission: {
+      &lt;snip&gt;
+      claim_permission: Option&lt;CommissionClaimPermission&lt;T::AccountId&gt;&gt;,
+   },
+   &lt;snip&gt;
+}
+```
+
+This is a new field and requires a migration to add it to existing
+pools. This will be `None` on pool creation, falling back to the `root`
+role having sole access to claim commission if it is not set; this is
+the behaviour as it is today. Once set, the field _can_ be set to `None`
+again.
+
+#### Changes
+- [x] Add `commision.claim_permission` field.
+- [x] Add `can_claim_commission` and amend `do_claim_commission`.
+- [x] Add `set_commission_claim_permission` call.
+- [x] Test to cover new configs and call.
+- [x] Add and amend benchmarks.
+- [x] Generate new weights + slot into call
+`set_commission_claim_permission`.
+- [x] Add migration to introduce `commission.claim_permission`, bump
+storage version.
+- [x] Update Westend weights.
+- [x] Migration working.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ac23d2</div>
+                                        <div class="message">Fixes cumulus README instructions (#2442)
+
+README instructions fixes to be compatible with the `polkadot-prepare`
+and `polkadot-execute` binary split.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db29099</div>
+                                        <div class="message">CI: Fix `build-and-attach-release-runtimes.yml` (#2471)
+
+Incorporate suggestion from release team to get this workflow working.
+
+edit: worked on this test GH release:
+https://github.com/paritytech/polkadot-sdk/releases/tag/liam-debug-ghw.
+let's try it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#838a534</div>
+                                        <div class="message">Staking: `chill_other` takes stash instead of controller (#2501)
+
+The `chill_other` call is the only staking call that explicitly requires
+`controller` in its signature. This PR changes the controller arg to be
+the stash instead, with `StakingLedger` then fetching the controller
+from storage.
+
+This is not a breaking change per se - the call types do not change, but
+is noteworthy as UIs will now want to pass the stash account into
+`chill_other` calls, &amp; metadata will reflect this.
+
+Note: This is very low impact. `chill_other` has [hardly ever been
+used](https://polkadot.subscan.io/extrinsic?address=&amp;module=staking&amp;call=chill_other&amp;result=all&amp;signedChecked=signed%20only&amp;startDate=&amp;endDate=&amp;startBlock=&amp;timeType=date&amp;version=9431&amp;endBlock=)
+on Polkadot - notwithstanding the one called 11 days ago at block
+18177457 that was a part of test I did, the last call was made 493 days
+ago. Only 2 calls have ever been successful.
+
+Addresses controller deprecation #2500
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: Gonçalo Pestana &lt;g6pestana@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd1ed40</div>
+                                        <div class="message">Remove the timestamp handler (#2506)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4298bc6</div>
+                                        <div class="message">asset-hub-westend-integration-tests: add more asset transfers tests (#2488)
+
+Just adds more tests.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2610450</div>
+                                        <div class="message">Build the standard library crates when building the runtimes (#2217)
+
+Our executor currently only supports the WASM MVP feature set, however
+nowadays when compiling WASM the Rust compiler has more features enabled
+by default.
+
+We do set the `-C target-cpu=mvp` flag to make sure that *our* code gets
+compiled in a way that is compatible with our executor, however this
+doesn't affect Rust's standard library crates (`std`, `core` and
+`alloc`) which are by default precompiled and still can make use of
+these extra features.
+
+So in this PR we force the compiler to also compile the standard library
+crates for us to make sure that they also only use the MVP features.
+
+I've added the `WASM_BUILD_STD` environment variable which can be used
+to disable this behavior if set to `0`.
+
+Unfortunately this *will* slow down the compile times when building
+runtimes, but there isn't much that we can do about that.
+
+Fixes https://github.com/paritytech/polkadot-sdk/issues/1755
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0317501</div>
+                                        <div class="message">Decomissioned PR-Custom-Review (#2503)
+
+This PR decomissions
+[`PR-Custom-Review`](https://github.com/paritytech/pr-custom-review) in
+replacement for
+[`Review-bot`](https://github.com/paritytech/review-bot).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc69dbb</div>
+                                        <div class="message">Zombienet tests - disputes on finalized blocks (#2184)
+
+**Overview:**
+Adding an extra malus variant focusing on disputing finalized blocks. It
+will:
+- wrap around approval-voting
+- listen to `OverseerSignal::BlockFinalized` and when encountered start
+a dispute for the `dispute_offset`th ancestor
+- simply pass through all other messages and signals
+
+Add zombienet tests testing various edgecases:
+- disputing freshly finalized blocks
+- disputing stale finalized blocks
+- disputing eagerly pruned finalized blocks (might be separate PR)
+
+**TODO:**
+- [x] Register new malus variant
+- [x] Simple pass through wrapper (approval-voting)
+- [x] Simple network definition
+- [x] Listen to block finalizations
+- [x] Fetch ancestor hash
+- [x] Fetch session index
+- [x] Fetch candidate
+- [x] Construct and send dispute message
+- [x] zndsl test 1 checking that disputes on fresh finalizations resolve
+valid Closes #1365
+- [x] zndsl test 2 checking that disputes for too old finalized blocks
+are not possible Closes #1364
+- [ ] zndsl test 3 checking that disputes for candidates with eagerly
+pruned relay parent state are handled correctly #1359 (deferred to a
+separate PR)
+- [x] Unit tests for new malus variant (testing cli etc)
+- [x] Clean/streamline error handling
+- [ ] ~~Ensure it tests properly on session boundaries~~
+
+---------
+
+Co-authored-by: Javier Viola &lt;javier@parity.io&gt;
+Co-authored-by: Marcin S. &lt;marcin@realemail.net&gt;
+Co-authored-by: Tsvetomir Dimitrov &lt;tsvetomir@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f8048b</div>
+                                        <div class="message">New runtime `spec_version` format + backport of the bump to 1.4.0 (#2468)
+
+## Overview
+
+This PR aligns the `spec_version` formatting to the [recent
+changes](https://github.com/polkadot-fellows/runtimes/pull/26/files#diff-efa4caeb17487ecb13d8f5eb7863c3241d84afa2e73fbf25909a2ca89df0f362R142)
+made for the Polkadot/Kusama runtimes.
+
+It also backports the latest version `v1.4.0` bumps as `1_004_000`.
+
+## Details
+
+During the switch from `v0.9` to `v1.x`, the format of the
+`spec_version` was modified from: `(M)m_ppp` for a runtime considered on
+version `M.m.pp`. For instance `0.9.42` had a `spec_version` of `9420`.
+
+With the transition to `v1.x`, the format was changed to a bigger number
+(still `u32`) formatted as `MM_mm_ppp` where `1.2.3` would be stored as
+`01_02_003`.
+
+This PR aligns the format with that has been introduced in the
+fellowship repo: `MMM_mmm_ppp`.
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfa19c3</div>
+                                        <div class="message">PVF: remove audit log access (#2461)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73ff1c3</div>
+                                        <div class="message">Update documentation for SafeMode and TxPause Pallets (#2413)
+
+# Description
+
+Documentation for the TxPause and SafeMode pallets.
+
+Based on reading and the notes from the following related PRs:
+- https://github.com/paritytech/substrate/pull/12092
+
+I believe this also completes the checklist to be able to close the
+related PRs:
+- Close #302 
+- Close #274
+
+---------
+
+Co-authored-by: joe petrowski &lt;25483142+joepetrowski@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5d15a1</div>
+                                        <div class="message">polkadot-parachain: one chain-spec for all (#2457)
+
+This PR removes some `ChainSpec` types which are not necessary
+(left-overs from #1256). Currently `ChainSpec` does not have to be
+generic over the specific `RuntimeGenesisConfig`, it is enough to use
+single type for all:
+
+https://github.com/paritytech/polkadot-sdk/blob/9f787018857660440182142adc806954d7d07709/cumulus/polkadot-parachain/src/chain_spec/mod.rs#L53-L54
+
+
+related to: https://github.com/paritytech/polkadot-sdk/issues/25
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffc64fd</div>
+                                        <div class="message">Zombienet: add polkadot-debug image publish as needs for cumulus tests (#2493)
+
+Add `build-push-image-polkadot-debug` job to needs since we changed to
+use the polkadot-debug image from the current branch for cumulus test
+and we need to be sure that the image is ready. Fix issues like
+https://gitlab.parity.io/parity/mirrors/polkadot-sdk/-/jobs/4481059
+
+cc: @bkchr
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e27342</div>
+                                        <div class="message">Do not pollute global base path with export genesis/wasm (#2487)
+
+Otherwise the user may runs into weird errors if there is already a db.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63f1210</div>
+                                        <div class="message">bump zombienet version `v1.3.83` (#2492)
+
+Include fix for `0002-parachains-upgrade-smoke-test` test.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81638d4</div>
+                                        <div class="message">Add missing workspace members (#2491)
+
+The following members have been added:
+
+```pre
+cumulus/parachains/integration-tests/emulated/chains/parachains/testing/penpal
+cumulus/parachains/testnets-common
+polkadot/node/tracking-allocator
+substrate/frame/examples/frame-crate
+```
+
+CI check can be added after
+https://github.com/paritytech/pipeline-scripts/pull/105 is merged.
+
+---------
+
+Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d07186b</div>
+                                        <div class="message">Remove `RuntimeApi` dependency on system parachain runtime code (#2455)
+
+The last issue blocking the removal of the Polkadot and Kusama system
+parachains from the repo in #1737 is the dependency on the runtime code
+through the RuntimeApi in `polkadot-parachain`.
+
+This PR introduces two fake runtimes to satisfy the build requirements
+and changes the `new_partial` function to make it not be generic over
+the runtimes.
+The reason for the second runtime is the different Aura keys used in
+Polkadot Asset Hub, as the impl for AuraApi depends on this type.
+If this changes the `RuntimeApi` generic could be removed completely
+from all functions in `services.rs` and and generic type parameters in
+`services.rs` and specified as a concrete type to TFullClient`.
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Nov 2023, 15:47:35</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -440,23 +809,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">27 Nov 2023, 17:28:29</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">xavier/1</span>
-                                        in
-                                        <span class="repo">darwinia-network/DIPs</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Nov 2023, 13:22:58</div>
                             </section>
                         </div>
                     </section>
