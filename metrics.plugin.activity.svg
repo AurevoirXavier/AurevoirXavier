@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1427" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1743" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,616 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/rust-initializer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2595260</div>
+                                        <div class="message">Update staging.yml
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Dec 2023, 15:31:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 50 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1bdfb29</div>
+                                        <div class="message">[NTFs] Emit CollectionMaxSupplySet on collection create (#2626)
+
+Closes #2293 
+
+if the max_supply is set during the collection creation, we emit the
+`CollectionMaxSupplySet` event</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5edd4f</div>
+                                        <div class="message">Bump ark-scale version to 0.0.12 (#2652)
+
+As per title.
+
+Fix in ark-scale `TypeInfo` implementation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac3f14d</div>
+                                        <div class="message">Tasks: general system for recognizing and executing service work (#1343)
+
+`polkadot-sdk` version of original tasks PR located here:
+https://github.com/paritytech/substrate/pull/14329
+
+Fixes #206
+
+## Status
+- [x] Generic `Task` trait
+- [x] `RuntimeTask` aggregated enum, compatible with
+`construct_runtime!`
+- [x] Casting between `Task` and `RuntimeTask` without needing `dyn` or
+`Box`
+- [x] Tasks Example pallet
+- [x] Runtime tests for Tasks example pallet
+- [x] Parsing for task-related macros
+- [x] Retrofit parsing to make macros optional
+- [x] Expansion for task-related macros
+- [x] Adds support for args in tasks
+- [x] Retrofit tasks example pallet to use macros instead of manual
+syntax
+- [x] Weights
+- [x] Cleanup
+- [x] UI tests
+- [x] Docs
+
+## Target Syntax
+Adapted from
+https://github.com/paritytech/polkadot-sdk/issues/206#issue-1865172283
+
+```rust
+// NOTE: this enum is optional and is auto-generated by the other macros if not present
+#[pallet::task]
+pub enum Task&lt;T: Config&gt; {
+    AddNumberIntoTotal {
+        i: u32,
+    }
+}
+
+/// Some running total.
+#[pallet::storage]
+pub(super) type Total&lt;T: Config&lt;I&gt;, I: 'static = ()&gt; =
+StorageValue&lt;_, (u32, u32), ValueQuery&gt;;
+
+/// Numbers to be added into the total.
+#[pallet::storage]
+pub(super) type Numbers&lt;T: Config&lt;I&gt;, I: 'static = ()&gt; =
+StorageMap&lt;_, Twox64Concat, u32, u32, OptionQuery&gt;;
+
+#[pallet::tasks_experimental]
+impl&lt;T: Config&lt;I&gt;, I: 'static&gt; Pallet&lt;T, I&gt; {
+	/// Add a pair of numbers into the totals and remove them.
+	#[pallet::task_list(Numbers::&lt;T, I&gt;::iter_keys())]
+	#[pallet::task_condition(|i| Numbers::&lt;T, I&gt;::contains_key(i))]
+	#[pallet::task_index(0)]
+	pub fn add_number_into_total(i: u32) -&gt; DispatchResult {
+		let v = Numbers::&lt;T, I&gt;::take(i).ok_or(Error::&lt;T, I&gt;::NotFound)?;
+		Total::&lt;T, I&gt;::mutate(|(total_keys, total_values)| {
+			*total_keys += i;
+			*total_values += v;
+		});
+		Ok(())
+	}
+}
+```
+
+---------
+
+Co-authored-by: Nikhil Gupta &lt;17176722+gupnik@users.noreply.github.com&gt;
+Co-authored-by: kianenigma &lt;kian@parity.io&gt;
+Co-authored-by: Nikhil Gupta &lt;&gt;
+Co-authored-by: Gavin Wood &lt;gavin@parity.io&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: gupnik &lt;nikhilgupta.iitk@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34c991e</div>
+                                        <div class="message">Remove hashbrown from trie cache. (#2632)
+
+Using hashmap instead (hashset do not expose entry), to get the default
+random hasher her.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fde5d8f</div>
+                                        <div class="message">pallet-broker: Small improvements to the origin checks (#2656)
+
+The permissionless calls do not need to ensure that the `origin` is
+signed. Anyone can execute these calls.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#814b938</div>
+                                        <div class="message">Remove `testnets-common` (#2620)
+
+`testnets-common` was introduced recently to start to separate testnet
+parachain configurations from those of Polkadot and Kusama.
+
+The `locks-review` and `polkadot-review` requirements are removed from
+`parachains-common` in
+https://github.com/paritytech/polkadot-sdk/pull/2564 and there are
+[plans](https://github.com/paritytech/polkadot-sdk/pull/2564#discussion_r1410882115)
+to move the Polkadot and Kusama contents of that package to the
+fellowship, `testnets-common` is no longer needed.
+
+This PR removes the crate and replaces uses of it in
+`collectives-westend`, the only place it is currently used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e7fe99</div>
+                                        <div class="message">[FRAME] Make MQ pallet re-entrancy safe (#2356)
+
+Closes https://github.com/paritytech/polkadot-sdk/issues/2319
+
+Changes:
+- Ensure that only `enqueue_message(s)` is callable from within the
+message processor. This prevents messed up storage that can currently
+happen when the pallet is called into recursively.
+- Use `H256` instead of `[u8; 32]` for clearer API.
+
+## Details
+
+The re-entracy check is done with the `environmental` crate by adding a
+`with_service_mutex(f)` function that runs the closure exclusively. This
+works since the MQ pallet is not instantiable.
+
+---------
+
+Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Francisco Aguirre &lt;franciscoaguirreperez@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95c3ee1</div>
+                                        <div class="message">feat(xcm): support json schema (for CosmWasm VM support) (#1454)
+
+# Description
+
+- What does this PR do? Allows to generate JSON schema for subset of XCM
+in std builds
+- Why are these changes needed? To support XCM messages in CosmWasm
+contracts which require Schemars to generate contract clients
+- How were these changes implemented and what do they affect? We will
+use schema feature flag to build XCM pallet with JSON schema enabled
+
+# Checklist
+
+- [x] My PR includes a detailed description as outlined in the
+"Description" section above
+- [x] My PR follows the [labeling requirements](CONTRIBUTING.md#Process)
+of this project (at minimum one label for `T`
+  required)
+- [x] I have made corresponding changes to the documentation (if
+applicable)
+- [x] I have added tests that prove my fix is effective or that my
+feature works (if applicable)
+- [x] If this PR alters any external APIs or interfaces used by
+Polkadot, the corresponding Polkadot PR is ready as well
+  as the corresponding Cumulus PR (optional)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a4ab64</div>
+                                        <div class="message">Fix recursive trait bounds (#2644)
+
+Closes: https://github.com/paritytech/polkadot-sdk/issues/2641</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26116cd</div>
+                                        <div class="message">Improve inline comment for ClaimPermission extrinsic of nom pools (#2640)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d5832f</div>
+                                        <div class="message">Bump rand from 0.7.3 to 0.8.5 (#2645)
+
+Bumps [rand](https://github.com/rust-random/rand) from 0.7.3 to 0.8.5.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/rust-random/rand/blob/master/CHANGELOG.md"&gt;rand's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;[0.8.5] - 2021-08-20&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix build on non-32/64-bit architectures (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1144"&gt;#1144&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix &amp;quot;min_const_gen&amp;quot; feature for &lt;code&gt;no_std&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1173"&gt;#1173&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Check &lt;code&gt;libc::pthread_atfork&lt;/code&gt; return value with panic on
+error (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1178"&gt;#1178&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;More robust reseeding in case &lt;code&gt;ReseedingRng&lt;/code&gt; is used from
+a fork handler (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1178"&gt;#1178&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix nightly: remove unused &lt;code&gt;slice_partition_at_index&lt;/code&gt;
+feature (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1215"&gt;#1215&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix nightly + &lt;code&gt;simd_support&lt;/code&gt;: update
+&lt;code&gt;packed_simd&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1216"&gt;#1216&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Rngs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;StdRng&lt;/code&gt;: Switch from HC128 to ChaCha12 on emscripten (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1142"&gt;#1142&lt;/a&gt;).
+We now use ChaCha12 on all platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added docs about rand's use of const generics (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1150"&gt;#1150&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Better random chars example (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1157"&gt;#1157&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[0.8.4] - 2021-06-15&lt;/h2&gt;
+&lt;h3&gt;Additions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use const-generics to support arrays of all sizes (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1104"&gt;#1104&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Implement &lt;code&gt;Clone&lt;/code&gt; and &lt;code&gt;Copy&lt;/code&gt; for
+&lt;code&gt;Alphanumeric&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1126"&gt;#1126&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;Distribution::map&lt;/code&gt; to derive a distribution using a
+closure (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1129"&gt;#1129&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;Slice&lt;/code&gt; distribution (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1107"&gt;#1107&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;DistString&lt;/code&gt; trait with impls for
+&lt;code&gt;Standard&lt;/code&gt; and &lt;code&gt;Alphanumeric&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1133"&gt;#1133&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reorder asserts in &lt;code&gt;Uniform&lt;/code&gt; float distributions for
+easier debugging of non-finite arguments
+(&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1094"&gt;#1094&lt;/a&gt;,
+&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1108"&gt;#1108&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add range overflow check in &lt;code&gt;Uniform&lt;/code&gt; float distributions
+(&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1108"&gt;#1108&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Deprecate &lt;code&gt;rngs::adapter::ReadRng&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1130"&gt;#1130&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[0.8.3] - 2021-01-25&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix &lt;code&gt;no-std&lt;/code&gt; + &lt;code&gt;alloc&lt;/code&gt; build by gating
+&lt;code&gt;choose_multiple_weighted&lt;/code&gt; on &lt;code&gt;std&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1088"&gt;#1088&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[0.8.2] - 2021-01-12&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix panic in &lt;code&gt;UniformInt::sample_single_inclusive&lt;/code&gt; and
+&lt;code&gt;Rng::gen_range&lt;/code&gt; when
+providing a full integer range (eg &lt;code&gt;0..=MAX&lt;/code&gt;) (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1087"&gt;#1087&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[0.8.1] - 2020-12-31&lt;/h2&gt;
+&lt;h3&gt;Other&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable all stable features in the playground (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1081"&gt;#1081&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[0.8.0] - 2020-12-18&lt;/h2&gt;
+&lt;h3&gt;Platform support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The minimum supported Rust version is now 1.36 (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1011"&gt;#1011&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;getrandom&lt;/code&gt; updated to v0.2 (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1041"&gt;#1041&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Remove &lt;code&gt;wasm-bindgen&lt;/code&gt; and &lt;code&gt;stdweb&lt;/code&gt; feature
+flags. For details of WASM support,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/937320cbfeebd4352a23086d9c6e68f067f74644"&gt;&lt;code&gt;937320c&lt;/code&gt;&lt;/a&gt;
+Update CHANGELOG for 0.8.5 (&lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1221"&gt;#1221&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/2924af688d352b889322870d017356f12651866b"&gt;&lt;code&gt;2924af6&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1183"&gt;#1183&lt;/a&gt;
+from vks/fill-float-doc&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/dbbc1bf3176138c867f3d84c0c4d288119a5a84e"&gt;&lt;code&gt;dbbc1bf&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1218"&gt;#1218&lt;/a&gt;
+from Will-Low/master&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/9f20df04d88698c38515833d6db62d7eb50d8b80"&gt;&lt;code&gt;9f20df0&lt;/code&gt;&lt;/a&gt;
+Making distributions comparable by deriving PartialEq. Tests
+included&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/a407bdfa4563d0cfbf744049242926c8de079d3f"&gt;&lt;code&gt;a407bdf&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1216"&gt;#1216&lt;/a&gt;
+from rust-random/work5&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/d3ca11b0bcc1f42fe34ba4f90f99509b7eb4ff18"&gt;&lt;code&gt;d3ca11b&lt;/code&gt;&lt;/a&gt;
+Update to packed_simd_2 0.3.7&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/fa04c15d0bb5842fdbdbb73d7a53ead36f3fcf52"&gt;&lt;code&gt;fa04c15&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1215"&gt;#1215&lt;/a&gt;
+from Lantern-chat/master&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/73f8ffd16379390e624ac53cd6882dd679dd9a6f"&gt;&lt;code&gt;73f8ffd&lt;/code&gt;&lt;/a&gt;
+Remove unused &lt;code&gt;slice_partition_at_index&lt;/code&gt; feature&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/8f372500f05dfadcff6c35e773e81029ab7debad"&gt;&lt;code&gt;8f37250&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rust-random/rand/issues/1208"&gt;#1208&lt;/a&gt;
+from newpavlov/rand_distr/fix_no_std&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rust-random/rand/commit/9ef737ba5b814f6ab36cebafb59ad29885d68a05"&gt;&lt;code&gt;9ef737b&lt;/code&gt;&lt;/a&gt;
+update changelog&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/rust-random/rand/compare/0.7.3...0.8.5"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=rand&amp;package-manager=cargo&amp;previous-version=0.7.3&amp;new-version=0.8.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3073d8</div>
+                                        <div class="message">Fix failing rc-automation GHA (#2648)
+
+This PR adds missing `environment: release` parameter to the
+`rc-automation ` GHA</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f6b632</div>
+                                        <div class="message">[ci] Return CI_IMAGE variable (#2647)
+
+close https://github.com/paritytech/ci_cd/issues/900</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f3c67b</div>
+                                        <div class="message">Support querying peer reputation (#2392)
+
+# Description
+
+Trivial change that resolves
+https://github.com/paritytech/polkadot-sdk/issues/2185.
+
+Since there was a mix of `who` and `peer_id` argument names nearby I
+changed them all to `peer_id`.
+
+# Checklist
+
+- [x] My PR includes a detailed description as outlined in the
+"Description" section above
+- [x] My PR follows the [labeling requirements](CONTRIBUTING.md#Process)
+of this project (at minimum one label for `T`
+  required)
+- [x] I have made corresponding changes to the documentation (if
+applicable)
+- [ ] I have added tests that prove my fix is effective or that my
+feature works (if applicable)
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd63276</div>
+                                        <div class="message">[ci] Update rust to 1.74 (#2545)
+
+cc https://github.com/paritytech/ci_cd/issues/900
+
+---------
+
+Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;
+Co-authored-by: Bastian Köcher &lt;info@kchr.de&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#833478f</div>
+                                        <div class="message">Relax approval requirements on CI files (#2564)
+
+- Remove the old Cumulus checks as these files do not exist anymore
+- Relax requirements on CI files to also give two core devs the right to
+change these files
+- Relax requirements on the review bot configuration itself as well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b3d067</div>
+                                        <div class="message">Added AllSiblingSystemParachains matcher to be used at a parachain level (#2422)
+
+As suggested in this thread:
+https://github.com/polkadot-fellows/runtimes/pull/87#discussion_r1400237122
+
+We already have the `IsChildSystemParachain`, which may be used at relay
+chain, but it can't be used at a parachain level. So let's use
+`AllSiblingSystemParachains` for that. I was thinking about
+`AllSystemParachains`, but it may cause wrong impression that it can be
+used at a relay chain level.
+
+---------
+
+Co-authored-by: joe petrowski &lt;25483142+joepetrowski@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4df313f</div>
+                                        <div class="message">Improve polkadot sdk docs (#2631)
+
+Closes https://github.com/paritytech/polkadot-sdk-docs/issues/69</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be500fc</div>
+                                        <div class="message">Bridges subtree update (#2602)
+
+## Summary
+
+This PR aligns Rococo/Westend bridge with latest Bridges repo
+development:
+- https://github.com/paritytech/parity-bridges-common/pull/2727
+- https://github.com/paritytech/parity-bridges-common/pull/2728
+- https://github.com/paritytech/parity-bridges-common/pull/2729
+
+
+
+
+Part of: https://github.com/paritytech/parity-bridges-common/issues/2452</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7651cf</div>
+                                        <div class="message">pallet-xcm: add new flexible `transfer_assets()` call/extrinsic (#2388)
+
+# Motivation (+testing)
+
+### Enable easy `ForeignAssets` transfers using `pallet-xcm` 
+
+We had just previously added capabilities to teleport fees during
+reserve-based transfers, but what about reserve-transferring fees when
+needing to teleport some non-fee asset?
+
+This PR aligns everything under either explicit reserve-transfer,
+explicit teleport, or this new flexible `transfer_assets()` which can
+mix and match as needed with fewer artificial constraints imposed to the
+user.
+
+This will enable, for example, a (non-system) parachain to teleport
+their `ForeignAssets` assets to AssetHub while using DOT to pay fees.
+(the assets are teleported - as foreign assets should from their owner
+chain - while DOT used for fees can only be reserve-based transferred
+between said parachain and AssetHub).
+
+Added `xcm-emulator` tests for this scenario ^.
+
+# Description
+
+Reverts `(limited_)reserve_transfer_assets` to only allow reserve-based
+transfers for all `assets` including fees.
+
+Similarly `(limited_)teleport_assets` only allows teleports for all
+`assets` including fees.
+    
+For complex combinations of asset transfers where assets and fees may
+have different reserves or different reserve/teleport trust
+configurations, users can use the newly added `transfer_assets()`
+extrinsic which is more flexible in allowing more complex scenarios.
+
+`assets` (excluding `fees`) must have same reserve location or otherwise
+be teleportable to `dest`.
+No limitations imposed on `fees`.
+
+- for local reserve: transfer assets to sovereign account of destination
+chain and forward a notification XCM to `dest` to mint and deposit
+reserve-based assets to `beneficiary`.
+- for destination reserve: burn local assets and forward a notification
+to `dest` chain to withdraw the reserve assets from this chain's
+sovereign account and deposit them to `beneficiary`.
+- for remote reserve: burn local assets, forward XCM to reserve chain to
+move reserves from this chain's SA to `dest` chain's SA, and forward
+another XCM to `dest` to mint and deposit reserve-based assets to
+`beneficiary`.
+- for teleports: burn local assets and forward XCM to `dest` chain to
+mint/teleport assets and deposit them to `beneficiary`.
+
+## Review notes
+
+Only around 500 lines are prod code (see `pallet_xcm/src/lib.rs`), the
+rest of the PR is new tests and improving existing tests.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Dec 2023, 15:07:35</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -374,45 +984,6 @@ I've decided to uninstall this version. 👎🏻
                                     </div>
                                 </div>
                                 <div class="timestamp">12 Dec 2023, 17:08:40</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#689 Add timeout flag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">hack-ink/subalfred</span></div>
-                                    <div>10 files changed <span class="code">++73 --32</span></div>
-                                </div>
-                                <div class="timestamp">12 Dec 2023, 17:08:39</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/timeout</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#18d1bef</div>
-                                        <div class="message">Fix tests</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Dec 2023, 17:07:42</div>
                             </section>
                         </div>
                     </section>
