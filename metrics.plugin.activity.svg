@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1627" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,93 +19,34 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#1353 Simplify the release action</span>
+                                        Created new
+                      tag
+                                        <span class="code">pango-6511</span>
+                                        in
+                                        <span class="repo">AurevoirXavier/darwinia</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 18:05:41</div>
+                                <div class="timestamp">16 Dec 2023, 18:00:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#715 Project appears to be dead?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by romanholidaypancakes in <span class="repo">mhutchie/vscode-git-graph</span></div>
-                                    <div class="comment">
-                                        <i>I just noticed that the extension had been updated (2023-10-10, 11:18:07) in my Visual Studio Code. However, I don't see any recent commit activity in this repo. Does anyone know what is going on? Is there some other build pipeline outside of this repo that we're not aware of? Is there hope??
-EDIT: Or my vscode just performed an update to the latest release of 2021-04-05, 05:44:22 only a few years late :\</i>
-                                        https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
-There are a lot of same name projects on vscode market, check the source carefully.
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 17:43:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#700 Use GitHub Pages action and delete github-pages branch</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hack-ink/subalfred</span></div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 17:09:23</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
-                      branch
-                                        <span class="code">gh-pages</span>
+                      tag
+                                        <span class="code">pango-6511</span>
                                         in
-                                        <span class="repo">hack-ink/subalfred</span>
+                                        <span class="repo">AurevoirXavier/darwinia</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 17:07:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">xavier/a</span>
-                                        in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 17:07:47</div>
+                                <div class="timestamp">16 Dec 2023, 18:00:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -116,17 +57,428 @@ There are a lot of same name projects on vscode market, check the source careful
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
+                                        <span class="repo">AurevoirXavier/darwinia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0855b43</div>
-                                        <div class="message">Use action to deploy pages (#703)</div>
+                                        <div class="sha">#3e4afcf</div>
+                                        <div class="message">Fix CI (#1356)
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 17:07:46</div>
+                                <div class="timestamp">16 Dec 2023, 18:00:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">pango-6511</span>
+                                        in
+                                        <span class="repo">AurevoirXavier/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:59:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 132 commits in
+                                        <span class="repo">AurevoirXavier/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#78e93ed</div>
+                                        <div class="message">Release testnets (#1170)
+
+* Release testnets
+
+* Recache</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#877801c</div>
+                                        <div class="message">Add `txpool` RPC  (#1168)
+
+* Add txpool rpc interfaces
+
+* Fix compile
+
+* Format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afaee67</div>
+                                        <div class="message">Use `ubuntu:20.04` (#1169)
+
+* Use `ubuntu:20.04`
+
+* Remove some fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3456b73</div>
+                                        <div class="message">Benchmark `pallet_bridge_parachains` and `pallet_bridge_messages` (#1158)
+
+* Try add parachains benchmark
+
+* Add parachains benchmark result
+
+* Try fix the messages benchmark
+
+* Adapt for other runtimes
+
+* Finally it works, not easy to debug
+
+* Add benchmark results
+
+* Install these configs
+
+* Toml files format
+
+* Code clean
+
+* Format the macro code
+
+* Bump the lock file
+
+* Format
+
+* Fix CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6371a41</div>
+                                        <div class="message">Use moonbeam's `polkadot-v0.9.40` (#1167)
+
+* Prepare
+
+* Fix precompile compile
+
+* Fix runtime
+
+* Update branch
+
+---------
+
+Co-authored-by: bear &lt;boundless.forest@outlook.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16674a4</div>
+                                        <div class="message">Add precompile metadata (#1164)
+
+* Add staking.sol
+
+* Add deposit and state-storage
+
+* Add others
+
+* Add abi files
+
+* Format
+
+* Remove empty line</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e470463</div>
+                                        <div class="message">Add dispatch filter (#1165)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63fcfd5</div>
+                                        <div class="message">Remove staled type (#1159)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8f4cb8</div>
+                                        <div class="message">Benchmark (#1155)
+
+* Fmt
+
+* Bench pallets
+
+* Bench runtimes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23b80a1</div>
+                                        <div class="message">Deploy testnets tracing node (#1151)
+
+* Try to add deploy testnets tracing node
+
+* Trigger build tracing node then deploy it
+
+* Make changes follow suggestion
+
+* Make changes follow suggestion
+
+* Make changes follow suggestion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d87a45b</div>
+                                        <div class="message">To `polkadot-v0.9.40` (#1153)
+
+* Remove `account`
+
+* Update and companions
+
+* Companion of paritytech/cumulus#2164
+
+* Companion of paritytech/substrate#13159
+
+* Companion of paritytech/cumulus#1909
+
+* Fmt
+
+* Companion of paritytech/polkadot#6744
+
+* Companion of paritytech/cumulus#2245
+
+* Companion of paritytech/substrate#12828
+
+* Companion of paritytech/cumulus#2287
+
+* Companion of paritytech/substrate#13592
+
+* Companion of paritytech/cumulus#2308
+
+* Companion of paritytech/substrate#13410
+
+* Companion of paritytech/substrate#13305
+
+* Companion of paritytech/frontier#1050
+
+* TODO weight
+
+* TODO weight
+
+* Companion of paritytech/frontier#1040
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;
+
+* Remove unused dep
+
+* Try fix dev node paritytech/substrate#12828
+
+* Fix the frontier part (#1154)
+
+* Fix dev node
+
+* Fmt
+
+* Bump moonbeam
+
+* Bump moonbeam
+
+* Remove unnecessary clone
+
+* Fix tests
+
+---------
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;
+Co-authored-by: Guantong &lt;i@gt.email&gt;
+Co-authored-by: bear &lt;boundless.forest@outlook.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae96c26</div>
+                                        <div class="message">Update testnets bootnodes (#1150)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#089ba6d</div>
+                                        <div class="message">Approve saturate when the amount is too high (#1149)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e41212</div>
+                                        <div class="message">Remove state processor things (#1146)
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8be548</div>
+                                        <div class="message">Fix actions path (#1145)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe15df8</div>
+                                        <div class="message">Fix package name (#1144)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05b72ca</div>
+                                        <div class="message">Release `v6.3.0` (#1143)
+
+* Bump deps
+
+* Bump runtime
+
+* Add test
+
+* Bump deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baae2d8</div>
+                                        <div class="message">Refactor Release CI (#1142)
+
+* test ci
+
+* Test staging CI
+
+* Test
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Backup
+
+* Add test project
+
+* fix ci
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Test release
+
+* Use custom srtool docker image
+
+* Try to run CI
+
+* Try to run with tag
+
+* Fix CI
+
+* Fix CI
+
+* Fix CI
+
+* Fix CI
+
+* Fix CI
+
+* Code clean
+
+* Code restore
+
+* Code restore
+
+* Code restore
+
+* darwinia tracing bz2 package
+
+* Make changes follow suggestions and check actions
+
+* Check CI
+
+* Revert test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4e3aaa</div>
+                                        <div class="message">Release runtime override (#1141)
+
+* Release runtime override
+
+* Update command
+
+* Update .github/workflows/runtime-override.yml
+
+Co-authored-by: fewensa &lt;37804932+fewensa@users.noreply.github.com&gt;
+
+* Update .github/workflows/runtime-override.yml
+
+Co-authored-by: fewensa &lt;37804932+fewensa@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: fewensa &lt;37804932+fewensa@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f89c26</div>
+                                        <div class="message">Correct staking reward map (#1140)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:58:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">pango-6511</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:58:02</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">xavier/c</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:57:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff7514f</div>
+                                        <div class="message">Fix CI (#1356)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:57:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -137,14 +489,14 @@ There are a lot of same name projects on vscode market, check the source careful
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#703 Use action to deploy pages</span>
+                                        <span class="issue">#1356 Fix CI</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">hack-ink/subalfred</span></div>
-                                    <div>1 file changed <span class="code">++26 --14</span></div>
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 17:07:45</div>
+                                <div class="timestamp">16 Dec 2023, 17:57:50</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -155,14 +507,14 @@ There are a lot of same name projects on vscode market, check the source careful
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#703 Use action to deploy pages</span>
+                                        <span class="issue">#1356 Fix CI</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">hack-ink/subalfred</span></div>
-                                    <div>1 file changed <span class="code">++26 --14</span></div>
+                                    <div> in <span class="repo">darwinia-network/darwinia</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 17:06:07</div>
+                                <div class="timestamp">16 Dec 2023, 17:57:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -174,30 +526,12 @@ There are a lot of same name projects on vscode market, check the source careful
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">xavier/a</span>
+                                        <span class="code">xavier/c</span>
                                         in
-                                        <span class="repo">hack-ink/subalfred</span>
+                                        <span class="repo">darwinia-network/darwinia</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 17:05:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#8 Use Cargo Features to Control CLI Features</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hack-ink/subalfred</span></div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:58:47</div>
+                                <div class="timestamp">16 Dec 2023, 17:57:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -214,7 +548,82 @@ There are a lot of same name projects on vscode market, check the source careful
                                         <span class="repo">darwinia-network/darwinia</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 16:41:17</div>
+                                <div class="timestamp">16 Dec 2023, 17:51:38</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">pango-6511</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:51:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">xavier/c</span>
+                                        in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:51:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aa45aaa</div>
+                                        <div class="message">Simplify release action (#1355)
+
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:51:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1353 Simplify the release action</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 17:51:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -225,31 +634,14 @@ There are a lot of same name projects on vscode market, check the source careful
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1352 Bump action</span>
+                                        <span class="issue">#1355 Simplify release action</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++40 --81</span></div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 16:40:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">xavier/r</span>
-                                        in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:40:34</div>
+                                <div class="timestamp">16 Dec 2023, 17:51:17</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -264,95 +656,15 @@ There are a lot of same name projects on vscode market, check the source careful
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">xavier/c</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f14abc2</div>
-                                        <div class="message">Bump action (#1352)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:40:33</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/github_actions/actions/upload-artifact-4.0.0</span>
-                                        in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:13:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#db96fe8</div>
-                                        <div class="message">Bump actions/upload-artifact from 3.1.3 to 4.0.0 (#701)
+                                        <div class="sha">#6c8c181</div>
+                                        <div class="message">Simplify release action
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 16:13:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/github_actions/actions/download-artifact-4</span>
-                                        in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:11:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/subalfred</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c384645</div>
-                                        <div class="message">Bump actions/download-artifact from 3 to 4 (#702)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Dec 2023, 16:10:59</div>
+                                <div class="timestamp">16 Dec 2023, 17:46:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -363,14 +675,14 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1352 Bump action</span>
+                                        <span class="issue">#1355 Simplify release action</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++40 --81</span></div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 16:03:38</div>
+                                <div class="timestamp">16 Dec 2023, 17:45:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -382,12 +694,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">xavier/r</span>
+                                        <span class="code">xavier/c</span>
                                         in
                                         <span class="repo">darwinia-network/darwinia</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Dec 2023, 16:03:24</div>
+                                <div class="timestamp">16 Dec 2023, 17:45:17</div>
                             </section>
                         </div>
                     </section>
