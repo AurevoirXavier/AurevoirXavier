@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1424" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1740" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit svg{margin:0}.audit.average{fill:#fb8c00}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,636 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/review</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77b8873</div>
+                                        <div class="message">Fix</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Jan 2024, 12:04:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 149 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e5b2ada</div>
+                                        <div class="message">`chain-spec-builder`: Improve output path example (#2693)
+
+Example currently broken. 
+
+It writes something to the given path, but not the full chain spec.
+
+---------
+
+Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffb2125</div>
+                                        <div class="message">[NPoS] Remove better solution threshold for unsigned submissions (#2694)
+
+closes https://github.com/paritytech-secops/srlabs_findings/issues/78.
+
+Removes `BetterUnsignedThreshold` from pallet EPM. This will essentially
+mean any solution submitted by the validator that is strictly better
+than the current queued solution would be accepted.
+
+The reason for having these thresholds is to limit number of solutions
+submitted on-chain. However for unsigned submissions, the number of
+solutions that could be submitted on average is limited even without
+thresholding (calculation shown in the corresponding issue).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddd5434</div>
+                                        <div class="message">fix zombienet test (#2719)
+
+Remove old version for `cli_args`, since this was fixed in the latest
+version of zombienet and the `latest` version of polkadot introduce the
+new flag `--insecure-validator-i-know-what-i-do`.
+
+Fix jobs like
+https://gitlab.parity.io/parity/mirrors/polkadot-sdk/-/jobs/4726174
+Thx!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce1c9a4</div>
+                                        <div class="message">parachain-system: Do not take `self` for `last_relay_block_number` (#2720)
+
+FRAME DSL is working in a static context.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99df391</div>
+                                        <div class="message">BEEFY: `expect_validator_set()` fix (#2716)
+
+Fixes #https://github.com/paritytech/polkadot-sdk/issues/2699
+
+Modifying `expect_validator_set()` in order to be able to walk back
+until block 0. The chain state at block 0 is available even if we use
+`--sync fast` or `--sync warp`. This way we can retrieve the initial
+authority set even when BEEFY genesis is 1 and there is no authority
+change entry in the headers log.
+
+Credits to @acatangiu for the solution
+
+---------
+
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b58f0ae</div>
+                                        <div class="message">Governance can halt and resume Rococo &lt;&gt; Wococo bridge pallets over XCM (#2712)
+
+This PR adds possibility for relay chain governance to halt and resume
+bridge pallets using XCM calls. Following calls are enabled over XCM for
+the `root` origin: `pallet_bridge_grandpa::set_operating_mode`,
+`pallet_bridge_parachains::set_operating_mode` and
+`pallet_bridge_messages::set_operating_mode`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11edbaf</div>
+                                        <div class="message">Feature gate `do_task` in `frame_system` (#2707)
+
+https://github.com/paritytech/polkadot-sdk/pull/1343/ introduced Tasks
+API. This one moves `do_task` call in frame_system under the
+experimental flag, till the previous one is audited.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cee874</div>
+                                        <div class="message">feat: add super trait for block number (#2334)
+
+And also related to a subxt PR
+https://github.com/paritytech/subxt/pull/1265</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dece52</div>
+                                        <div class="message">pallet-nomination-pools: Enable function for `fuzzing` feature as well (#2711)
+
+The function is called by `do_try_state` which is also enabled for the
+`fuzzing` feature.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1a11b7</div>
+                                        <div class="message">sc-tracing: swap atty with is-terminal (#2718)
+
+`atty` is unmaintaned. See the advisory
+https://github.com/advisories/GHSA-g98v-hv3f-hcfr
+
+I picked is-terminal because rustix is already in-tree, so doesn't
+increase the dependency footprint, and I am not sure if we can rely on
+`IsTerminal` from the std because I am not sure what our MSRV.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19984f2</div>
+                                        <div class="message">Bump the known_good_semver group with 1 update (#2698)
+
+Bumps the known_good_semver group with 1 update:
+[syn](https://github.com/dtolnay/syn).
+
+Updates `syn` from 2.0.40 to 2.0.41
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dtolnay/syn/releases"&gt;syn's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.41&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support parsing syn::Field in &lt;code&gt;parse_quote!&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1548"&gt;#1548&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/63b17012ab20ff72f3e49aaf821719a866b1a352"&gt;&lt;code&gt;63b1701&lt;/code&gt;&lt;/a&gt;
+Release 2.0.41&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/920ab7d6a061921d03541d86d7ac8daaf864bb7b"&gt;&lt;code&gt;920ab7d&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1548"&gt;#1548&lt;/a&gt;
+from dtolnay/parsequotefield&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/5e1592408c3bcda68db10cd054f9d87e9e480f9b"&gt;&lt;code&gt;5e15924&lt;/code&gt;&lt;/a&gt;
+Test parse_quote implementation for Field&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/c268c6793f8a71ac2f3e8ee80201701e4352b407"&gt;&lt;code&gt;c268c67&lt;/code&gt;&lt;/a&gt;
+Support parsing Field in parse_quote&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/2ab0f6ae4b47d133c828d9123e86a50565a95447"&gt;&lt;code&gt;2ab0f6a&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dtolnay/syn/issues/1547"&gt;#1547&lt;/a&gt;
+from dtolnay/testparsequote&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/46172a41a478920ff23c9e370a5b922fa984829d"&gt;&lt;code&gt;46172a4&lt;/code&gt;&lt;/a&gt;
+Add parse_quote tests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/0fcdad044f330f4c32e2f3b1230271669d1951ea"&gt;&lt;code&gt;0fcdad0&lt;/code&gt;&lt;/a&gt;
+Support punctuated Pairs iterator in snapshot tests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dtolnay/syn/commit/06161ba80283edf6f741dfc86c91f6985297d168"&gt;&lt;code&gt;06161ba&lt;/code&gt;&lt;/a&gt;
+Update test suite to nightly-2023-12-12&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/dtolnay/syn/compare/2.0.40...2.0.41"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=syn&amp;package-manager=cargo&amp;previous-version=2.0.40&amp;new-version=2.0.41)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#097308e</div>
+                                        <div class="message">Add Rococo People &lt;&gt; Rococo Bulletin bridge support to Rococo Bridge Hub (#2540)
+
+This PR adds [Rococo
+People](https://github.com/paritytech/polkadot-sdk/pull/2281) &lt;&gt; [Rococo
+Bulletin](https://github.com/zdave-parity/polkadot-bulletin-chain) to
+the Rococo Bridge Hub code. There's a couple of things left to do here:
+- [x] add remaining tests - it'd need some refactoring in the
+`bridge-hub-test-utils` - will do in a separate PR;
+- [x] actually run benchmarks for new messaging pallet (do we have bot
+nowadays?).
+
+The reason why I'm opening it before this ^^^ is ready, is that I'd like
+to hear others opinion on how to deal with hacks with that bridge.
+Initially I was assuming that Rococo Bulletin will be the 1:1 copy of
+the Polkadot Bulletin (to avoid maintaining multiple
+runtimes/releases/...), so you can see many `PolkadotBulletin` mentions
+in this PR, even though we are going to bridge with the parallel chain
+(`RococoBulletin`). That's because e.g. pallet names from
+`construct_runtime` are affecting runtime storage keys and bridges are
+using runtime storage proofs =&gt; it is important to use names that the
+Bulletin chain expects.
+
+But in the end, this hack won't work - we can't use Polkadot Bulletin
+runtime to bridge with Rococo Bridge Hub, because Polkadot Bulletin
+expects Polkadot Bridge hub to use `1002` parachain id and Rococo Bridge
+Hub seats on the `1013`. This also affects storage keys using in
+bridging, so I had to add the [`rococo`
+feature](https://github.com/svyatonik/polkadot-bulletin-chain/blob/add-bridge-pallets/runtime/Cargo.toml#L198)
+to the Bulletin chain. So now we can actually alter its runtime and
+adapt it for Rococo.
+
+So the question here is - what's better for us here
+- to leave everything as is (seems hacky and non-trivial);
+- change Bulletin chain runtime when `rococo` feature is used - e.g. use
+proper names there (`WithPolkadotGrandpa` -&gt; `WithRococoGrandpa`, ...)
+- add another set of pallets to the Bulletin chain runtime to bridge
+with Rococo and never use them in production. Similar to hack that we
+had in Rococo/Wococo
+
+cc @acatangiu @bkontur @serban300 
+
+also cc @joepetrowski as the main "client" of this bridge
+
+---
+
+A couple words on how this bridge is different from the Rococo &lt;&gt;
+Westend bridge:
+- it is a bridge with a chain that uses GRANDPA finality, not the
+parachain finality (hence the tests needs to be changed);
+- it is a fee-free bridge. So
+`AllowExplicitUnpaidExecutionFrom&lt;Equals&lt;SiblingPeople&gt;&gt;` + we are not
+paying any rewards to relayers (apart from compensating transaction
+costs).
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;
+Co-authored-by: Egor_P &lt;egor@parity.io&gt;
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10a91f8</div>
+                                        <div class="message">Add FungibleAdapter (#2684)
+
+In the move from the old `Currency` traits to the new `fungible/s`
+family of traits, we already had the `FungiblesAdapter` and
+`NonFungiblesAdapter` for multiple fungible and non fungible assets
+respectively. However, for handling only one fungible asset, we were
+missing a `FungibleAdapter`, and so used the old `CurrencyAdapter`
+instead. This PR aims to fill in that gap, and provide the new adapter
+for more updated examples.
+
+I marked the old `CurrencyAdapter` as deprecated as part of this PR, and
+I'll change it to the new `FungibleAdapter` in a following PR.
+The two stages are separated so as to not bloat this PR with some name
+fixes in tests.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e4e8c0</div>
+                                        <div class="message">[Backport] txn version bump from 1.5.0 (#2709)
+
+This PR backports `transaction_version` bump from `1.5.0` release back
+to `master`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a6e9ef</div>
+                                        <div class="message">Introduce subsystem benchmarking tool (#2528)
+
+This tool makes it easy to run parachain consensus stress/performance
+testing on your development machine or in CI.
+
+## Motivation
+The parachain consensus node implementation spans across many modules
+which we call subsystems. Each subsystem is responsible for a small part
+of logic of the parachain consensus pipeline, but in general the most
+load and performance issues are localized in just a few core subsystems
+like `availability-recovery`, `approval-voting` or
+`dispute-coordinator`. In the absence of such a tool, we would run large
+test nets to load/stress test these parts of the system. Setting up and
+making sense of the amount of data produced by such a large test is very
+expensive, hard to orchestrate and is a huge development time sink.
+
+## PR contents
+- CLI tool 
+- Data Availability Read test
+- reusable mockups and components needed so far
+- Documentation on how to get started
+
+### Data Availability Read test
+
+An overseer is built with using a real `availability-recovery` susbsytem
+instance while dependent subsystems like `av-store`, `network-bridge`
+and `runtime-api` are mocked. The network bridge will emulate all the
+network peers and their answering to requests.
+
+The test is going to be run for a number of blocks. For each block it
+will generate send a “RecoverAvailableData” request for an arbitrary
+number of candidates. We wait for the subsystem to respond to all
+requests before moving to the next block.
+At the same time we collect the usual subsystem metrics and task CPU
+metrics and show some nice progress reports while running.
+
+### Here is how the CLI looks like:
+
+```
+[2023-11-28T13:06:27Z INFO  subsystem_bench::core::display] n_validators = 1000, n_cores = 20, pov_size = 5120 - 5120, error = 3, latency = Some(PeerLatency { min_latency: 1ms, max_latency: 100ms })
+[2023-11-28T13:06:27Z INFO  subsystem-bench::availability] Generating template candidate index=0 pov_size=5242880
+[2023-11-28T13:06:27Z INFO  subsystem-bench::availability] Created test environment.
+[2023-11-28T13:06:27Z INFO  subsystem-bench::availability] Pre-generating 60 candidates.
+[2023-11-28T13:06:30Z INFO  subsystem-bench::core] Initializing network emulation for 1000 peers.
+[2023-11-28T13:06:30Z INFO  subsystem-bench::availability] Current block 1/3
+[2023-11-28T13:06:30Z INFO  substrate_prometheus_endpoint] 〽️ Prometheus exporter started at 127.0.0.1:9999
+[2023-11-28T13:06:30Z INFO  subsystem_bench::availability] 20 recoveries pending
+[2023-11-28T13:06:37Z INFO  subsystem_bench::availability] Block time 6262ms
+[2023-11-28T13:06:37Z INFO  subsystem-bench::availability] Sleeping till end of block (0ms)
+[2023-11-28T13:06:37Z INFO  subsystem-bench::availability] Current block 2/3
+[2023-11-28T13:06:37Z INFO  subsystem_bench::availability] 20 recoveries pending
+[2023-11-28T13:06:43Z INFO  subsystem_bench::availability] Block time 6369ms
+[2023-11-28T13:06:43Z INFO  subsystem-bench::availability] Sleeping till end of block (0ms)
+[2023-11-28T13:06:43Z INFO  subsystem-bench::availability] Current block 3/3
+[2023-11-28T13:06:43Z INFO  subsystem_bench::availability] 20 recoveries pending
+[2023-11-28T13:06:49Z INFO  subsystem_bench::availability] Block time 6194ms
+[2023-11-28T13:06:49Z INFO  subsystem-bench::availability] Sleeping till end of block (0ms)
+[2023-11-28T13:06:49Z INFO  subsystem_bench::availability] All blocks processed in 18829ms
+[2023-11-28T13:06:49Z INFO  subsystem_bench::availability] Throughput: 102400 KiB/block
+[2023-11-28T13:06:49Z INFO  subsystem_bench::availability] Block time: 6276 ms
+[2023-11-28T13:06:49Z INFO  subsystem_bench::availability] 
+    
+    Total received from network: 415 MiB
+    Total sent to network: 724 KiB
+    Total subsystem CPU usage 24.00s
+    CPU usage per block 8.00s
+    Total test environment CPU usage 0.15s
+    CPU usage per block 0.05s
+```
+
+### Prometheus/Grafana stack in action
+&lt;img width="1246" alt="Screenshot 2023-11-28 at 15 11 10"
+src="https://github.com/paritytech/polkadot-sdk/assets/54316454/eaa47422-4a5e-4a3a-aaef-14ca644c1574"&gt;
+&lt;img width="1246" alt="Screenshot 2023-11-28 at 15 12 01"
+src="https://github.com/paritytech/polkadot-sdk/assets/54316454/237329d6-1710-4c27-8f67-5fb11d7f66ea"&gt;
+&lt;img width="1246" alt="Screenshot 2023-11-28 at 15 12 38"
+src="https://github.com/paritytech/polkadot-sdk/assets/54316454/a07119e8-c9f1-4810-a1b3-f1b7b01cf357"&gt;
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07550e2</div>
+                                        <div class="message">Bump actions/checkout from 4.1.0 to 4.1.1 (#2705)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4.1.0
+to 4.1.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/actions/checkout/releases"&gt;actions/checkout's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.1.1&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update CODEOWNERS to Launch team by &lt;a
+href="https://github.com/joshmgross"&gt;&lt;code&gt;@​joshmgross&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1510"&gt;actions/checkout#1510&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Correct link to GitHub Docs by &lt;a
+href="https://github.com/peterbe"&gt;&lt;code&gt;@​peterbe&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1511"&gt;actions/checkout#1511&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to release page from what's new section by &lt;a
+href="https://github.com/cory-miller"&gt;&lt;code&gt;@​cory-miller&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1514"&gt;actions/checkout#1514&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/joshmgross"&gt;&lt;code&gt;@​joshmgross&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1510"&gt;actions/checkout#1510&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/peterbe"&gt;&lt;code&gt;@​peterbe&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1511"&gt;actions/checkout#1511&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v4.1.0...v4.1.1"&gt;https://github.com/actions/checkout/compare/v4.1.0...v4.1.1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/b4ffde65f46336ab88eb53be808477a3936bae11"&gt;&lt;code&gt;b4ffde6&lt;/code&gt;&lt;/a&gt;
+Link to release page from what's new section (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1514"&gt;#1514&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/8530928916aaef40f59e6f221989ccb31f5759e7"&gt;&lt;code&gt;8530928&lt;/code&gt;&lt;/a&gt;
+Correct link to GitHub Docs (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1511"&gt;#1511&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/7cdaf2fbc075e6f3b9ca94cfd6cec5adc8a75622"&gt;&lt;code&gt;7cdaf2f&lt;/code&gt;&lt;/a&gt;
+Update CODEOWNERS to Launch team (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1510"&gt;#1510&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/actions/checkout/compare/v4.1.0...b4ffde65f46336ab88eb53be808477a3936bae11"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/checkout&amp;package-manager=github_actions&amp;previous-version=4.1.0&amp;new-version=4.1.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1a5fac</div>
+                                        <div class="message">Add dummy impls of `fungible` and `fungibles` trait families (#2695)
+
+In `Currency`, we have a dummy impl that we can use for mocks or
+examples where we only want to satisfy the trait bounds. I added the
+same dummy implementations to `fungible` and `fungibles` regular traits.
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5cf395</div>
+                                        <div class="message">PVF: fix unshare "could not create temporary directory"; refactor (#2663)
+
+Co-authored-by: Alexandru Vasile &lt;60601340+lexnv@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30151bd</div>
+                                        <div class="message">fix docker tag for polkadot image (#2702)
+
+This PR has a tiny fix for the proper creation of the tag for the
+pokadot's docker tag.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc846cc</div>
+                                        <div class="message">[Staking] Adds a round check at signed solution submission (#2690)
+
+This PR adds a round check to the `Call::submit` extrinsic to make sure
+that the solution submission has been prepared for the current election
+round and avoid penalties for delayed submissions.
+
+Related to
+https://github.com/paritytech-secops/srlabs_findings/issues/329
+
+---------
+
+Co-authored-by: command-bot &lt;&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Jan 2024, 11:26:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.2.5</span>
+                                        in
+                                        <span class="repo">hack-ink/cargo-all</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Jan 2024, 11:25:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/cargo-all</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#03d3e95</div>
+                                        <div class="message">Release `v0.2.5`</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Jan 2024, 11:25:07</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -352,89 +982,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">15 Jan 2024, 15:20:39</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">xavier/bitworkr</span>
-                                        in
-                                        <span class="repo">hack-ink/atomicalsir</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Jan 2024, 15:13:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/atomicalsir</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a1e4c5</div>
-                                        <div class="message">Bitworkr supports (#33)
-
-* Bitworkr supports
-
-* Bitworkr supports
-
-* Bump deps</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Jan 2024, 15:13:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#33 Bitworkr supports</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">hack-ink/atomicalsir</span></div>
-                                    <div>6 files changed <span class="code">++319 --129</span></div>
-                                </div>
-                                <div class="timestamp">15 Jan 2024, 15:13:34</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/atomicalsir</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/bitworkr</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7f5240e</div>
-                                        <div class="message">Format</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Jan 2024, 15:12:15</div>
                             </section>
                         </div>
                     </section>
