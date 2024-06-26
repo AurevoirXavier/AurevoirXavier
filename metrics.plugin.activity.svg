@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2093" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1927" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,111 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ed1bca</div>
+                                        <div class="message">Merge branch 'main' into xavier/v1.7.2</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 02:57:21</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#44d9796</div>
+                                        <div class="message">Fixes</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 02:57:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b227814</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 02:50:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#607c9bc</div>
+                                        <div class="message">Fix precompile tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 02:49:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">darwinia-network/darwinia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8746d4</div>
+                                        <div class="message">Fix pallet tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 02:31:27</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -732,153 +837,6 @@ Co-authored-by: Qinxuan Chen &lt;koushiro.cqx@gmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">25 Jun 2024, 09:40:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5aabe52</div>
-                                        <div class="message">paritytech/polkadot-sdk#2142</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jun 2024, 08:44:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e0251b</div>
-                                        <div class="message">Remove pallet-democracy part.1</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jun 2024, 08:37:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97466dc</div>
-                                        <div class="message">paritytech/polkadot-sdk#1246</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jun 2024, 08:36:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#229a035</div>
-                                        <div class="message">XCM V4 part.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f9b0ac</div>
-                                        <div class="message">Satisfy compiler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3b4432</div>
-                                        <div class="message">paritytech/polkadot-sdk#1234 part.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edab2d5</div>
-                                        <div class="message">paritytech/polkadot-sdk#1222</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jun 2024, 02:40:40</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#edffda7</div>
-                                        <div class="message">paritytech/polkadot-sdk#2521
-
-Signed-off-by: Xavier Lau &lt;xavier@inv.cafe&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#443b7cd</div>
-                                        <div class="message">paritytech/polkadot-sdk#2767</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d3956f</div>
-                                        <div class="message">paritytech/polkadot-sdk#2409 part.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#655eaae</div>
-                                        <div class="message">paritytech/polkadot-sdk#2331</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afe4ba3</div>
-                                        <div class="message">paritytech/polkadot-sdk#1313</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0357ab3</div>
-                                        <div class="message">paritytech/polkadot-sdk#2657</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0631441</div>
-                                        <div class="message">Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fded34</div>
-                                        <div class="message">Remove identity and vesting</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Jun 2024, 07:58:43</div>
                             </section>
                         </div>
                     </section>
