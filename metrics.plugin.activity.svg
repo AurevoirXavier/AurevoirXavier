@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1920" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1384" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.people{padding:0 10px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,467 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#40 Support extended unicode escape sequences</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by s0l0ist in <span class="repo">hack-ink/unescaper</span></div>
+                                    <div class="comment">
+                                        <i>@AurevoirXavier, would you mind pushing a new patch release for this change?</i>
+                                        Sorry for the late response. Released.
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:30:21</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.1.5</span>
+                                        in
+                                        <span class="repo">hack-ink/unescaper</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:29:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/unescaper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4d0bf88</div>
+                                        <div class="message">Release `v0.1.5`</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:29:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#781bdf6</div>
+                                        <div class="message">Bump reqwest from 0.12.4 to 0.12.5 (#127)
+
+Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.12.4 to 0.12.5.
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.12.4...v0.12.5)
+
+---
+updated-dependencies:
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:27</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/reqwest-0.12.5</span>
+                                        in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:27</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/serde_json-1.0.118</span>
+                                        in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/substrate-minimal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#56a8842</div>
+                                        <div class="message">Bump serde_json from 1.0.117 to 1.0.118 (#128)
+
+Bumps [serde_json](https://github.com/serde-rs/json) from 1.0.117 to 1.0.118.
+- [Release notes](https://github.com/serde-rs/json/releases)
+- [Commits](https://github.com/serde-rs/json/compare/v1.0.117...v1.0.118)
+
+---
+updated-dependencies:
+- dependency-name: serde_json
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/serde_json-1.0.118</span>
+                                        in
+                                        <span class="repo">hack-ink/array-bytes</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/array-bytes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c8d50c</div>
+                                        <div class="message">Bump serde_json from 1.0.117 to 1.0.118 (#141)
+
+Bumps [serde_json](https://github.com/serde-rs/json) from 1.0.117 to 1.0.118.
+- [Release notes](https://github.com/serde-rs/json/releases)
+- [Commits](https://github.com/serde-rs/json/compare/v1.0.117...v1.0.118)
+
+---
+updated-dependencies:
+- dependency-name: serde_json
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:26:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/reqwest-0.12.5</span>
+                                        in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7d3bc7d</div>
+                                        <div class="message">Bump reqwest from 0.12.4 to 0.12.5 (#173)
+
+Bumps [reqwest](https://github.com/seanmonstar/reqwest) from 0.12.4 to 0.12.5.
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.12.4...v0.12.5)
+
+---
+updated-dependencies:
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/syn-2.0.68</span>
+                                        in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ceb62f3</div>
+                                        <div class="message">Bump syn from 2.0.66 to 2.0.68 (#175)
+
+Bumps [syn](https://github.com/dtolnay/syn) from 2.0.66 to 2.0.68.
+- [Release notes](https://github.com/dtolnay/syn/releases)
+- [Commits](https://github.com/dtolnay/syn/compare/2.0.66...2.0.68)
+
+---
+updated-dependencies:
+- dependency-name: syn
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/serde_json-1.0.118</span>
+                                        in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/githuber</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d0ea872</div>
+                                        <div class="message">Bump serde_json from 1.0.117 to 1.0.118 (#176)
+
+Bumps [serde_json](https://github.com/serde-rs/json) from 1.0.117 to 1.0.118.
+- [Release notes](https://github.com/serde-rs/json/releases)
+- [Commits](https://github.com/serde-rs/json/compare/v1.0.117...v1.0.118)
+
+---
+updated-dependencies:
+- dependency-name: serde_json
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/serde_json-1.0.118</span>
+                                        in
+                                        <span class="repo">hack-ink/reqwew</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:08</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hack-ink/reqwew</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c7a12de</div>
+                                        <div class="message">Bump serde_json from 1.0.117 to 1.0.118 (#3)
+
+Bumps [serde_json](https://github.com/serde-rs/json) from 1.0.117 to 1.0.118.
+- [Release notes](https://github.com/serde-rs/json/releases)
+- [Commits](https://github.com/serde-rs/json/compare/v1.0.117...v1.0.118)
+
+---
+updated-dependencies:
+- dependency-name: serde_json
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:25:08</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1520 Migrate `AssetId` to `u32`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:18:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1520 Migrate `AssetId` to `u32`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 23:13:24</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -34,909 +495,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">26 Jun 2024, 09:36:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1826 Can not work for AccountId20 network</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/zombienet</span></div>
-                                    <div class="comment">Is possible to not overwrite this file, and I can insert the keys manually through RPC.</div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 09:32:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1826 Can not work for AccountId20 network</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">paritytech/zombienet</span></div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 09:31:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c7d6764</div>
-                                        <div class="message">Merge commit '88ba89dcfd4a779bcc8aa8bcc4c637d3af0db0a5' into xavier/v1.7.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66e88e2</div>
-                                        <div class="message">Fixes</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 08:09:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#88ba89d</div>
-                                        <div class="message">Fix `ethtx-forward` test case (#1519)
-
-* Fix ethtx-forward tests
-
-* Format
-
-* Fix following the review</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 08:03:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">bear-upgrade-substrate</span>
-                                        in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 08:03:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#1519 Fix `ethtx-forward` test case</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div>3 files changed <span class="code">++5 --4</span></div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 08:03:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa66038</div>
-                                        <div class="message">Async, remove council, common pallet config</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 08:02:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1519 Fix ethtx-forward test case</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div class="comment">
-                                        <code class="language-suggestion">use frame_support::derive_impl;</code>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 07:58:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1519 Fix ethtx-forward test case</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 07:58:33</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1519 Fix ethtx-forward test case</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                    <div class="comment">
-                                        <code class="language-suggestion">type ExistentialDeposit = ();</code>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 07:58:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1519 Fix ethtx-forward test case</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by boundless-forest in <span class="repo">darwinia-network/darwinia</span></div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 07:58:13</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release-polkadot-v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5811785</div>
-                                        <div class="message">parachain-inherent: Make `para_id` more prominent (#4555)
-
-This should make it more obvious that at instantiation of the
-`MockValidationDataInherentDataProvider` the `para_id` needs to be
-passed.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:49:41</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/open-runtime-module-library</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">polkadot-v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5cac46d</div>
-                                        <div class="message">Anchor</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:34:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/moonbeam</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">polkadot-v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0000e6d</div>
-                                        <div class="message">Anchor</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:34:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/frontier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">polkadot-v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f566bc6</div>
-                                        <div class="message">Anchor</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:33:25</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">release-polkadot-v1.7.2</span>
-                                        in
-                                        <span class="repo">darwinia-network/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:32:37</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 141 commits in
-                                        <span class="repo">darwinia-network/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70dd67a</div>
-                                        <div class="message">check-weight: Disable total pov size check for mandatory extrinsics (#4571)
-
-So in some pallets we like
-[here](https://github.com/paritytech/polkadot-sdk/blob/5dc522d02fe0b53be1517f8b8979176e489a388b/substrate/frame/session/src/lib.rs#L556)
-we use `max_block` as return value for `on_initialize` (ideally we would
-not).
-
-This means the block is already full when we try to apply the inherents,
-which lead to the error seen in #4559 because we are unable to include
-the required inherents. This was not erroring before #4326 because we
-were running into this branch:
-
-https://github.com/paritytech/polkadot-sdk/blob/e4b89cc50c8d17868d6c8b122f2e156d678c7525/substrate/frame/system/src/extensions/check_weight.rs#L222-L224
-
-The inherents are of `DispatchClass::Mandatory` and therefore have a
-`reserved` value of `None` in all runtimes I have inspected. So they
-will always pass the normal check.
-
-So in this PR I adjust the `check_combined_proof_size` to return an
-early `Ok(())` for mandatory extrinsics.
-
-If we agree on this PR I will backport it to the 1.12.0 branch.
-
-closes #4559
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16887b6</div>
-                                        <div class="message">chain-spec-builder: help updated (#4597)
-
-Added some clarification on output file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce3e9b7</div>
-                                        <div class="message">network: Update litep2p to v0.5.0 (#4570)
-
-## [0.5.0] - 2023-05-24
-
-This is a small patch release that makes the `FindNode` command a bit
-more robst:
-
-- The `FindNode` command now retains the K (replication factor) best
-results.
-- The `FindNode` command has been updated to handle errors and
-unexpected states without panicking.
-
-### Changed
-
-- kad: Refactor FindNode query, keep K best results and add tests
-([#114](https://github.com/paritytech/litep2p/pull/114))
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2352982</div>
-                                        <div class="message">Make markdown lint CI job pass (#4593)
-
-Was constantly failing, so here a fix.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0edb06</div>
-                                        <div class="message">Add release version to commits and branch names of template synchronization job (#4353)
-
-Just to have some information what is the release number that was used
-to push a particular commit or PR in the templates repositories.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89b67bc</div>
-                                        <div class="message">chore: fix typos (#4590)
-
-chore: fix typos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a752af</div>
-                                        <div class="message">Bridge: add subcommand to relay messages delivery confirmation (#4453)
-
-related to
-https://github.com/paritytech/parity-bridges-common/issues/2962
-on top of #4383
-
-Example:
-```sh
-RUST_LOG=runtime=trace,rpc=trace,bridge=trace \
-        ./target/release/substrate-relay relay-messages-delivery-confirmation bridge-hub-rococo-to-bridge-hub-westend \
-        --source-host localhost \
-        --source-port 8943 \
-        --source-version-mode Auto \
-        --source-signer //Eve \
-        --source-transactions-mortality 4 \
-        --target-host localhost \
-        --target-port 8945 \
-        --target-version-mode Auto \
-        --lane 00000002 \
-        --at-target-block 49
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6cca7e</div>
-                                        <div class="message">Bridge: check submit_finality_proof limits before submission (#4549)
-
-closes https://github.com/paritytech/parity-bridges-common/issues/2982
-closes https://github.com/paritytech/parity-bridges-common/issues/2730
-
-The main change is in the
-bridges/relays/lib-substrate-relay/src/finality/target.rs, changes in
-other files are just moving the code
-
-~I haven't been able to run zn tests locally - don't know why, but it
-keeps failing for me locally with: `
-Error running script:
-/home/svyatonik/dev/polkadot-sdk/bridges/testing/framework/js-helpers/wait-hrmp-channel-opened.js
-Error: Timeout(300), "custom-js
-/home/svyatonik/dev/polkadot-sdk/bridges/testing/framework/js-helpers/wait-hrmp-channel-opened.js
-within 300 secs" didn't complete on time.`~ The issue was an obsolete
-`polkadot-js-api` binary - did `yarn global upgrade` and it is ok now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9201f9a</div>
-                                        <div class="message">Deprecate XCMv2 (#4131)
-
-Marked XCMv2 as deprecated now that we have XCMv4.
-It will be removed sometime around June 2024.
-
----------
-
-Co-authored-by: Branislav Kontur &lt;bkontur@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e192b76</div>
-                                        <div class="message">Avoid using `xcm::v4` and use latest instead for AssetHub benchmarks (#4567)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f469fbf</div>
-                                        <div class="message">availability-recovery: bump chunk fetch threshold to 1MB for Polkadot and 4MB for Kusama + testnets (#4399)
-
-Doing this change ensures that we minimize the CPU usage we spend in
-reed-solomon by only doing the re-encoding into chunks if PoV size is
-less than 4MB (which means all PoVs right now)
- 
-Based on susbystem benchmark results we concluded that it is safe to
-bump this number higher. At worst case scenario the network pressure for
-a backing group of 5 is around 25% of the network bandwidth in hw specs.
-
-Assuming 6s block times (max_candidate_depth 3) and needed_approvals 30
-the amount of bandwidth usage of a backing group used would hover above
-`30 * 4 * 3 = 360MB` per relay chain block. Given a backing group of 5
-that gives 72MB per block per validator -&gt; 12 MB/s.
-
-&lt;details&gt;
-&lt;summary&gt;Reality check on Kusama PoV sizes (click for chart)&lt;/summary&gt;
-&lt;br&gt;
-&lt;img width="697" alt="Screenshot 2024-05-07 at 14 30 38"
-src="https://github.com/paritytech/polkadot-sdk/assets/54316454/bfed32d4-8623-48b0-9ec0-8b95dd2a9d8c"&gt;
-&lt;/details&gt;
-
----------
-
-Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c7a1a5</div>
-                                        <div class="message">Polkadot-SDK Umbrella Crate (#3935)
-
-# Umbrella Crate
-
-The Polkadot-SDK "umbrella" is a crate that re-exports all other
-published crates. This makes it
-possible to have a very small `Cargo.toml` file that only has one
-dependency, the umbrella
-crate. This helps with selecting the right combination of crate
-versions, since otherwise 3rd
-party tools are needed to select a compatible set of versions.
-
-## Features
-
-The umbrella crate supports no-std builds and can therefore be used in
-the runtime and node.
-There are two main features: `runtime` and `node`. The `runtime` feature
-enables all `no-std`
-crates, while the `node` feature enables all `std` crates. It should be
-used like any other
-crate in the repo, with `default-features = false`.
-
-For more fine-grained control, additionally, each crate can be enabled
-selectively. The umbrella
-exposes one feature per dependency. For example, if you only want to use
-the `frame-support`
-crate, you can enable the `frame-support` feature.
-
-The umbrella exposes a few more general features:
-- `tuples-96`: Needs to be enabled for runtimes that have more than 64
-pallets.
-- `serde`: Specifically enable `serde` en/decoding support.
-- `experimental`: Experimental enable experimental features - should not
-yet used in production.
-- `with-tracing`: Enable tracing support.
-- `try-runtime`, `runtime-benchmarks` and `std`: These follow the
-standard conventions.
-- `runtime`: As described above, enable all `no-std` crates.
-- `node`: As described above, enable all `std` crates.
-- There does *not* exist a dedicated docs feature. To generate docs,
-enable the `runtime` and
-`node` feature. For docs.rs the manifest contains specific configuration
-to make it show up
-  all re-exports.
-
-There is a specific `zepter` check in place to ensure that the features
-of the umbrella are
-correctly configured. This check is run in CI and locally when running
-`zepter`.
-
-## Generation
-
-The umbrella crate needs to be updated every time when a new crate is
-added or removed from the
-workspace. It is checked in CI by calling its generation script. The
-generation script is
-located in `./scripts/generate-umbrella.py` and needs dependency
-`cargo_workspace`.
-
-Example: `python3 scripts/generate-umbrella.py --sdk . --version 1.9.0`
-
-## Usage
-
-&gt; Note: You can see a live example in the `staging-node-cli` and
-`kitchensink-runtime` crates.
-
-The umbrella crate can be added to your runtime crate like this:
-
-`polkadot-sdk = { path = "../../../../umbrella", features = ["runtime"],
-default-features =
-false}`
-
-or for a node:
-
-`polkadot-sdk = { path = "../../../../umbrella", features = ["node"],
-default-features = false
-}`
-
-In the code, it is then possible to bring all dependencies into scope
-via:
-
-`use polkadot_sdk::*;`
-
-### Known Issues
-
-The only known issue so far is the fact that the `use` statement brings
-the dependencies only
-into the outer module scope - not the global crate scope. For example,
-the following code would
-need to be adjusted:
-
-```rust
-use polkadot_sdk::*;
-
-mod foo {
-   // This does sadly not compile:
-   frame_support::parameter_types! { }
-
-   // Instead, we need to do this (or add an equivalent `use` statement):
-   polkadot_sdk::frame_support::parameter_types! { }
-}
-```
-
-Apart from this, no issues are known. There could be some bugs with how
-macros locate their own
-re-exports. Please compile issues that arise from using this crate.
-
-## Dependencies
-
-The umbrella crate re-exports all published crates, with a few
-exceptions:
-- Runtime crates like `rococo-runtime` etc are not exported. This
-otherwise leads to very weird
-  compile errors and should not be needed anyway.
-- Example and fuzzing crates are not exported. This is currently
-detected by checking the name
-of the crate for these magic words. In the future, it will utilize
-custom metadata, as it is
-  done in the `rococo-runtime` crate.
-- The umbrella crate itself. Should be obvious :)
-
-## Follow Ups
-- [ ] Re-writing the generator in Rust - the python script is at its
-limit.
-- [ ] Using custom metadata to exclude some crates instead of filtering
-by names.
-- [ ] Finding a way to setting the version properly. Currently its
-locked in the CI script.
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49bd6a6</div>
-                                        <div class="message">Remove litep2p git dependency (#4560)
-
-@serban300 could you please do the same for the MMR crate? Am not sure
-what commit was released since there are no release tags in the repo.
-
----------
-
-Signed-off-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef144b1</div>
-                                        <div class="message">Attempt to avoid specifying `BlockHashCount` for different `mocking::{MockBlock, MockBlockU32, MockBlockU128}` (#4543)
-
-While doing some migration/rebase I came in to the situation, where I
-needed to change `mocking::MockBlock` to `mocking::MockBlockU32`:
-```
-#[derive_impl(frame_system::config_preludes::TestDefaultConfig)]
-impl frame_system::Config for TestRuntime {
-	type Block = frame_system::mocking::MockBlockU32&lt;TestRuntime&gt;;
-	type AccountData = pallet_balances::AccountData&lt;ThisChainBalance&gt;;
-}
-```
-But actual `TestDefaultConfig` for `frame_system` is using `ConstU64`
-for `type BlockHashCount = frame_support::traits::ConstU64&lt;10&gt;;`
-[here](https://github.com/paritytech/polkadot-sdk/blob/master/substrate/frame/system/src/lib.rs#L303).
-Because of this, it force me to specify and add override for `type
-BlockHashCount = ConstU32&lt;10&gt;`.
-
-This PR tries to fix this with `TestBlockHashCount` implementation for
-`TestDefaultConfig` which supports `u32`, `u64` and `u128` as a
-`BlockNumber`.
-
-### How to simulate error
-Just by removing `type BlockHashCount = ConstU32&lt;250&gt;;`
-[here](https://github.com/paritytech/polkadot-sdk/blob/master/substrate/frame/multisig/src/tests.rs#L44)
-```
-:~/parity/olkadot-sdk$ cargo test -p pallet-multisig
-   Compiling pallet-multisig v28.0.0 (/home/bparity/parity/aaa/polkadot-sdk/substrate/frame/multisig)
-error[E0277]: the trait bound `ConstU64&lt;10&gt;: frame_support::traits::Get&lt;u32&gt;` is not satisfied
-   --&gt; substrate/frame/multisig/src/tests.rs:41:1
-    |
-41  | #[derive_impl(frame_system::config_preludes::TestDefaultConfig)]
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ the trait `frame_support::traits::Get&lt;u32&gt;` is not implemented for `ConstU64&lt;10&gt;`
-    |
-    = help: the following other types implement trait `frame_support::traits::Get&lt;T&gt;`:
-              &lt;ConstU64&lt;T&gt; as frame_support::traits::Get&lt;u64&gt;&gt;
-              &lt;ConstU64&lt;T&gt; as frame_support::traits::Get&lt;std::option::Option&lt;u64&gt;&gt;&gt;
-note: required by a bound in `frame_system::Config::BlockHashCount`
-   --&gt; /home/bparity/parity/aaa/polkadot-sdk/substrate/frame/system/src/lib.rs:535:24
-    |
-535 |         type BlockHashCount: Get&lt;BlockNumberFor&lt;Self&gt;&gt;;
-    |                              ^^^^^^^^^^^^^^^^^^^^^^^^^ required by this bound in `Config::BlockHashCount`
-    = note: this error originates in the attribute macro `derive_impl` which comes from the expansion of the macro `frame_support::macro_magic::forward_tokens_verbatim` (in Nightly builds, run with -Z macro-backtrace for more info)
-
-For more information about this error, try `rustc --explain E0277`.
-error: could not compile `pallet-multisig` (lib test) due to 1 previous error 
-```
-
-
-
-
-## For reviewers:
-
-(If there is a better solution, please let me know!)
-
-The first commit contains actual attempt to fix the problem:
-https://github.com/paritytech/polkadot-sdk/commit/3c5499e539f2218503fbd6ce9be085b03c31ee13.
-The second commit is just removal of `BlockHashCount` from all other
-places where not needed by default.
-
-Closes: https://github.com/paritytech/polkadot-sdk/issues/1657
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#700d591</div>
-                                        <div class="message">Use polkadot-ckb-merkle-mountain-range dependency (#4562)
-
-We need to use the `polkadot-ckb-merkle-mountain-range` dependency
-published on `crates.io` in order to unblock the release of the
-`sp-mmr-primitives` crate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48d4f65</div>
-                                        <div class="message">Mention new XCM docs in sdk docs (#4558)
-
-The XCM docs were pretty much moved to the new rust docs format in
-https://github.com/paritytech/polkadot-sdk/pull/2633, with the addition
-of the XCM cookbook, which I plan to add more examples to shortly.
-
-These docs were not mentioned in the polkadot-sdk rust docs, this PR
-just mentions them there, so people can actually find them.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03bbc17</div>
-                                        <div class="message">Define `OpaqueValue` (#4550)
-
-Define `OpaqueValue` and use it instead of
-`grandpa::OpaqueKeyOwnershipProof` and `beefy:OpaqueKeyOwnershipProof`
-
-Related to
-https://github.com/paritytech/polkadot-sdk/pull/4522#discussion_r1608278279
-
-We'll need to introduce a runtime API method that calls the
-`report_fork_voting_unsigned()` extrinsic. This method will need to
-receive the ancestry proof as a paramater. I'm still not sure, but there
-is a chance that we'll send the ancestry proof as an opaque type.
-
-So let's introduce this `OpaqueValue`. We can already use it to replace
-`grandpa::OpaqueKeyOwnershipProof` and `beefy:OpaqueKeyOwnershipProof`
-and maybe we'll need it for the ancestry proof as well.
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#493ba5e</div>
-                                        <div class="message">Contracts: Rework host fn benchmarks (#4233)
-
-fix https://github.com/paritytech/polkadot-sdk/issues/4163
-
-This PR does the following:
-Update to pallet-contracts-proc-macro: 
-- Parse #[cfg] so we can add a dummy noop host function for benchmark.
-- Generate BenchEnv::&lt;host_fn&gt; so we can call host functions directly in
-the benchmark.
-- Add the weight of the noop host function before calling the host
-function itself
-
-Update benchmarks:
-- Update all host function benchmark, a host function benchmark now
-simply call the host function, instead of invoking the function n times
-from within a contract.
-- Refactor RuntimeCosts &amp; Schedule, for most host functions, we can now
-use the generated weight function directly instead of computing the diff
-with the cost! macro
-
-```rust
-// Before
-#[benchmark(pov_mode = Measured)]
-fn seal_input(r: Linear&lt;0, API_BENCHMARK_RUNS&gt;) {
-    let code = WasmModule::&lt;T&gt;::from(ModuleDefinition {
-        memory: Some(ImportedMemory::max::&lt;T&gt;()),
-        imported_functions: vec![ImportedFunction {
-            module: "seal0",
-            name: "seal_input",
-            params: vec![ValueType::I32, ValueType::I32],
-            return_type: None,
-        }],
-        data_segments: vec![DataSegment { offset: 0, value: 0u32.to_le_bytes().to_vec() }],
-        call_body: Some(body::repeated(
-            r,
-            &amp;[
-                Instruction::I32Const(4), // ptr where to store output
-                Instruction::I32Const(0), // ptr to length
-                Instruction::Call(0),
-            ],
-        )),
-        ..Default::default()
-    });
-
-    call_builder!(func, code);
-
-    let res;
-    #[block]
-    {
-        res = func.call();
-    }
-    assert_eq!(res.did_revert(), false);
-}
-```
-
-```rust
-// After
-fn seal_input(n: Linear&lt;0, { code::max_pages::&lt;T&gt;() * 64 * 1024 - 4 }&gt;) {
-    let mut setup = CallSetup::&lt;T&gt;::default();
-    let (mut ext, _) = setup.ext();
-    let mut runtime = crate::wasm::Runtime::new(&amp;mut ext, vec![42u8; n as usize]);
-    let mut memory = memory!(n.to_le_bytes(), vec![0u8; n as usize],);
-    let result;
-    #[block]
-    {
-        result = BenchEnv::seal0_input(&amp;mut runtime, &amp;mut memory, 4, 0)
-    }
-    assert_ok!(result);
-    assert_eq!(&amp;memory[4..], &amp;vec![42u8; n as usize]);
-}
-``` 
-
-[Weights
-compare](https://weights.tasty.limo/compare?unit=weight&amp;ignore_errors=true&amp;threshold=10&amp;method=asymptotic&amp;repo=polkadot-sdk&amp;old=master&amp;new=pg%2Frework-host-benchs&amp;path_pattern=substrate%2Fframe%2Fcontracts%2Fsrc%2Fweights.rs%2Cpolkadot%2Fruntime%2F*%2Fsrc%2Fweights%2F**%2F*.rs%2Cpolkadot%2Fbridges%2Fmodules%2F*%2Fsrc%2Fweights.rs%2Ccumulus%2F**%2Fweights%2F*.rs%2Ccumulus%2F**%2Fweights%2Fxcm%2F*.rs%2Ccumulus%2F**%2Fsrc%2Fweights.rs)
-
----------
-
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a823d18</div>
-                                        <div class="message">Fix bridges grandpa benchmarks (#2577) (#4548)
-
-Cherry-picked fix from upcoming
-https://github.com/paritytech/polkadot-sdk/pull/4494
-
----------
-
-Co-authored-by: Svyatoslav Nikolsky &lt;svyatonik@gmail.com&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd16191</div>
-                                        <div class="message">Fix README.md Logo URL (#4546)
-
-This one also works and it is easier.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 06:22:20</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ed1bca</div>
-                                        <div class="message">Merge branch 'main' into xavier/v1.7.2</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 02:57:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/v1.7.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44d9796</div>
-                                        <div class="message">Fixes</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jun 2024, 02:57:13</div>
                             </section>
                         </div>
                     </section>
