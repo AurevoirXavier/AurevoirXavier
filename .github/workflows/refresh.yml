@@ -8,6 +8,17 @@ on:
   workflow_dispatch:
 
 jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 20
+          plugin_activity_timestamps: yes
   base:
     runs-on: ubuntu-latest
     steps:
@@ -16,6 +27,17 @@ jobs:
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: yes
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
   isocalender:
     runs-on: ubuntu-latest
     steps:
@@ -31,6 +53,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          debug: true
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -38,22 +61,12 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: handlebars, php
           plugin_languages_details: lines, bytes-size, percentage
-  habits:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
   notable:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          debug: true
           filename: metrics.plugin.notable.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -61,14 +74,3 @@ jobs:
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
-  activity:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 20
-          plugin_activity_timestamps: yes
