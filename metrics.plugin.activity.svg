@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1363" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1712" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,155 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 139 commits in
+                                        <span class="repo">hack-ink/Grants-Program</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d2b9ab7</div>
+                                        <div class="message">vested DOT paid to Polkadot, not AssetHub (#2268)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d42e06</div>
+                                        <div class="message">Update application-template-research.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5f027b</div>
+                                        <div class="message">amend 2nd milestone (#2270)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae872c5</div>
+                                        <div class="message">Update index.md (#2266)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21ad287</div>
+                                        <div class="message">FiDi DotSight: M4 proposed to be taken out of scope (#2258)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#feb52b9</div>
+                                        <div class="message">Update sub-consensus.md
+
+Update status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6127add</div>
+                                        <div class="message">Update faq.md (#2262)
+
+Co-authored-by: Piet &lt;75956460+PieWol@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03ccfc8</div>
+                                        <div class="message">Threshold Signature Implementation (#2250)
+
+* Threshold Signature Implementation
+
+Update ThresholdSignature.md
+
+* Fix the step 2 description of the FROST signing protocol to include the FROST3 optimization
+
+* Update Milestone 1 cost
+
+* Update the application level
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c58c217</div>
+                                        <div class="message">fix: typo (#2264)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca7ce33</div>
+                                        <div class="message">Update application-template.md
+
+Separate Polkadot and AssetHub payment addresses</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b51054</div>
+                                        <div class="message">Update index.md (#2260)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d81708b</div>
+                                        <div class="message">changed payment info (#2257)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3755af</div>
+                                        <div class="message">SwarmNL (#2201)
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdeab93</div>
+                                        <div class="message">confirm vested DOT (#2249)
+
+Co-authored-by: Sebastian Müller &lt;sebastian@web3.foundation&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccfcc65</div>
+                                        <div class="message">Update index.md
+
+xNFT M1 and complete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeb3dc5</div>
+                                        <div class="message">Update index.md
+
+Ssal Commods M1 and complete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a908b9</div>
+                                        <div class="message">Amend request due to delivery schedule change (#2254)
+
+* QuantumGuard application submission
+
+* Pull request update
+
+* Update applications/quantum-guard.md
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;
+
+* Update applications_2/quantum-guard.md
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;
+
+* Updated_application_2nd_review
+
+* Updated_address
+
+* Amend request
+
+---------
+
+Co-authored-by: S E R A Y A &lt;takahser@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5918fd6</div>
+                                        <div class="message">Update index.md (#2252)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c39820</div>
+                                        <div class="message">create-substrate-app finished (#2251)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a4259f</div>
+                                        <div class="message">fix: typo (#2247)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Aug 2024, 11:39:48</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -507,23 +656,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">20 Aug 2024, 03:28:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">koi-6652</span>
-                                        in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Aug 2024, 03:27:44</div>
                             </section>
                         </div>
                     </section>
