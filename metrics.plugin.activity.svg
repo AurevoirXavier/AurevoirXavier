@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1417" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1470" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,81 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6173 Local File Upload Does not work - URL does not work</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mechmehmet in <span class="repo">HumanSignal/label-studio</span></div>
+                                    <div class="comment">
+                                        <i>Hi @mechmehmet - glad you were able to resolve, and thank you for posting your solution!</i>
+                                        I believe this must be included in the doc site.
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Sept 2024, 16:08:09</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3740 import yolo format pre-annotated images</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dasrocky in <span class="repo">HumanSignal/label-studio</span></div>
+                                    <div class="comment">Windows users, please check https://github.com/HumanSignal/label-studio/issues/6173!!!</div>
+                                </div>
+                                <div class="timestamp">3 Sept 2024, 16:07:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2086 Images are not displayed when importing local tasks from JSON files</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dsmanl in <span class="repo">HumanSignal/label-studio</span></div>
+                                    <div class="comment">Windows users, please check https://github.com/HumanSignal/label-studio/issues/6173!!!</div>
+                                </div>
+                                <div class="timestamp">3 Sept 2024, 16:06:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6173 Local File Upload Does not work - URL does not work</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mechmehmet in <span class="repo">HumanSignal/label-studio</span></div>
+                                    <div class="comment">You save my life...</div>
+                                </div>
+                                <div class="timestamp">3 Sept 2024, 16:04:39</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -362,101 +437,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">2 Sept 2024, 10:54:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/reqwew</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6dfcf83</div>
-                                        <div class="message">Bump tokio from 1.39.3 to 1.40.0 (#27)
-
-Bumps [tokio](https://github.com/tokio-rs/tokio) from 1.39.3 to 1.40.0.
-- [Release notes](https://github.com/tokio-rs/tokio/releases)
-- [Commits](https://github.com/tokio-rs/tokio/compare/tokio-1.39.3...tokio-1.40.0)
-
----
-updated-dependencies:
-- dependency-name: tokio
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Sept 2024, 10:54:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#15415 Select Next Occurrence: add support for `ToggleCaseSensitive` and `ToggleWholeWord`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by vladmoroz in <span class="repo">zed-industries/zed</span></div>
-                                    <div class="comment">It's truly a vital feature. Particularly, when the LSP is not performing correctly, such as with the RA nightly frequently crashing, we are unable to use F2 to rename the variable. The replace function will change all matches. Selecting the next occurrence is the best available option.</div>
-                                </div>
-                                <div class="timestamp">2 Sept 2024, 10:49:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/u</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1c4c293</div>
-                                        <div class="message">Fix tests</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Sept 2024, 10:46:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xavier/u</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae3eddd</div>
-                                        <div class="message">Update sol</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Sept 2024, 10:38:46</div>
                             </section>
                         </div>
                     </section>
