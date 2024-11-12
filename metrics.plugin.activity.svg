@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1427" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1527" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,201 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aff3a07</div>
+                                        <div class="message">migrate pallet-nft-fractionalization to benchmarking v2 syntax (#6301)
+
+Migrates pallet-nft-fractionalization to benchmarking v2 syntax.
+
+Part of:
+* #6202
+
+---------
+
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b0cbe9</div>
+                                        <div class="message">Use relay chain block number in the broker pallet instead of block number (#5656)
+
+Based on https://github.com/paritytech/polkadot-sdk/pull/3331
+Related to https://github.com/paritytech/polkadot-sdk/issues/3268
+
+Implements migrations with customizable block number to relay height
+number translation function.
+
+Adds block to relay height migration code for rococo and westend.
+
+---------
+
+Co-authored-by: DavidK &lt;davidk@parity.io&gt;
+Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd9514f</div>
+                                        <div class="message">add FeeManager to pallet xcm (#5363)
+
+Closes #2082
+
+change send xcm to use `xcm::executor::FeeManager` to determine if the
+sender should be charged.
+
+I had to change the `FeeManager` of the penpal config to ensure the same
+test behaviour as before. For the other tests, I'm using the
+`FeeManager` from the `xcm::executor::FeeManager` as this one is used to
+check if the fee can be waived on the charge fees method.
+
+---------
+
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5de3b1</div>
+                                        <div class="message">pallet-membership: Do not verify the `MembershipChanged` in bechmarks (#6439)
+
+There is no need to verify in the `pallet-membership` benchmark that the
+`MemembershipChanged` implementation works as the pallet thinks it
+should work. If you for example set it to `()`, `get_prime()` will
+always return `None`.
+
+TLDR: Remove the checks of `MembershipChanged` in the benchmarks to
+support any kind of implementation.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ace62f1</div>
+                                        <div class="message">`fatxpool`: size limits implemented (#6262)
+
+This PR adds size-limits to the fork-aware transaction pool.
+
+**Review Notes**
+- Existing
+[`TrackedMap`](https://github.com/paritytech/polkadot-sdk/blob/58fd5ae4ce883f42c360e3ad4a5df7d2258b42fe/substrate/client/transaction-pool/src/graph/tracked_map.rs#L33-L41)
+is used in internal mempool to track the size of extrinsics:
+
+https://github.com/paritytech/polkadot-sdk/blob/58fd5ae4ce883f42c360e3ad4a5df7d2258b42fe/substrate/client/transaction-pool/src/graph/tracked_map.rs#L33-L41
+
+- In this PR, I also removed the logic that kept transactions in the
+`tx_mem_pool` if they were immediately dropped by the views. Initially,
+I implemented this as an improvement: if there was available space in
+the _mempool_ and all views dropped the transaction upon submission, the
+transaction would still be retained in the _mempool_.
+
+However, upon further consideration, I decided to remove this
+functionality to reduce unnecessary complexity. Now, when all views drop
+a transaction during submission, it is automatically rejected, with the
+`submit/submit_and_watch` call returning `ImmediatelyDropped`.
+
+
+Closes: #5476
+
+---------
+
+Co-authored-by: Sebastian Kunert &lt;skunert49@gmail.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b601d57</div>
+                                        <div class="message">Remove network starter that is no longer needed (#6400)
+
+# Description
+
+This seems to be an old artifact of the long closed
+https://github.com/paritytech/substrate/issues/6827 that I noticed when
+working on related code earlier.
+
+## Integration
+
+`NetworkStarter` was removed, simply remove its usage:
+```diff
+-let (network, system_rpc_tx, tx_handler_controller, start_network, sync_service) =
++let (network, system_rpc_tx, tx_handler_controller, sync_service) =
+    build_network(BuildNetworkParams {
+...
+-start_network.start_network();
+```
+
+## Review Notes
+
+Changes are trivial, the only reason for this to not be accepted is if
+it is desired to not start network automatically for whatever reason, in
+which case the description of network starter needs to change.
+
+# Checklist
+
+* [x] My PR includes a detailed description as outlined in the
+"Description" and its two subsections above.
+* [ ] My PR follows the [labeling requirements](
+
+https://github.com/paritytech/polkadot-sdk/blob/master/docs/contributor/CONTRIBUTING.md#Process
+) of this project (at minimum one label for `T` required)
+* External contributors: ask maintainers to put the right label on your
+PR.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05ad547</div>
+                                        <div class="message">fix prospective-parachains best backable chain reversion bug (#6417)
+
+Kudos to @EclesioMeloJunior for noticing it 
+
+Also added a regression test for it. The existing unit test was
+exercising only the case where the full chain is reverted
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Nov 2024, 04:26:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">benchmarkv2-childbounties</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9bc5a88</div>
+                                        <div class="message">Fix compile</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Nov 2024, 04:15:07</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -420,62 +615,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </div>
                                 </div>
                                 <div class="timestamp">11 Nov 2024, 00:30:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/AiR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c79f698</div>
-                                        <div class="message">Bump tokio from 1.41.0 to 1.41.1 (#159)
-
-Bumps [tokio](https://github.com/tokio-rs/tokio) from 1.41.0 to 1.41.1.
-- [Release notes](https://github.com/tokio-rs/tokio/releases)
-- [Commits](https://github.com/tokio-rs/tokio/compare/tokio-1.41.0...tokio-1.41.1)
-
----
-updated-dependencies:
-- dependency-name: tokio
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Nov 2024, 00:30:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">benchmarkv2-childbounties</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7ff4ed</div>
-                                        <div class="message">Format</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Nov 2024, 15:43:07</div>
                             </section>
                         </div>
                     </section>
