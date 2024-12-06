@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1864" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.people{padding:0 10px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,454 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">blocknumberprovider-recovery</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39a380f</div>
+                                        <div class="message">Update prdoc</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Dec 2024, 13:58:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 78 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6d59c3b</div>
+                                        <div class="message">parachain-template-node: add properties for dev chain-spec (#6560)
+
+# Description
+
+Reused as before the `properties` variable when defining a development
+chain spec for parachain-template-node.
+
+## Integration
+
+N/A
+
+## Review Notes
+
+One line change, pretty self explanatory (it got lost within the history
+of changes over the parachain-template-node/chain_spec.rs file). To be
+honest, not really sure how useful it is, but I had the choice of
+removing the `properties` var or reuse it as before, and I went with the
+latter.
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf20a9e</div>
+                                        <div class="message">[Fix|NominationPools] Only allow apply slash to be executed if the slash amount is atleast ED (#6540)
+
+This change prevents `pools::apply_slash` from being executed when the
+pending slash amount of the member is lower than the ED.
+
+The issue came to light with the failing [benchmark
+test](https://github.com/polkadot-fellows/runtimes/actions/runs/11879471717/job/33101445269?pr=490#step:11:765)
+in Kusama. The problem arises from the inexact conversion between points
+and balance. Specifically, when points are converted to balance and then
+back to points, rounding can introduce a small discrepancy between the
+input and the resulting value. This issue surfaced in Kusama due to its
+ED being different from Westend and Polkadot (1 UNIT/300), making the
+rounding issue noticeable.
+
+This fix is also significant because applying a slash is feeless and
+permissionless. Allowing super small slash amounts to be applied without
+a fee is undesirable. With this change, such small slashes will still be
+applied but only when member funds are withdrawn.
+
+---------
+
+Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f7765b</div>
+                                        <div class="message">github/workflows: add ARM macos build binaries job (#6427)
+
+# Description
+
+This PR adds the required changes to release `polkadot`,
+`polkadot-parachain` and `polkadot-omni-node` binaries built on Apple
+Sillicon macos.
+
+## Integration
+
+This addresses requests from the community for such binaries: #802, and
+they should be part of the Github release page.
+
+## Review Notes
+
+Test on paritytech-stg solely focused on macos binaries:
+https://github.com/paritytech-stg/polkadot-sdk/actions/runs/11824692766/job/32946793308,
+except the steps related to `pgpkms` (which need AWS credentials,
+missing from paritytech-stg). The binary names don't have a `darwin-arm`
+identifier, and conflict with the existing x86_64-linux binaries. I
+haven't tested building everything on `paritytech-stg` because the
+x86_64-linux builds run on `unbutu-latest-m` which isn't enabled on
+`pairtytech-stg` (and I haven't asked CI team to enable one), so testing
+how to go around naming conflicts should be covered next.
+
+### TODO
+
+- [x] Test the workflow start to end (especially the last bits related
+to uploading the binaries on S3 and ensuring the previous binaries and
+the new ones coexist harmoniously on S3/action artifacts storage without
+naming conflicts) @EgorPopelyaev
+- [x] Publish the arm binaries on the Github release page - to clarify
+what's needed @iulianbarbu . Current practice is to manually publish the
+binaries built via `release-build-rc.yml` workflow, taken from S3. Would
+be great to have the binaries there in the first place before working on
+automating this, but I would also do it in a follow up PR.
+
+### Follow ups
+
+- [ ] unify the binaries building under
+`release-30_publish_release_draft.yml` maybe?
+- [ ] automate binary artifacts upload to S3 in
+`release-30_publish_release_draft.yml`
+
+---------
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;
+Co-authored-by: EgorPopelyaev &lt;egor@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56d97c3</div>
+                                        <div class="message">slot-based-collator: Move spawning of the futures (#6561)
+
+Move spawning of the slot-based collator into the `run` function. Also
+the tasks are being spawned as blocking task and not just as normal
+tasks.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c9e34b</div>
+                                        <div class="message">network-gossip: Ensure sync event is processed on unknown peer roles  (#6553)
+
+The `GossipEngine::poll_next` implementation polls both the
+`notification_service` and the `sync_event_stream`.
+
+If both polls produce valid data to be processed
+(`Poll::Ready(Some(..))`), then the sync event is ignored when we
+receive `NotificationEvent::NotificationStreamOpened` and the role
+cannot be deduced.
+
+This PR ensures both events are processed gracefully. While at it, I
+have added a warning to the sync engine related to
+`notification_service` producing `Poll::Ready(None)`.
+
+This effectively ensures that `SyncEvents` propagate to the network
+potentially fixing any state mismatch.
+
+
+For more context: https://github.com/paritytech/polkadot-sdk/issues/6507
+
+cc @paritytech/sdk-node
+
+---------
+
+Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b290f27</div>
+                                        <div class="message">revive: Bump connect timeout to fix flaky tests (#6567)
+
+The eth RPC tests fail sometimes because they run into a connect timeout
+because the node takes a long time to start. This bumps the connect
+timeout from 30 to 120 seconds. Locally they take around 40s for me.
+
+As a drive by I also remove a apparently duplicated nextest config.
+
+---------
+
+Co-authored-by: ordian &lt;write@reusable.software&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a872278</div>
+                                        <div class="message">Removes constraint in `BlockNumberProvider` from treasury (#6522)
+
+https://github.com/paritytech/polkadot-sdk/pull/3970 updated the
+treasury pallet to support relay chain block number provider. However,
+it added a constraint to the BlockNumberProvider to have the same block
+number type as frame_system:
+
+```rust
+type BlockNumberProvider: BlockNumberProvider&lt;BlockNumber = BlockNumberFor&lt;Self&gt;&gt;;
+```
+
+This PR removes that constraint as suggested by @gui1117</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70b6c7b</div>
+                                        <div class="message">Migrate pallet-scheduler benchmark to v2 (#6292)
+
+Part of:
+
+- #6202.
+
+---------
+
+Signed-off-by: Xavier Lau &lt;x@acg.box&gt;
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: Guillaume Thiolliere &lt;guillaume.thiolliere@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd0d0cd</div>
+                                        <div class="message">Bridges testing improvements (#6536)
+
+This PR includes:  
+- Refactored integrity tests to support standalone deployment of
+`pallet-bridge-messages`.
+- Refactored the `open_and_close_bridge_works` test case to support
+multiple scenarios, such as:
+  1. A local chain opening a bridge.  
+  2. Sibling parachains opening a bridge.  
+  3. The relay chain opening a bridge.  
+- Previously, we added instance support for `pallet-bridge-relayer` but
+overlooked updating the `DeliveryConfirmationPaymentsAdapter`.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65a92ba</div>
+                                        <div class="message">Increase default trie cache size to 1GiB (#6546)
+
+The default trie cache size before was set to `64MiB`, which is quite
+low to achieve real speed ups. `1GiB` should be a reasonable number as
+the requirements for validators/collators/full nodes are much higher
+when it comes to minimum memory requirements. Also the cache will not
+use `1GiB` from the start and fills over time. The setting can be
+changed by setting `--trie-cache-size BYTE_SIZE`.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca8beae</div>
+                                        <div class="message">Add and test events in `pallet-conviction-voting` (#6544)
+
+# Description
+
+https://github.com/paritytech/polkadot-sdk/pull/4613 introduced events
+for `pallet_conviction_voting::{vote, remove_vote, remove_other_vote}`.
+However:
+1. it did not include `unlock`
+2. the pallet's unit tests were missing an update
+
+## Integration
+
+N/A
+
+## Review Notes
+
+This is as https://github.com/paritytech/polkadot-sdk/pull/6261 was, so
+it is a trivial change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07a5933</div>
+                                        <div class="message">Pure state sync refactoring (part-2) (#6521)
+
+This PR is the second part of the pure state sync refactoring,
+encapsulating `StateSyncMetadata` as a separate entity. Now it's pretty
+straightforward what changes are needed for the persistent state sync as
+observed in the struct `StateSync`:
+
+- `state`: redirect directly to the DB layer instead of being
+accumulated in the memory.
+- `metadata`: handle the state sync metadata on disk whenever the state
+is forwarded to the DB, resume an ongoing state sync on a restart, etc.
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
+Co-authored-by: Alexandru Vasile &lt;60601340+lexnv@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce20d0a</div>
+                                        <div class="message">Support block gap created by fast sync (#5703)
+
+This is part 2 of
+https://github.com/paritytech/polkadot-sdk/issues/5406#issuecomment-2325064863,
+properly handling the block gap generated during fast sync.
+
+Although #5406 remains unresolved due to the known issues in #5663, I
+decided to open up this PR earlier than later to speed up the overall
+progress. I've tested the fast sync locally with this PR, and it appears
+to be functioning well. (I was doing a fast sync from a discontinued
+archive node locally, thus the issue highlighted in
+https://github.com/paritytech/polkadot-sdk/pull/5663#discussion_r1752124039
+was bypassed exactly.)
+
+Once the edge cases in #5663 are addressed, we can move forward by
+removing the body attribute from the LightState block request and
+complete the work on #5406. The changes in this PR are incremental, so
+reviewing commit by commit should provide the best clarity.
+
+cc @dmitry-markin
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cccf341</div>
+                                        <div class="message">Forward logging directives to Polkadot workers (#6534)
+
+This pull request forward all the logging directives given to the node
+via `RUST_LOG` or `-l` to the workers, instead of only forwarding
+`RUST_LOG`.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09757a4</div>
+                                        <div class="message">Migrate pallet-democracy benchmarks to benchmark v2 syntax (#6509)
+
+# Description
+
+Migrates pallet-democracy benchmarks to benchmark v2 syntax
+This is Part of https://github.com/paritytech/polkadot-sdk/issues/6202
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: Dmitry Markin &lt;dmitry@markin.tech&gt;
+Co-authored-by: Alexandru Vasile &lt;60601340+lexnv@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d4138f</div>
+                                        <div class="message">Validator Re-Enabling (#5724)
+
+Aims to implement Stage 3 of Validator Disbling as outlined here:
+https://github.com/paritytech/polkadot-sdk/issues/4359
+
+Features:
+- [x] New Disabling Strategy (Staking level)
+- [x] Re-enabling logic (Session level)
+- [x] More generic disabling decision output
+- [x] New Disabling Events
+
+Testing &amp; Security:
+- [x] Unit tests
+- [x] Mock tests
+- [x] Try-runtime checks
+- [x] Try-runtime tested on westend snap
+- [x] Try-runtime CI tests
+- [ ] Re-enabling Zombienet Test (?)
+- [ ] SRLabs Audit
+
+Closes #4745 
+Closes #2418
+
+---------
+
+Co-authored-by: ordian &lt;write@reusable.software&gt;
+Co-authored-by: Ankan &lt;10196091+Ank4n@users.noreply.github.com&gt;
+Co-authored-by: Tsvetomir Dimitrov &lt;tsvetomir@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0449b21</div>
+                                        <div class="message">Fix metrics not shutting down if there are open connections (#6220)
+
+Fix prometheus metrics not shutting down if there are open connections.
+I fixed the same issue in the past but it broke again after a dependecy
+upgrade.
+
+See also:
+
+https://github.com/paritytech/polkadot-sdk/pull/1637</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#293d4a5</div>
+                                        <div class="message">[pallet-revive] Update delegate_call to accept address and weight (#6111)
+
+Enhance the `delegate_call` function to accept an `address` target
+parameter instead of a `code_hash`. This allows direct identification of
+the target contract using the provided address.
+Additionally, introduce parameters for specifying a customizable
+`ref_time` limit and `proof_size` limit, thereby improving flexibility
+and control during contract interactions.
+
+---------
+
+Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e8348f</div>
+                                        <div class="message">sp-trie: correctly avoid panicking when decoding bad compact proofs (#6502)
+
+# Description
+
+Opening another PR because I added a test to check for my fix pushed in
+#6486 and realized that for some reason I completely forgot how to code
+and did not fix the underlying issue, since out-of-bounds indexing could
+still happen even with the check I added. This one should fix that and,
+as an added bonus, has a simple test used as an integrity check to make
+sure future changes don't accidently revert this fix.
+
+Now `sp-trie` should definitely not panic when faced with bad
+`CompactProof`s. Sorry about that 😅
+
+This, like #6486, is related to issue #6485
+
+## Integration
+
+No changes have to be done downstream, and as such the version bump
+should be minor.
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5721e55</div>
+                                        <div class="message">`TransactionPool` API uses `async_trait` (#6528)
+
+This PR refactors `TransactionPool` API to use `async_trait`, replacing
+the` Pin&lt;Box&lt;...&gt;&gt;` pattern. This should improve readability and
+maintainability.
+
+The change is not altering any functionality.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Dec 2024, 13:53:35</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -361,52 +809,6 @@ And here, especially we interact with the DB,
                                     <div>opened  in <span class="repo">darwinia-network/darwinia</span></div>
                                 </div>
                                 <div class="timestamp">2 Dec 2024, 07:38:27</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">x/fix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4bdbf50</div>
-                                        <div class="message">Remove old migration
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Dec 2024, 03:49:55</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">darwinia-network/darwinia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">x/fix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac3f0a3</div>
-                                        <div class="message">Add event for migration failure on refund
-
-Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Dec 2024, 03:48:17</div>
                             </section>
                         </div>
                     </section>
