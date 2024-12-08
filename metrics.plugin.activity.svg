@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2840" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2476" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.people{padding:0 10px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.people{padding:0 10px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,84 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4782 Improvements to `polkadot-sdk-frame` umbrella crate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kianenigma in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">I'd like to help migrate existing pallet if there is a list.</div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 10:58:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6293 Migrate pallet-nis benchmark to v2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">
+                                        <i>/cmd prdoc --bump patch --audience runtime_dev</i>
+                                        I updated the PR description. Can I call this?
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 10:56:40</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6293 Migrate pallet-nis benchmark to v2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">@kianenigma @re-gius, please review.</div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 10:55:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">benchmarkv2-nis</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbd0016</div>
+                                        <div class="message">Refactor to use frame crate</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 10:51:31</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2276,611 +2354,6 @@ Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">7 Dec 2024, 17:49:26</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/array-bytes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#10d5b4f</div>
-                                        <div class="message">Bump dependencies</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 17:49:19</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hack-ink/array-bytes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f257da1</div>
-                                        <div class="message">Release `v7.0.0`</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 17:48:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 95 commits in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">blocknumberprovider-recovery</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca8beae</div>
-                                        <div class="message">Add and test events in `pallet-conviction-voting` (#6544)
-
-# Description
-
-https://github.com/paritytech/polkadot-sdk/pull/4613 introduced events
-for `pallet_conviction_voting::{vote, remove_vote, remove_other_vote}`.
-However:
-1. it did not include `unlock`
-2. the pallet's unit tests were missing an update
-
-## Integration
-
-N/A
-
-## Review Notes
-
-This is as https://github.com/paritytech/polkadot-sdk/pull/6261 was, so
-it is a trivial change.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07a5933</div>
-                                        <div class="message">Pure state sync refactoring (part-2) (#6521)
-
-This PR is the second part of the pure state sync refactoring,
-encapsulating `StateSyncMetadata` as a separate entity. Now it's pretty
-straightforward what changes are needed for the persistent state sync as
-observed in the struct `StateSync`:
-
-- `state`: redirect directly to the DB layer instead of being
-accumulated in the memory.
-- `metadata`: handle the state sync metadata on disk whenever the state
-is forwarded to the DB, resume an ongoing state sync on a restart, etc.
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
-Co-authored-by: Alexandru Vasile &lt;60601340+lexnv@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce20d0a</div>
-                                        <div class="message">Support block gap created by fast sync (#5703)
-
-This is part 2 of
-https://github.com/paritytech/polkadot-sdk/issues/5406#issuecomment-2325064863,
-properly handling the block gap generated during fast sync.
-
-Although #5406 remains unresolved due to the known issues in #5663, I
-decided to open up this PR earlier than later to speed up the overall
-progress. I've tested the fast sync locally with this PR, and it appears
-to be functioning well. (I was doing a fast sync from a discontinued
-archive node locally, thus the issue highlighted in
-https://github.com/paritytech/polkadot-sdk/pull/5663#discussion_r1752124039
-was bypassed exactly.)
-
-Once the edge cases in #5663 are addressed, we can move forward by
-removing the body attribute from the LightState block request and
-complete the work on #5406. The changes in this PR are incremental, so
-reviewing commit by commit should provide the best clarity.
-
-cc @dmitry-markin
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cccf341</div>
-                                        <div class="message">Forward logging directives to Polkadot workers (#6534)
-
-This pull request forward all the logging directives given to the node
-via `RUST_LOG` or `-l` to the workers, instead of only forwarding
-`RUST_LOG`.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09757a4</div>
-                                        <div class="message">Migrate pallet-democracy benchmarks to benchmark v2 syntax (#6509)
-
-# Description
-
-Migrates pallet-democracy benchmarks to benchmark v2 syntax
-This is Part of https://github.com/paritytech/polkadot-sdk/issues/6202
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
-Co-authored-by: command-bot &lt;&gt;
-Co-authored-by: Dmitry Markin &lt;dmitry@markin.tech&gt;
-Co-authored-by: Alexandru Vasile &lt;60601340+lexnv@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d4138f</div>
-                                        <div class="message">Validator Re-Enabling (#5724)
-
-Aims to implement Stage 3 of Validator Disbling as outlined here:
-https://github.com/paritytech/polkadot-sdk/issues/4359
-
-Features:
-- [x] New Disabling Strategy (Staking level)
-- [x] Re-enabling logic (Session level)
-- [x] More generic disabling decision output
-- [x] New Disabling Events
-
-Testing &amp; Security:
-- [x] Unit tests
-- [x] Mock tests
-- [x] Try-runtime checks
-- [x] Try-runtime tested on westend snap
-- [x] Try-runtime CI tests
-- [ ] Re-enabling Zombienet Test (?)
-- [ ] SRLabs Audit
-
-Closes #4745 
-Closes #2418
-
----------
-
-Co-authored-by: ordian &lt;write@reusable.software&gt;
-Co-authored-by: Ankan &lt;10196091+Ank4n@users.noreply.github.com&gt;
-Co-authored-by: Tsvetomir Dimitrov &lt;tsvetomir@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0449b21</div>
-                                        <div class="message">Fix metrics not shutting down if there are open connections (#6220)
-
-Fix prometheus metrics not shutting down if there are open connections.
-I fixed the same issue in the past but it broke again after a dependecy
-upgrade.
-
-See also:
-
-https://github.com/paritytech/polkadot-sdk/pull/1637</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#293d4a5</div>
-                                        <div class="message">[pallet-revive] Update delegate_call to accept address and weight (#6111)
-
-Enhance the `delegate_call` function to accept an `address` target
-parameter instead of a `code_hash`. This allows direct identification of
-the target contract using the provided address.
-Additionally, introduce parameters for specifying a customizable
-`ref_time` limit and `proof_size` limit, thereby improving flexibility
-and control during contract interactions.
-
----------
-
-Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e8348f</div>
-                                        <div class="message">sp-trie: correctly avoid panicking when decoding bad compact proofs (#6502)
-
-# Description
-
-Opening another PR because I added a test to check for my fix pushed in
-#6486 and realized that for some reason I completely forgot how to code
-and did not fix the underlying issue, since out-of-bounds indexing could
-still happen even with the check I added. This one should fix that and,
-as an added bonus, has a simple test used as an integrity check to make
-sure future changes don't accidently revert this fix.
-
-Now `sp-trie` should definitely not panic when faced with bad
-`CompactProof`s. Sorry about that 😅
-
-This, like #6486, is related to issue #6485
-
-## Integration
-
-No changes have to be done downstream, and as such the version bump
-should be minor.
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5721e55</div>
-                                        <div class="message">`TransactionPool` API uses `async_trait` (#6528)
-
-This PR refactors `TransactionPool` API to use `async_trait`, replacing
-the` Pin&lt;Box&lt;...&gt;&gt;` pattern. This should improve readability and
-maintainability.
-
-The change is not altering any functionality.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b71bd53</div>
-                                        <div class="message">sp-runtime: Be a little bit more functional :D (#6526)
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d5d720</div>
-                                        <div class="message">Remove `ProspectiveParachainsMode` usage in backing subsystem (#6215)
-
-Since async backing parameters runtime api is released on all networks
-the code in backing subsystem can be simplified by removing the usages
-of `ProspectiveParachainsMode` and keeping only the branches of the code
-under `ProspectiveParachainsMode::Enabled`.
-
-The PR does that and reworks the tests in mod.rs to use async backing.
-It's a preparation for
-https://github.com/paritytech/polkadot-sdk/issues/5079
-
----------
-
-Co-authored-by: Alin Dima &lt;alin@parity.io&gt;
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e98c1ac</div>
-                                        <div class="message">[WIP][ci] Add worfklow stopper (#4551)
-
-PR to implements workflow stopper - a custom solution to stop all
-workflows if one of a required jobs failed. Previously we had the same
-solution in GitLab and it saved a lot of compute. Because GitHub doesn't
-have one united pipeline and instead it has multiple workflows something
-like this has to be implemented.
-
-cc https://github.com/paritytech/ci_cd/issues/939</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06a68be</div>
-                                        <div class="message">Pure state sync refactoring (part-1) (#6249)
-
-This pure refactoring of state sync is preparing for
-https://github.com/paritytech/polkadot-sdk/issues/4. As the rough plan
-in
-https://github.com/paritytech/polkadot-sdk/issues/4#issuecomment-2439588876,
-there will be two PRs for the state sync refactoring.
-
-This first PR focuses on isolating the function
-`process_state_key_values()` as the central point for storing received
-state data in memory. This function will later be adapted to forward the
-state data directly to the DB layer for persistent sync. A follow-up PR
-will handle the encapsulation of `StateSyncMetadata` to support this
-persistent storage.
-
-Although there are many commits in this PR, each commit is small and
-intentionally incremental to facilitate a smoother review, please review
-them commit by commit. Each commit should represent an equivalent
-rewrite of the existing logic, with one exception
-https://github.com/paritytech/polkadot-sdk/commit/bb447b2daa01fecf3bf0ca20c451ac6147f3f8c7,
-which has a slight deviation from the original but is correct IMHO.
-Please give this commit special attention during the review.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95be9c1</div>
-                                        <div class="message">Mention that account might still be required in doc for feeless if. (#6490)
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#603a392</div>
-                                        <div class="message">Migrate some pallets to benchmark v2 (#6311)
-
-Part of #6202
-
----------
-
-Co-authored-by: Guillaume Thiolliere &lt;guillaume.thiolliere@parity.io&gt;
-Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4df9433</div>
-                                        <div class="message">migrate pallet-nomination-pool-benchmarking to benchmarking syntax v2 (#6302)
-
-Migrates pallet-nomination-pool-benchmarking to benchmarking syntax v2.
-
-Part of:
-* #6202
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: Guillaume Thiolliere &lt;guillaume.thiolliere@parity.io&gt;
-Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a77940b</div>
-                                        <div class="message">sp-trie: minor fix to avoid possible panic during node decoding (#6486)
-
-# Description
-
-This PR is a simple fix consisting of adding a check to the process of
-decoding nodes of a storage proof to avoid panicking when receiving
-badly-constructed proofs, returning an error instead.
-
-This would close #6485
-
-## Integration
-
-No changes have to be done downstream, and as such the version bump
-should be minor.
-
----------
-
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bea091</div>
-                                        <div class="message">network/litep2p: Update litep2p network backend to version 0.8.1 (#6484)
-
-This PR updates the litep2p backend to version 0.8.1 from 0.8.0.
-- Check the [litep2p updates forum
-post](https://forum.polkadot.network/t/litep2p-network-backend-updates/9973/3)
-for performance dashboards.
-- Check [litep2p release
-notes](https://github.com/paritytech/litep2p/pull/288)
-
-The v0.8.1 release includes key fixes that enhance the stability and
-performance of the litep2p library. The focus is on long-running
-stability and improvements to polling mechanisms.
-
-### Long Running Stability Improvements
-
-This issue caused long-running nodes to reject all incoming connections,
-impacting overall stability.
-
-Addressed a bug in the connection limits functionality that incorrectly
-tracked connections due for rejection.
-
-This issue caused an artificial increase in inbound peers, which were
-not being properly removed from the connection limit count.
-
-This fix ensures more accurate tracking and management of peer
-connections [#286](https://github.com/paritytech/litep2p/pull/286).
-
-### Polling implementation fixes
-
-This release provides multiple fixes to the polling mechanism, improving
-how connections and events are processed:
-- Resolved an overflow issue in TransportContext’s polling index for
-streams, preventing potential crashes
-([#283](https://github.com/paritytech/litep2p/pull/283)).
-- Fixed a delay in the manager’s poll_next function that prevented
-immediate polling of newly added futures
-([#287](https://github.com/paritytech/litep2p/pull/287)).
-- Corrected an issue where the listener did not return Poll::Ready(None)
-when it was closed, ensuring proper signal handling
-([#285](https://github.com/paritytech/litep2p/pull/285)).
-
-
-### Fixed
-
-- manager: Fix connection limits tracking of rejected connections
-([#286](https://github.com/paritytech/litep2p/pull/286))
-- transport: Fix waking up on filtered events from `poll_next`
-([#287](https://github.com/paritytech/litep2p/pull/287))
-- transports: Fix missing Poll::Ready(None) event from listener
-([#285](https://github.com/paritytech/litep2p/pull/285))
-- manager: Avoid overflow on stream implementation for
-`TransportContext`
-([#283](https://github.com/paritytech/litep2p/pull/283))
-- manager: Log when polling returns Ready(None)
-([#284](https://github.com/paritytech/litep2p/pull/284))
-
-
-### Testing Done
-
-Started kusama nodes running side by side with a higher number of
-inbound and outbound connections (500).
-We previously tested with peers bounded at 50. This testing filtered out
-the fixes included in the latest release.
-
-With this high connection testing setup, litep2p outperforms libp2p in
-almost every domain, from performance to the warnings / errors
-encountered while operating the nodes.
-
-TLDR: this is the version we need to test on kusama validators next
-
-- Litep2p
-
-Repo            | Count      | Level      | Triage report
--|-|-|-
-polkadot-sdk | 409 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Peer disconnected with inflight after backoffs. Banned,
-disconnecting. )
-litep2p | 128 | warn | Refusing to add known address that corresponds to
-a different peer ID
-litep2p | 54 | warn | inbound identify substream opened for peer who
-doesn't exist
-polkadot-sdk | 7 | error | 💔 Called `on_validated_block_announce` with a
-bad peer ID .*
-polkadot-sdk    | 1          | warn       | ❌ Error while dialing .*: .*
-polkadot-sdk | 1 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Invalid justification. Banned, disconnecting. )
-
-- Libp2p
-
-Repo            | Count      | Level      | Triage report
--|-|-|-
-polkadot-sdk | 1023 | warn | 💔 Ignored block \(#.* -- .*\) announcement
-from .* because all validation slots are occupied.
-polkadot-sdk | 472 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Unsupported protocol. Banned, disconnecting. )
-polkadot-sdk | 379 | error | 💔 Called `on_validated_block_announce` with
-a bad peer ID .*
-polkadot-sdk | 163 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Invalid justification. Banned, disconnecting. )
-polkadot-sdk | 116 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Peer disconnected with inflight after backoffs. Banned,
-disconnecting. )
-polkadot-sdk | 83 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Same block request multiple times. Banned,
-disconnecting. )
-polkadot-sdk | 4 | warn | Re-finalized block #.* \(.*\) in the canonical
-chain, current best finalized is #.*
-polkadot-sdk | 2 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Genesis mismatch. Banned, disconnecting. )
-polkadot-sdk | 2 | warn | Report .*: .* to .*. Reason: .*. Banned,
-disconnecting. ( Not requested block data. Banned, disconnecting. )
-polkadot-sdk | 2 | warn | Can't listen on .* because: .*
-polkadot-sdk    | 1          | warn       | ❌ Error while dialing .*: .*
-
----------
-
-Signed-off-by: Alexandru Vasile &lt;alexandru.vasile@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39eba14</div>
-                                        <div class="message">[pallet-revive] use evm decimals in call host fn (#6466)
-
-This PR update the pallet to use the EVM 18 decimal balance in contracts
-call and host functions instead of the native balance.
-
-It also updates the js example to add the piggy-bank solidity contract
-that expose the problem
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 11:21:23</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#526a440</div>
-                                        <div class="message">Update weights for westend pallet balances (#6777)
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7838db</div>
-                                        <div class="message">`basic-authorship`: debug level is now less spammy (#6768)
-
-The `debug` level in `sc-basic-authorship` is now less spammy.
-Previously it was outputing logs per individual transactions. It was
-quite hard to follow the logs (and also generates unneeded traffic in
-grafana).
-
-Now `debug` level only show some internal details, without spamming
-output with per-transaction logs. They were moved to `trace` level.
-
-I also added the `EndProposingReason` to the summary INFO message. This
-allows us to know what was the block limit (which is very useful for
-debugging).
-
-Example:
-```
-🎁 Prepared block for proposing at 64 (1186 ms) hash: 0x4b5386c13c507d0dbab319ac054cc1bcfa08311e184452221ad07f12ecc6091c; parent_hash: 0x157c…ca5e; end: HitBlockWeightLimit; extrinsics_count: 7032; 
-```
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f31c70a</div>
-                                        <div class="message">Added fallback_max_weight to Transact for sending messages to V4 chains (#6643)
-
-Closes: https://github.com/paritytech/polkadot-sdk/issues/6585
-
-Removing the `require_weight_at_most` parameter in V5 Transact had only
-one problem. Converting a message from V5 to V4 to send to chains that
-didn't upgrade yet. The conversion would not know what weight to give to
-the Transact, since V4 and below require it.
-
-To fix this, I added back the weight in the form of an `Option&lt;Weight&gt;`
-called `fallback_max_weight`. This can be set to `None` if you don't
-intend to deal with a chain that hasn't upgraded yet. If you set it to
-`Some(_)`, the behaviour is the same. The plan is to totally remove this
-in V6 since there will be a good conversion path from V6 to V5.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;
-Co-authored-by: Adrian Catangiu &lt;adrian@parity.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f43b72</div>
-                                        <div class="message">[CI/CD] Add release environment to the backport job (#6765)
-
-Fix adds release environment to the backport job, so that token could be
-properly generated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d3d450</div>
-                                        <div class="message">pallet-revive: Adjust error handling of sub calls (#6741)
-
-We were trapping the host context in case a sub call was exhausting the
-storage deposit limit set for this sub call. This prevents the caller
-from handling this error. In this PR we added a new error code that is
-returned when either gas or storage deposit limit is exhausted by the
-sub call.
-
-We also remove the longer used `NotCallable` error. No longer used
-because this is no longer an error: It will just be a balance transfer.
-
-We also make `set_code_hash` infallible to be consistent with other host
-functions which just trap on any error condition.
-
----------
-
-Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44766de</div>
-                                        <div class="message">bump zombienet and re-enable test (#6090)
-
-Re-enable zombienet test for `solochain`.
-Thx!</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 11:20:31</div>
                             </section>
                         </div>
                     </section>
