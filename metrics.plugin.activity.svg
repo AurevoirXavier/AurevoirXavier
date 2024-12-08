@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2524" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2840" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.people{padding:0 10px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.people{padding:0 10px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,793 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 193 commits in
+                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">benchmarkv2-nis</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#38cd03c</div>
+                                        <div class="message">`statement-distribution`: RFC103 implementation (#5883)
+
+Part of https://github.com/paritytech/polkadot-sdk/issues/5047
+On top of https://github.com/paritytech/polkadot-sdk/pull/5679
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#028e61b</div>
+                                        <div class="message">Disable flaky tests reported in #6343 / #6345 (#6346)
+
+test: zombienet-polkadot-functional-0018-shared-core-idle-parachain
+Disable flaky test reported in
+https://github.com/paritytech/polkadot-sdk/issues/6343
+
+test: zombienet-polkadot-functional-0016-approval-voting-parallel
+Disable flaky test reported in
+https://github.com/paritytech/polkadot-sdk/issues/6345
+
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1084e7</div>
+                                        <div class="message">migrate pallet-recovery to benchmark V2 syntax (#6299)
+
+Part of:
+* #6202
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b326540</div>
+                                        <div class="message">inclusion emulator: correctly handle UMP signals (#6178)
+
+Changes inclusion emulator to not count the UMP signals when checking
+ump message constraints.
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b6f815</div>
+                                        <div class="message">Bump the ci_dependencies group across 1 directory with 3 updates (#6340)
+
+Bumps the ci_dependencies group with 3 updates in the / directory:
+[docker/build-push-action](https://github.com/docker/build-push-action),
+[actions/setup-node](https://github.com/actions/setup-node) and
+[lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action).
+
+Updates `docker/build-push-action` from 5 to 6
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/docker/build-push-action/releases"&gt;docker/build-push-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Export build record and generate &lt;a
+href="https://docs.docker.com/build/ci/github-actions/build-summary/"&gt;build
+summary&lt;/a&gt; by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1120"&gt;docker/build-push-action#1120&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.24.0 to 0.26.0 in
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1132"&gt;docker/build-push-action#1132&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1136"&gt;docker/build-push-action#1136&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1138"&gt;docker/build-push-action#1138&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump braces from 3.0.2 to 3.0.3 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1137"&gt;docker/build-push-action#1137&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+This major release adds support for generating &lt;a
+href="https://docs.docker.com/build/ci/github-actions/build-summary/"&gt;Build
+summary&lt;/a&gt; and exporting build record for your build. You can disable
+this feature by setting &lt;a
+href="https://docs.docker.com/build/ci/github-actions/build-summary/#disable-job-summary"&gt;
+&lt;code&gt;DOCKER_BUILD_NO_SUMMARY: true&lt;/code&gt; environment variable in your
+workflow&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v5.4.0...v6.0.0"&gt;https://github.com/docker/build-push-action/compare/v5.4.0...v6.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v5.4.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show builder information before building by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1128"&gt;docker/build-push-action#1128&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Handle attestations correctly with provenance and sbom inputs by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1086"&gt;docker/build-push-action#1086&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.19.0 to 0.24.0 in
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1088"&gt;docker/build-push-action#1088&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1105"&gt;docker/build-push-action#1105&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1121"&gt;docker/build-push-action#1121&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1127"&gt;docker/build-push-action#1127&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump undici from 5.28.3 to 5.28.4 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1090"&gt;docker/build-push-action#1090&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v5.3.0...v5.4.0"&gt;https://github.com/docker/build-push-action/compare/v5.3.0...v5.4.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v5.3.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.18.0 to 0.19.0 in
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1080"&gt;docker/build-push-action#1080&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v5.2.0...v5.3.0"&gt;https://github.com/docker/build-push-action/compare/v5.2.0...v5.3.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v5.2.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Disable quotes detection for &lt;code&gt;outputs&lt;/code&gt; input by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1074"&gt;docker/build-push-action#1074&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Warn about ignored inputs by &lt;a
+href="https://github.com/favonia"&gt;&lt;code&gt;@​favonia&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1019"&gt;docker/build-push-action#1019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.14.0 to 0.18.0 in
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1070"&gt;docker/build-push-action#1070&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump undici from 5.26.3 to 5.28.3 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1057"&gt;docker/build-push-action#1057&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v5.1.0...v5.2.0"&gt;https://github.com/docker/build-push-action/compare/v5.1.0...v5.2.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v5.1.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add &lt;code&gt;annotations&lt;/code&gt; input by &lt;a
+href="https://github.com/crazy-max"&gt;&lt;code&gt;@​crazy-max&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/992"&gt;docker/build-push-action#992&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;secret-envs&lt;/code&gt; input by &lt;a
+href="https://github.com/elias-lundgren"&gt;&lt;code&gt;@​elias-lundgren&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/980"&gt;docker/build-push-action#980&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​babel/traverse&lt;/code&gt; from 7.17.3 to 7.23.2 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/991"&gt;docker/build-push-action#991&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.13.0-rc.1 to
+0.14.0 in &lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/990"&gt;docker/build-push-action#990&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/docker/build-push-action/pull/1006"&gt;docker/build-push-action#1006&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/docker/build-push-action/compare/v5.0.0...v5.1.0"&gt;https://github.com/docker/build-push-action/compare/v5.0.0...v5.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/4f58ea79222b3b9dc2c8bbdd6debcef730109a75"&gt;&lt;code&gt;4f58ea7&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/1234"&gt;#1234&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/docker/actions-t...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/49b5ea61c60477d214908bb6e23ce05c074ef04e"&gt;&lt;code&gt;49b5ea6&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/13c9fddd72db0ce3cd9d87eb53e0480d2a32a77b"&gt;&lt;code&gt;13c9fdd&lt;/code&gt;&lt;/a&gt;
+chore(deps): Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.38.0 to
+0.39.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/e44afff3590e1d4f93b6adc72376512edb012a7c"&gt;&lt;code&gt;e44afff&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/1232"&gt;#1232&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/path-to-regexp-6...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/67ebad331f4ca45e39184b280dbacb11eb3beae0"&gt;&lt;code&gt;67ebad3&lt;/code&gt;&lt;/a&gt;
+chore(deps): Bump path-to-regexp from 6.2.2 to 6.3.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/32945a339266b759abcbdc89316275140b0fc960"&gt;&lt;code&gt;32945a3&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/1230"&gt;#1230&lt;/a&gt;
+from docker/dependabot/npm_and_yarn/docker/actions-t...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/e0fe9cf0f26132beab7b62929bd647eef9e7df31"&gt;&lt;code&gt;e0fe9cf&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/8f1ff6bf9a836299c21b10f942be49efb52a832c"&gt;&lt;code&gt;8f1ff6b&lt;/code&gt;&lt;/a&gt;
+chore(deps): Bump &lt;code&gt;@​docker/actions-toolkit&lt;/code&gt; from 0.37.1 to
+0.38.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/5cd11c3a4ced054e52742c5fd54dca954e0edd85"&gt;&lt;code&gt;5cd11c3&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/docker/build-push-action/issues/1211"&gt;#1211&lt;/a&gt;
+from crazy-max/summary-info-message&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/docker/build-push-action/commit/0aba704831628413787ada4cf0e8f04d977f1d21"&gt;&lt;code&gt;0aba704&lt;/code&gt;&lt;/a&gt;
+chore: update generated content&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/docker/build-push-action/compare/v5...v6"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `actions/setup-node` from 4.0.4 to 4.1.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/actions/setup-node/releases"&gt;actions/setup-node's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.1.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolve High Security Alerts by upgrading Dependencies by &lt;a
+href="https://github.com/aparnajyothi-y"&gt;&lt;code&gt;@​aparnajyothi-y&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/1132"&gt;actions/setup-node#1132&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade IA Publish by &lt;a
+href="https://github.com/Jcambass"&gt;&lt;code&gt;@​Jcambass&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/1134"&gt;actions/setup-node#1134&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Revise &lt;code&gt;isGhes&lt;/code&gt; logic by &lt;a
+href="https://github.com/jww3"&gt;&lt;code&gt;@​jww3&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/1148"&gt;actions/setup-node#1148&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add architecture to cache key by &lt;a
+href="https://github.com/pengx17"&gt;&lt;code&gt;@​pengx17&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/843"&gt;actions/setup-node#843&lt;/a&gt;
+This addresses issues with caching by adding the architecture (arch) to
+the cache key, ensuring that cache keys are accurate to prevent
+conflicts.
+Note: This change may break previous cache keys as they will no longer
+be compatible with the new format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/jww3"&gt;&lt;code&gt;@​jww3&lt;/code&gt;&lt;/a&gt; made their
+first contribution in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/1148"&gt;actions/setup-node#1148&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pengx17"&gt;&lt;code&gt;@​pengx17&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/setup-node/pull/843"&gt;actions/setup-node#843&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/setup-node/compare/v4...v4.1.0"&gt;https://github.com/actions/setup-node/compare/v4...v4.1.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/setup-node/commit/39370e3970a6d050c480ffad4ff0ed4d3fdee5af"&gt;&lt;code&gt;39370e3&lt;/code&gt;&lt;/a&gt;
+fix: add arch to cached path (&lt;a
+href="https://redirect.github.com/actions/setup-node/issues/843"&gt;#843&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/setup-node/commit/abb238b1313d8ef4d3e3a96d204e08329cafbf85"&gt;&lt;code&gt;abb238b&lt;/code&gt;&lt;/a&gt;
+Revise &lt;code&gt;isGhes&lt;/code&gt; logic (&lt;a
+href="https://redirect.github.com/actions/setup-node/issues/1148"&gt;#1148&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/setup-node/commit/aca7b64a59c0063db8564e0ffdadd3887f1cbae5"&gt;&lt;code&gt;aca7b64&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/actions/setup-node/issues/1134"&gt;#1134&lt;/a&gt;
+from actions/Jcambass-patch-1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/setup-node/commit/88de2a3d99c13aa734c49200e8bc673fb0a80ab8"&gt;&lt;code&gt;88de2a3&lt;/code&gt;&lt;/a&gt;
+Resolve High Security Alerts by upgrading Dependencies (&lt;a
+href="https://redirect.github.com/actions/setup-node/issues/1132"&gt;#1132&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/setup-node/commit/d6ebc7b438e9cf1b22a3c440a164b179ed0e37d6"&gt;&lt;code&gt;d6ebc7b&lt;/code&gt;&lt;/a&gt;
+Upgrade IA Publish&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/actions/setup-node/compare/v4.0.4...v4.1.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `lycheeverse/lychee-action` from 2.0.1 to 2.0.2
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/lycheeverse/lychee-action/releases"&gt;lycheeverse/lychee-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Version 2.0.2&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix a typos by &lt;a
+href="https://github.com/szepeviktor"&gt;&lt;code&gt;@​szepeviktor&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/pull/257"&gt;lycheeverse/lychee-action#257&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document and use correct permissions in the GitHub workflows by &lt;a
+href="https://github.com/dscho"&gt;&lt;code&gt;@​dscho&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/pull/258"&gt;lycheeverse/lychee-action#258&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add security policy by &lt;a
+href="https://github.com/mondeja"&gt;&lt;code&gt;@​mondeja&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/pull/259"&gt;lycheeverse/lychee-action#259&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/szepeviktor"&gt;&lt;code&gt;@​szepeviktor&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/pull/257"&gt;lycheeverse/lychee-action#257&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mondeja"&gt;&lt;code&gt;@​mondeja&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/pull/259"&gt;lycheeverse/lychee-action#259&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/lycheeverse/lychee-action/compare/v2...v2.0.2"&gt;https://github.com/lycheeverse/lychee-action/compare/v2...v2.0.2&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/lycheeverse/lychee-action/commit/7cd0af4c74a61395d455af97419279d86aafaede"&gt;&lt;code&gt;7cd0af4&lt;/code&gt;&lt;/a&gt;
+Merge commit from fork&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/lycheeverse/lychee-action/commit/8ad54d3568ac3176a9fb57a0233cf04410b55cde"&gt;&lt;code&gt;8ad54d3&lt;/code&gt;&lt;/a&gt;
+fix link&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/lycheeverse/lychee-action/commit/762333c18963fc10db515e32000e2e4dbcb11f5f"&gt;&lt;code&gt;762333c&lt;/code&gt;&lt;/a&gt;
+Create SECURITY.md (&lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/issues/259"&gt;#259&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/lycheeverse/lychee-action/commit/71a38a3bd757f6306a6c14206219391d4e5807ed"&gt;&lt;code&gt;71a38a3&lt;/code&gt;&lt;/a&gt;
+Document and use correct permissions in the GitHub workflows (&lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/issues/258"&gt;#258&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/lycheeverse/lychee-action/commit/f141760066406690a7f54a23762e3d146ea0d721"&gt;&lt;code&gt;f141760&lt;/code&gt;&lt;/a&gt;
+Fix a typos (&lt;a
+href="https://redirect.github.com/lycheeverse/lychee-action/issues/257"&gt;#257&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/lycheeverse/lychee-action/compare/2bb232618be239862e31382c5c0eaeba12e5e966...7cd0af4c74a61395d455af97419279d86aafaede"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4133b0</div>
+                                        <div class="message">fix claim queue size (#6257)
+
+Reported in
+https://github.com/paritytech/polkadot-sdk/issues/6161#issuecomment-2432097120
+
+Fixes a bug introduced in
+https://github.com/paritytech/polkadot-sdk/pull/5461, where the claim
+queue would contain entries even if the validator groups storage is
+empty (which happens during the first session).
+
+This PR sets the claim queue core count to be the minimum between the
+num_cores param and the number of validator groups
+
+TODO:
+- [x] prdoc
+- [x] unit test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9353a28</div>
+                                        <div class="message">Migrate pallet-election-provider-multi-phase benchmark to v2 and improve doc (#6316)
+
+Part of:
+
+- #6202.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Guillaume Thiolliere &lt;gui.thiolliere@gmail.com&gt;
+Co-authored-by: Guillaume Thiolliere &lt;guillaume.thiolliere@parity.io&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4ded5c</div>
+                                        <div class="message">Migrate pallet-glutton benchmark to v2 (#6296)
+
+Part of:
+
+- #6202.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Oliver Tale-Yazdi &lt;oliver.tale-yazdi@parity.io&gt;
+Co-authored-by: Dónal Murray &lt;donalm@seadanda.dev&gt;
+Co-authored-by: Giuseppe Re &lt;giuseppe.re@parity.io&gt;
+Co-authored-by: Dónal Murray &lt;donal.murray@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a84917</div>
+                                        <div class="message">templates: make node compilation optional (#5954)
+
+# Description
+
+Closes #5940  
+
+## Integration
+
+Node devs that rely on templates' nodes binaries for minimal or
+parachain would need to follow the updated templates' README.mds again
+to find how to build the nodes' binaries.
+
+## Review Notes
+
+Conditional compilation of virtual workspaces would compile the
+`members` list as if we passed `--workspace` flag to `cargo build` ,
+except when adding a `default-members` list which will be used for any
+cargo command executed in the virtual workspace root. To build the full
+members list needs passing `--workspace` flag.
+
+Other options investigated:
+- feature guard the `node` crate by defining a feature in the `node`
+crate, but it feels too complex since all code needs to be feature
+guarded. I haven't tried it but technically speaking it might work. I
+think though it looks awkward and my opinion is that the alternative is
+better.
+- defining features in the virtual workspace's Cargo.toml doesn't work
+(thought that I might create a feature that will have a dependency on
+the `node` crate and then not passing the feature to cargo build results
+in ignoring the `node` crate)
+- skipping compilation by using an environment variable, read in the
+build script, that will exit compilation abruptly if not set, but I
+couldn't make it work.
+- exclude the crate from the members list and build it specifically by
+passing `--package minimal-template-node` flag to the `cargo build`
+command. This has the disadvantage of not allowing IDEs based on rust
+analyzer to index/compile the node crate.
+
+My conclusion is that any option would require two commands to build the
+template, one with the node and one without, and both must be included
+in the README or templates usage documentation. If it comes which ones
+to pick I am in favor of the `default-members` option, which requires
+minimal intervention and expresses how cargo commands are executed on
+top of the workspace members, and what's left out from regular usage.
+
+### Testing
+
+Testing was conducted as described bellow:
+
+- [x] zombienet with `minimal-template-node` , `parachain-template-node`
+and `polkadot-omni-node`. Things work as expected.
+- [x] no chopsticks testing was conducted - feels a bit out of scope for
+OmniNode related docs and overall testing when promoting it over the
+templates' nodes.
+- [x] testing the changes for the sync templates workflow (ignore the
+added comment from the Cargo.tomls, it was removed here on this branch:
+[99bff3e](https://github.com/paritytech/polkadot-sdk/pull/5954/commits/99bff3e2b577704ecb5cb1d40407a3fbdcb867bc)):
+[minimal](https://github.com/paritytech-stg/polkadot-sdk-minimal-template/pull/22/files#diff-2e9d962a08321605940b5a657135052fbcef87b5e360662bb527c96d9a615542R9),
+[parachain](https://github.com/paritytech-stg/polkadot-sdk-parachain-template/pull/19/files#diff-2e9d962a08321605940b5a657135052fbcef87b5e360662bb527c96d9a615542R9),
+[solochain](https://github.com/paritytech-stg/polkadot-sdk-solochain-template/pull/17/files#diff-2e9d962a08321605940b5a657135052fbcef87b5e360662bb527c96d9a615542R9).
+The links correspond to PRs opened by a bot after manually starting the
+sync-templates workflow on `paritytech-stg` org to test the end result
+of the `Cargo.toml` changes.
+
+---------
+
+Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;
+Co-authored-by: Kian Paimani &lt;5588131+kianenigma@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#657b550</div>
+                                        <div class="message">Refactor pallet `claims` (#6318)
+
+- [x] Removing `without_storage_info` and adding bounds on the stored
+types for pallet `claims` - issue
+https://github.com/paritytech/polkadot-sdk/issues/6289
+- [x] Migrating to benchmarking V2 -
+https://github.com/paritytech/polkadot-sdk/issues/6202
+
+---------
+
+Co-authored-by: Guillaume Thiolliere &lt;gui.thiolliere@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f80f45</div>
+                                        <div class="message">[eth-rpc] Fixes (#6317)
+
+Various fixes for the release of eth-rpc &amp; ah-westend-runtime
+
+- Bump asset-hub westend spec version
+- Fix the status of the Receipt to properly report failed transactions
+- Fix value conversion between native and eth decimal representation
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68e0563</div>
+                                        <div class="message">collation-generation: use v2 receipts (#5908)
+
+Part of https://github.com/paritytech/polkadot-sdk/issues/5047
+
+Plus some cleanups
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: Andrei Sandu &lt;54316454+sandreim@users.noreply.github.com&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa52407</div>
+                                        <div class="message">Update Treasury to Support Relay Chain Block Number Provider (#3970)
+
+The goal of this PR is to have the treasury pallet work on a parachain
+which does not produce blocks on a regular schedule, thus can use the
+relay chain as a block provider.
+
+Because blocks are not produced regularly, we cannot make the assumption
+that block number increases monotonically, and thus have new logic to
+handle multiple spend periods passing between blocks.
+
+---------
+
+Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
+Co-authored-by: Muharem &lt;ismailov.m.h@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2700dbf</div>
+                                        <div class="message">`candidate-validation`: RFC103 implementation (#5847)
+
+Part of https://github.com/paritytech/polkadot-sdk/issues/5047
+On top of https://github.com/paritytech/polkadot-sdk/pull/5679
+
+---------
+
+Signed-off-by: Andrei Sandu &lt;andrei-mihail@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd9924f</div>
+                                        <div class="message">Remove `riscv` feature flag (#6305)
+
+Since https://github.com/paritytech/polkadot-sdk/pull/6266 we no longer
+require a custom toolchain to build the `pallet-revive-fixtures`. Hence
+we no longer have to guard the build behind a feature flag.
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f782a4</div>
+                                        <div class="message">[pallet-revive] Add metrics to eth-rpc (#6288)
+
+Add metrics for eth-rpc
+
+---------
+
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: Alexander Theißen &lt;alex.theissen@me.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b6b696</div>
+                                        <div class="message">[pallet-revive] implement the block hash API (#6246)
+
+- Bound T::Hash to H256
+- Implement the block hash API
+
+---------
+
+Signed-off-by: xermicus &lt;cyrill@parity.io&gt;
+Signed-off-by: Cyrill Leutwiler &lt;bigcyrill@hotmail.com&gt;
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01936b3</div>
+                                        <div class="message">Publish `polkadot-omni-node` binary (#6057)
+
+Closes https://github.com/paritytech/polkadot-sdk/issues/5566
+
+Publish the `polkadot-omni-node` binary
+
+This is a best effort. I'm not very familiar with the release /
+publishing process and also not sure how to test this.
+@paritytech/release-engineering can you take a look on this PR please ?
+
+---------
+
+Co-authored-by: EgorPopelyaev &lt;egor@parity.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aa3143</div>
+                                        <div class="message">[pallet-revive] code size API (#6260)
+
+This PR implements the contract API to query the code size of a given
+address.
+
+---------
+
+Signed-off-by: Cyrill Leutwiler &lt;bigcyrill@hotmail.com&gt;
+Signed-off-by: xermicus &lt;cyrill@parity.io&gt;
+Co-authored-by: GitHub Action &lt;action@github.com&gt;
+Co-authored-by: command-bot &lt;&gt;
+Co-authored-by: PG Herveou &lt;pgherveou@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40547f9</div>
+                                        <div class="message">Add overhead benchmark to frame-omni-bencher (#5891)
+
+# Benchmark Overhead Command for Parachains
+
+This implements the `benchmark overhead` command for parachains. Full
+context is available at:
+https://github.com/paritytech/polkadot-sdk/issues/5303. Previous attempt
+was this https://github.com/paritytech/polkadot-sdk/pull/5283, but here
+we have integration into frame-omni-bencher and improved tooling.
+
+## Changes Overview
+
+Users are now able to use `frame-omni-bencher` to generate
+`extrinsic_weight.rs` and `block_weight.rs` files for their runtime. The
+core logic for generating these remains untouched; this PR provides
+mostly machinery to make it work for parachains at all.
+
+Similar to the pallet benchmarks, we gain the option to benchmark based
+on just a runtime:
+
+```
+frame-omni-bencher v1 benchmark overhead --runtime {{runtime}}
+```
+
+or with a spec:
+
+```
+frame-omni-bencher v1 benchmark overhead --chain {{spec}} --genesis-builder spec
+```
+
+In this case, the genesis state is generated from the runtime presets.
+However, it is also possible to use `--chain` and genesis builder `spec`
+to generate the genesis state from the chain spec.
+
+Additionally, we use metadata to perform some checks based on the
+pallets the runtime exposes:
+
+- If we see the `ParaInherent` pallet, we assume that we are dealing
+with a relay chain. This means that we don't need proof recording during
+import (since there is no storage weight).
+- If we detect the `ParachainSystem` pallet, we assume that we are
+dealing with a parachain and take corresponding actions like patching a
+para id into the genesis state.
+
+On the inherent side, I am currently supplying the standard inherents
+every parachain needs.
+
+In the current state, `frame-omni-bencher` supports all system chains.
+In follow-up PRs, we could add additional inherents to increase
+compatibility.
+
+Since we are building a block during the benchmark, we also need to
+build an extrinsic. By default, I am leveraging subxt to build the xt
+dynamically. If a chain is not compatible with the `SubstrateConfig`
+that comes with `subxt`, it can provide a custom extrinsic builder to
+benchmarking-cli. This requires either a custom bencher implementation
+or an integration into the parachains node.
+
+Also cumulus-test-runtime has been migrated to provide genesis configs.
+
+## Chain Compatibility
+The current version here is compatible with the system chains and common
+substrate chains. The way to go for others would be to customize the
+frame-omni-bencher by providing a custom extrinsicbuilder. I did an
+example implementation that works for mythical:
+https://github.com/skunert/mythical-bencher
+
+## Follow-Ups
+- After #6040 is finished, we should integrate this here to make the
+tooling truly useful. In the current form, the state is fairly small and
+not representative.
+
+## How to Review
+I recommend starting from
+[here](https://github.com/paritytech/polkadot-sdk/pull/5891/files#diff-50830ff756b3ac3403b7739d66c9e3a5185dbea550669ca71b28d19c7a2a54ecR264),
+this method is the main entry point for omni-bencher and `polkadot`
+binary.
+
+TBD:
+- [x] PRDoc
+
+---------
+
+Co-authored-by: Michal Kucharczyk &lt;1728078+michalkucharczyk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 09:49:21</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#299 Ease implementation of mock for pallets.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by gui1117 in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">
+                                        <i>@AurevoirXavier Are you working on it or can i try this one ? ^^</i>
+                                        Aha, too many GitHub notifications..
+I forgot this one.
+Thank you for bringing it up!
+I did some work a month ago, could you try other issues? :)
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Dec 2024, 09:46:24</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2094,45 +2881,6 @@ Thx!</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">7 Dec 2024, 11:20:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">blocknumberprovider-recovery</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa86545</div>
-                                        <div class="message">Update prdoc</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 11:20:27</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#6446 Make pallet-recovery supports `BlockNumberProvider`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
-                                    <div class="comment">Thank you for your explaination. I'm still puzzled as to why it utilizes a delay in the pallet. My understanding is that using the block number from the relay chain aims to enhance accuracy.</div>
-                                </div>
-                                <div class="timestamp">7 Dec 2024, 11:17:54</div>
                             </section>
                         </div>
                     </section>
