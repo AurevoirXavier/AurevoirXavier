@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2250" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2206" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.boolean,.token.number{color:#2777aa}.token.tag{color:#48428a}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,25 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6967 Reorder dependencies' keys</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AurevoirXavier in <span class="repo">paritytech/polkadot-sdk</span></div>
+                                    <div class="comment">I hope we can merge this ASAP. Then I can happily work on other PRs. 
+cc @bkchr @ggwpez @kianenigma 🙏</div>
+                                </div>
+                                <div class="timestamp">20 Dec 2024, 07:16:21</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -868,166 +887,6 @@ Signed-off-by: Xavier Lau &lt;x@acg.box&gt;</div>
 Removing it would be preferable if using Tally for managing the Treasury account is feasible.</div>
                                 </div>
                                 <div class="timestamp">17 Dec 2024, 03:03:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b04b45</div>
-                                        <div class="message">Upgrade nix and reqwest (#6898)
-
-# Description
-
-Upgrade `nix` and `reqwest` to reduce outdated dependencies and speed up
-compilation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adc0178</div>
-                                        <div class="message">
-                                            polkadot-omni-node-lib: remove unused dep (#6889)
-
-# Description
-
-Redundant dep that made its way in #6450 .
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            . It can be
-brought up when using `cargo udeps`. Added a github action that runs
-`cargo udeps` on the repo too.
-
-## Integration
-
-N/A
-
-## Review Notes
-
-N/A
-
----------
-
-Signed-off-by: Iulian Barbu &lt;iulian.barbu@parity.io&gt;
-Co-authored-by: Bastian Köcher &lt;git@kchr.de&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cee63ac</div>
-                                        <div class="message">Omni-node: Detect pending code in storage and send go ahead signal in dev-mode. (#6885)
-
-We check if there is a pending validation code in storage. If there is,
-add the go-ahead signal in the relay chain storage proof.
-
-Not super elegant, but should get the job done for development.
-
----------
-
-Co-authored-by: command-bot &lt;&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c881288</div>
-                                        <div class="message">Upgrade libp2p from 0.52.4 to 0.54.1 (#6248)
-
-# Description
-
-Fixes https://github.com/paritytech/polkadot-sdk/issues/5996
-
-https://github.com/libp2p/rust-libp2p/releases/tag/libp2p-v0.53.0
-https://github.com/libp2p/rust-libp2p/blob/master/CHANGELOG.md
-
-## Integration
-
-Nothing special is needed, just note that `yamux_window_size` is no
-longer applicable to libp2p (litep2p seems to still have it though).
-
-## Review Notes
-
-There are a few simplifications and improvements done in libp2p 0.53
-regarding swarm interface, I'll list a few key/applicable here.
-
-https://github.com/libp2p/rust-libp2p/pull/4788 removed
-`write_length_prefixed` function, so I inlined its code instead.
-
-https://github.com/libp2p/rust-libp2p/pull/4120 introduced new
-`libp2p::SwarmBuilder` instead of now deprecated
-`libp2p::swarm::SwarmBuilder`, the transition is straightforward and
-quite ergonomic (can be seen in tests).
-
-https://github.com/libp2p/rust-libp2p/pull/4581 is the most annoying
-change I have seen that basically makes many enums `#[non_exhaustive]`.
-I mapped some, but those that couldn't be mapped I dealt with by
-printing log messages once they are hit (the best solution I could come
-up with, at least with stable Rust).
-
-https://github.com/libp2p/rust-libp2p/issues/4306 makes connection close
-as soon as there are no handler using it, so I had to replace
-`KeepAlive::Until` with an explicit future that flips internal boolean
-after timeout, achieving the old behavior, though it should ideally be
-removed completely at some point.
-
-`yamux_window_size` is no longer used by libp2p thanks to
-https://github.com/libp2p/rust-libp2p/pull/4970 and generally Yamux
-should have a higher performance now.
-
-I have resolved and cleaned up all deprecations related to libp2p except
-`BandwidthSinks`. Libp2p deprecated it (though it is still present in
-0.54.1, which is why I didn't handle it just yet). Ideally Substrate
-would finally [switch to the official Prometheus
-client](https://github.com/paritytech/substrate/issues/12699), in which
-case we'd get metrics for free. Otherwise a bit of code will need to be
-copy-pasted to maintain current behavior with `BandwidthSinks` gone,
-which I left a TODO about.
-
-The biggest change in 0.54.0 is
-https://github.com/libp2p/rust-libp2p/pull/4568 that changed transport
-APIs and enabled unconditional potential port reuse, which can lead to
-very confusing errors if running two Substrate nodes on the same machine
-without changing listening port explicitly.
-
-Overall nothing scary here, but testing is always appreciated.
-
-# Checklist
-
-* [x] My PR includes a detailed description as outlined in the
-"Description" and its two subsections above.
-* [x] My PR follows the [labeling requirements](
-
-https://github.com/paritytech/polkadot-sdk/blob/master/docs/contributor/CONTRIBUTING.md#Process
-) of this project (at minimum one label for `T` required)
-* External contributors: ask maintainers to put the right label on your
-PR.
-
----
-
-Polkadot Address: 1vSxzbyz2cJREAuVWjhXUT1ds8vBzoxn2w4asNpusQKwjJd
-
----------
-
-Co-authored-by: Dmitry Markin &lt;dmitry@markin.tech&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88d255c</div>
-                                        <div class="message">Fix flaky `build-runtimes-polkavm` CI job (#6893)
-
-The timeout was too low which made the job not finish in time sometimes:
-
-Hence:
-- Bumping the timeout to 60 minutes which is in line with other jobs
-which are building substantial parts of the repo.
-- Roll all the runtime builds into a single cargo invocation so that it
-aborts after the first failure. It also allows for more parallel
-compiling.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Dec 2024, 02:28:25</div>
                             </section>
                         </div>
                     </section>
