@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1597" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1947" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,149 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 84 commits in
+                                        <span class="repo">hack-ink/Grants-Program</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ffe8281</div>
+                                        <div class="message">Update grant_management_webapp.md (#2400)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9241db4</div>
+                                        <div class="message">Update index.md (#2399)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db34bad</div>
+                                        <div class="message">Update AgriDot.md (#2398)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d166ba1</div>
+                                        <div class="message">fix website</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5470ec</div>
+                                        <div class="message">Update index.md
+
+Add Web3 Association</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c89158</div>
+                                        <div class="message">Web3 Association - Open source contributor funding experiment setup (#2370)
+
+* Web3 Association - Open source contributor funding experiment proposal
+
+* Update proposal to only focus on the experiment setup
+
+* Add titles to milestones</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cb8046</div>
+                                        <div class="message">Amend DOT wallet address (#2395)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b65c47f</div>
+                                        <div class="message">Update team.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c1cfe3</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11b8dfc</div>
+                                        <div class="message">Create xcNFT.md (#2358)
+
+* Create xcNFT.md
+
+* Update xcNFT.md
+
+* Update xcNFT.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be218c2</div>
+                                        <div class="message">Update index.md
+
+Add AgriDot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b23eac</div>
+                                        <div class="message">Create AgriDot.md (#2379)
+
+* Create AgriDot.md
+
+* Update AgriDot.md
+
+* Update links and weather API
+
+* Update AgriDot.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e3ebeb</div>
+                                        <div class="message">sync funding opportunities (#2392)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#230c0fd</div>
+                                        <div class="message">index.js file in pages directory is optimized (#2390)
+
+* index.js file in pages directory is optimized
+
+* re-styled component and external stying removed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88b4c54</div>
+                                        <div class="message">Update index.md (#2383)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe26185</div>
+                                        <div class="message">Update index.md (#2381)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb6d0ab</div>
+                                        <div class="message">yarn upgrade</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d62be2</div>
+                                        <div class="message">update dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5d2ad5</div>
+                                        <div class="message">Amendment for Subcoin milestone3 (#2376)
+
+In light of recent developments, it has become evident that fully syncing
+to the tip of the Bitcoin network and enabling new nodes to perform fast
+sync to the latest Bitcoin state is more challenging than initially anticipated,
+caused by the huge state of UTXO set (over 12GiB). As a result, I propose
+adjusting the delivery goal for this milestone.
+
+The most significant known blocker is https://github.com/paritytech/polkadot-sdk/issues/4.
+Other underlying issues may also contribute to the difficulty. Recent experiments
+have shown that fast sync from around block height 580,000 is currently infeasible,
+succeeding only on machines with 128GiB of memory (https://github.com/paritytech/polkadot-sdk/issues/5053#issuecomment-2296043492),
+which is impractical for most users. Nevertheless, we have successfully demonstrated that
+decentralized fast sync is possible within a prototype implementation.
+
+While syncing to the Bitcoin network's tip remains a future target, addressing
+the existing technical challenges will require substantial R&amp;D efforts.
+We remain committed to exploring potential solutions, including architectural
+changes and contributing to resolving issue https://github.com/paritytech/polkadot-sdk/issues/4,</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3534287</div>
+                                        <div class="message">update the contacts (#2372)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Dec 2024, 11:48:00</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -477,23 +620,6 @@ cc @bkchr @ggwpez @kianenigma 🙏</div>
                                     <div>426 files changed <span class="code">++2642 --2635</span></div>
                                 </div>
                                 <div class="timestamp">19 Dec 2024, 15:11:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">reorder-keys</span>
-                                        in
-                                        <span class="repo">AurevoirXavier/polkadot-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Dec 2024, 15:08:41</div>
                             </section>
                         </div>
                     </section>
